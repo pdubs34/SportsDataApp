@@ -4,7 +4,7 @@
 
 namespace SportsDataApp.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class Initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -88,6 +88,11 @@ namespace SportsDataApp.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+                name: "IX_BaseballGame_SeasonId",
+                table: "BaseballGame",
+                column: "SeasonId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_Season_TeamId",
                 table: "Season",
                 column: "TeamId");
@@ -97,7 +102,6 @@ namespace SportsDataApp.Migrations
                 table: "Team",
                 column: "SportId");
         }
-
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
@@ -113,6 +117,5 @@ namespace SportsDataApp.Migrations
             migrationBuilder.DropTable(
                 name: "Sport");
         }
-
     }
 }

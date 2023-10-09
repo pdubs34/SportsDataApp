@@ -159,6 +159,23 @@ namespace SportsDataApp.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        public async Task<IActionResult> DeleteAll()
+        {
+            if (_context.Season == null)
+            {
+                return Problem("Entity set 'SportsDataAppContext.Team'  is null.");
+            }
+
+            var teamsToDelete = await _context.Team.ToListAsync();
+
+            foreach (var team in teamsToDelete)
+            {
+                _context.Team.Remove(team);
+            }
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
 
         private bool TeamExists(int id)
         {

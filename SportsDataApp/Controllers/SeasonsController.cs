@@ -160,6 +160,27 @@ namespace SportsDataApp.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteAll()
+        {
+            if (_context.Season == null)
+            {
+                return Problem("Entity set 'SportsDataAppContext.Season'  is null.");
+            }
+
+            var seasonsToDelete = await _context.Season.ToListAsync();
+
+            // Delete each season
+            foreach (var season in seasonsToDelete)
+            {
+                _context.Season.Remove(season);
+            }
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
         private bool SeasonExists(int id)
         {
           return (_context.Season?.Any(e => e.Id == id)).GetValueOrDefault();

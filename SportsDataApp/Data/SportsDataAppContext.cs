@@ -13,12 +13,10 @@ namespace SportsDataApp.Data
             : base(options)
         {
         }
-
+        public DbSet<SportsDataApp.Models.BaseballGame>? BaseballGame { get; set; }
         public DbSet<SportsDataApp.Models.Season> Season { get; set; } = default!;
 
         public DbSet<SportsDataApp.Models.Team>? Team { get; set; }
-
-        public DbSet<SportsDataApp.Models.BaseballGame>? BaseballGame { get; set; }
 
         public DbSet<SportsDataApp.Models.Sport>? Sport { get; set; }
     }

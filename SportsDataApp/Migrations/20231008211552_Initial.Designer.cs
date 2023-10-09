@@ -11,8 +11,8 @@ using SportsDataApp.Data;
 namespace SportsDataApp.Migrations
 {
     [DbContext(typeof(SportsDataAppContext))]
-    [Migration("20231008205426_fixTeam")]
-    partial class fixTeam
+    [Migration("20231008211552_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
