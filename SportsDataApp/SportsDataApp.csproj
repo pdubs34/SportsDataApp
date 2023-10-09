@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,7 +21,6 @@
   <ItemGroup>
     <Folder Include="Migrations\" />
     <Folder Include="PulledData\NBAData\" />
-    <Folder Include="PulledData\NFLData\" />
   </ItemGroup>
 
 </Project>

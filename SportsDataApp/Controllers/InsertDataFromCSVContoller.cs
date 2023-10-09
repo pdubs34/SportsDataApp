@@ -71,6 +71,28 @@ namespace SportsDataApp.Controllers
                     }
                 }
             }
+            var path2 = @"./PulledData/NFLData/NFLteams.csv";
+            using (TextFieldParser csvParser = new TextFieldParser(path2))
+            {
+                csvParser.SetDelimiters(new string[] { "," });
+                string dataSport = csvParser.ReadLine();
+                int? sportId = _context.Sport.
+                    Where(sport => sport.Name == dataSport).
+                    Select(sport => sport.Id).
+                    FirstOrDefault();
+
+                while (!csvParser.EndOfData)
+                {
+                    // Read current line fields, pointer moves to the next line.
+                    string[] fields = csvParser.ReadFields();
+                    string Abbrev = fields[0];
+                    string TName = fields[1];
+                    if (sportId != null)
+                    {
+                        teamToAdd.Add(new Team { Name = TName, Abbreviation = Abbrev, SportId = sportId.Value });
+                    }
+                }
+            }
             _context.Team.AddRange(teamToAdd);
 
             // Save changes to the database

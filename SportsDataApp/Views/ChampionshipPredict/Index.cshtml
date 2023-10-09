@@ -1,0 +1,71 @@
+﻿<canvas id="myPieChart" style="max-width: 800px; max-height: 400px;"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Get the data from ViewBag or ViewData
+    var data = @Html.Raw(Json.Serialize(ViewBag.Data));
+
+    // Define the ranges and corresponding labels
+    var ranges = [
+        { min: 0.50, max: 0.55, label: '0.50 - 0.55%' },
+        { min: 0.55, max: 0.60, label: '0.55 - 0.60%' },
+        { min: 0.60, max: 0.65, label: '0.60 - 0.65%' },
+        { min: 0.65, max: 0.70, label: '0.65 - 0.70%' },
+        { min: 0.70, max: 0.75, label: '0.70 - 0.75%' },
+        { min: 0.75, max: 1.00, label: '0.75 - 1.00%' }
+        // Add more ranges here
+    ];
+
+    // Initialize an array to store counts for each range
+    var rangeCounts = new Array(ranges.length).fill(0);
+
+    // Count the data points falling into each range
+    for (var i = 0; i < data.length; i++) {
+        if (data[i][1] === "W") { // Corrected the syntax here
+            var winPercent = parseFloat(data[i][0]);
+            for (var j = 0; j < ranges.length; j++) {
+                if (winPercent >= ranges[j].min && winPercent < ranges[j].max) {
+                    rangeCounts[j]++;
+                    break; // Data point belongs to only one range
+                }
+            }
+        }
+    }
+
+    // Create an array of labels and corresponding counts
+    var labels = ranges.map(range => range.label);
+    var values = rangeCounts;
+
+    // Create a new Chart instance for the pie chart
+    var ctx = document.getElementById('myPieChart').getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'pie', // Use a pie chart
+        data: {
+            labels: labels, // Labels for each range
+            datasets: [{
+                data: values, // Counts for each range
+                backgroundColor: [
+                    'rgba(255, 99, 132, 0.6)',
+                    'rgba(54, 162, 235, 0.6)',
+                    'rgba(255, 206, 86, 0.6)',
+                    'rgba(75, 192, 192, 0.6)',
+                    'rgba(153, 102, 255, 0.6)',
+                    'rgba(255, 159, 64, 0.6)'
+                ],
+                borderColor: [
+                    'rgba(255, 99, 132, 0.6)',
+                    'rgba(54, 162, 235, 0.6)',
+                    'rgba(255, 206, 86, 0.6)',
+                    'rgba(75, 192, 192, 0.6)',
+                    'rgba(153, 102, 255, 0.6)',
+                    'rgba(255, 159, 64, 0.6)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            // Add options as needed
+        }
+    });
+</script>
+
