@@ -1,4 +1,5 @@
-﻿<canvas id="myPieChart" style="max-width: 800px; max-height: 400px;"></canvas>
+﻿<h1>Amount of Championships based off RS Win-Percent</h1>
+<canvas id="myPieChart" style="max-width: 800px; max-height: 400px;"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
@@ -30,6 +31,21 @@
                 }
             }
         }
+    }
+    var rangeCounts2 = new Array(ranges.length).fill(0);
+    for (var i = 0; i < data.length; i++) {
+        var winPercent = parseFloat(data[i][0]);
+           for (var j = 0; j < ranges.length; j++) {
+                if (winPercent >= ranges[j].min && winPercent < ranges[j].max) {
+                    rangeCounts2[j]++;
+                    break; // Data point belongs to only one range
+                }
+           }
+    }
+    var percentages = new Array(ranges.length).fill(0);
+    for (var k = 0; k < rangeCounts.length; k++) {
+        percentages[k] = (rangeCounts[k] / rangeCounts2[k]);
+
     }
 
     // Create an array of labels and corresponding counts
@@ -67,5 +83,30 @@
             // Add options as needed
         }
     });
+</script>
+<h1>Percent of winners per range</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Range</th>
+            <th>Percentage</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    </tbody>
+</table>
+<script>
+    // Loop through your 'percentages' array and generate table rows
+    for (var i = 0; i < percentages.length; i++) {
+        var table = document.querySelector('table'); // Find the table element
+        var row = table.insertRow(-1); // Insert a new row at the end of the table
+        var cell1 = row.insertCell(0); // Insert cells for the Range and Percentage
+        var cell2 = row.insertCell(1);
+
+        // Populate the cells with data
+        cell1.textContent = ranges[i].label;
+        cell2.textContent = (percentages[i] * 100).toFixed(2) + ' %';
+    }
 </script>
 
