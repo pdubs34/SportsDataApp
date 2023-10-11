@@ -22,6 +22,9 @@
                 @Html.DisplayNameFor(model => model.losses)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.winPercent)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.outcome)
             </th>
             <th>
@@ -41,6 +44,9 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.losses)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.winPercent)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.outcome)

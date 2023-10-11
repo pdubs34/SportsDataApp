@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SportsDataApp.Data;
 
@@ -10,9 +11,10 @@ using SportsDataApp.Data;
 namespace SportsDataApp.Migrations
 {
     [DbContext(typeof(SportsDataAppContext))]
-    partial class SportsDataAppContextModelSnapshot : ModelSnapshot
+    [Migration("20231011174734_updateSeasons")]
+    partial class updateSeasons
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

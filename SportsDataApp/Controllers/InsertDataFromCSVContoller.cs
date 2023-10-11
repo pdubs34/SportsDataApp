@@ -119,6 +119,7 @@ namespace SportsDataApp.Controllers
                         string Abbrev = fields[1];
                         int Wins = int.Parse(fields[2]);
                         int Losses = int.Parse(fields[3]);
+                        double winPercent = double.Parse(fields[4]);
                         string Outcome = fields[5];
                         int? teamId = _context.Team
                             .Where(team => team.Abbreviation == Abbrev)
@@ -126,7 +127,7 @@ namespace SportsDataApp.Controllers
                             .FirstOrDefault();
                         if (teamId != null)
                         {
-                            seasonToAdd.Add(new Season { year = year, wins = Wins, losses = Losses, outcome = Outcome, TeamId = teamId.Value });
+                            seasonToAdd.Add(new Season { year = year, wins = Wins, losses = Losses, winPercent = winPercent,outcome = Outcome, TeamId = teamId.Value });
                         }
                     }
                    

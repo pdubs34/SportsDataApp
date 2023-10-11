@@ -57,7 +57,7 @@ namespace SportsDataApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,year,wins,losses,outcome,TeamId")] Season season)
+        public async Task<IActionResult> Create([Bind("Id,year,wins,losses,winPercent,outcome,TeamId")] Season season)
         {
             if (ModelState.IsValid)
             {
@@ -91,7 +91,7 @@ namespace SportsDataApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,year,wins,losses,outcome,TeamId")] Season season)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,year,wins,losses,winPercent,outcome,TeamId")] Season season)
         {
             if (id != season.Id)
             {
@@ -156,27 +156,6 @@ namespace SportsDataApp.Controllers
                 _context.Season.Remove(season);
             }
             
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteAll()
-        {
-            if (_context.Season == null)
-            {
-                return Problem("Entity set 'SportsDataAppContext.Season'  is null.");
-            }
-
-            var seasonsToDelete = await _context.Season.ToListAsync();
-
-            // Delete each season
-            foreach (var season in seasonsToDelete)
-            {
-                _context.Season.Remove(season);
-            }
-
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
