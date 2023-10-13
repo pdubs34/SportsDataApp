@@ -1,2336 +1,2337 @@
 ""
 Year
-2023,Arizona Cardinals,1,4,No
-2022,Arizona Cardinals,4,13,No
-2021,Arizona Cardinals*,11,6,L
-2020,Arizona Cardinals,8,8,No
-2019,Arizona Cardinals,5,10,No
-2018,Arizona Cardinals,3,13,No
-2017,Arizona Cardinals,8,8,No
-2016,Arizona Cardinals,7,8,No
-2015,Arizona Cardinals*,13,3,L
-2014,Arizona Cardinals*,11,5,L
-2013,Arizona Cardinals,10,6,No
-2012,Arizona Cardinals,5,11,No
-2011,Arizona Cardinals,8,8,No
-2010,Arizona Cardinals,5,11,No
-2009,Arizona Cardinals*,10,6,L
-2008,Arizona Cardinals*,9,7,L
-2007,Arizona Cardinals,8,8,No
-2006,Arizona Cardinals,5,11,No
-2005,Arizona Cardinals,5,11,No
-2004,Arizona Cardinals,6,10,No
-2003,Arizona Cardinals,4,12,No
-2002,Arizona Cardinals,5,11,No
-2001,Arizona Cardinals,7,9,No
-2000,Arizona Cardinals,3,13,No
-1999,Arizona Cardinals,6,10,No
-1998,Arizona Cardinals*,9,7,L
-1997,Arizona Cardinals,4,12,No
-1996,Arizona Cardinals,7,9,No
-1995,Arizona Cardinals,4,12,No
-1994,Arizona Cardinals,8,8,No
-""
-Year
-1993,Phoenix Cardinals,7,9,No
-1992,Phoenix Cardinals,4,12,No
-1991,Phoenix Cardinals,4,12,No
-1990,Phoenix Cardinals,5,11,No
-1989,Phoenix Cardinals,5,11,No
-1988,Phoenix Cardinals,7,9,No
-1987,St. Louis Cardinals,7,8,No
-1986,St. Louis Cardinals,4,11,No
-1985,St. Louis Cardinals,5,11,No
-1984,St. Louis Cardinals,9,7,No
-1983,St. Louis Cardinals,8,7,No
-1982,St. Louis Cardinals*,5,4,L
-1981,St. Louis Cardinals,7,9,No
-1980,St. Louis Cardinals,5,11,No
-1979,St. Louis Cardinals,5,11,No
-1978,St. Louis Cardinals,6,10,No
-1977,St. Louis Cardinals,7,7,No
-1976,St. Louis Cardinals,10,4,No
-1975,St. Louis Cardinals*,11,3,L
-1974,St. Louis Cardinals*,10,4,L
-1973,St. Louis Cardinals,4,9,No
-1972,St. Louis Cardinals,4,9,No
-1971,St. Louis Cardinals,4,9,No
-1970,St. Louis Cardinals,8,5,No
-1969,St. Louis Cardinals,4,9,No
-1968,St. Louis Cardinals,9,4,No
-1967,St. Louis Cardinals,6,7,No
-1966,St. Louis Cardinals,8,5,No
-1965,St. Louis Cardinals,5,9,No
-1964,St. Louis Cardinals,9,3,No
-""
-Year
-1963,St. Louis Cardinals,9,5,No
-1962,St. Louis Cardinals,4,9,No
-1961,St. Louis Cardinals,7,7,No
-1960,St. Louis Cardinals,6,5,No
-1959,Chicago Cardinals,2,10,No
-1958,Chicago Cardinals,2,9,No
-1957,Chicago Cardinals,3,9,No
-1956,Chicago Cardinals,7,5,No
-1955,Chicago Cardinals,4,7,No
-1954,Chicago Cardinals,2,10,No
-1953,Chicago Cardinals,1,10,No
-1952,Chicago Cardinals,4,8,No
-1951,Chicago Cardinals,3,9,No
-1950,Chicago Cardinals,5,7,No
-1949,Chicago Cardinals,6,5,No
-1948,Chicago Cardinals*,11,1,L
-1947,Chicago Cardinals*,9,3,W
-1946,Chicago Cardinals,6,5,No
-1945,Chicago Cardinals,1,9,No
-1944,Chi/Pit Cards/Steelers,0,10,No
-1943,Chicago Cardinals,0,10,No
-1942,Chicago Cardinals,3,8,No
-1941,Chicago Cardinals,3,7,No
-1940,Chicago Cardinals,2,7,No
-1939,Chicago Cardinals,1,10,No
-1938,Chicago Cardinals,2,9,No
-1937,Chicago Cardinals,5,5,No
-1936,Chicago Cardinals,3,8,No
-1935,Chicago Cardinals,6,4,No
-1934,Chicago Cardinals,5,6,No
-""
-Year
-1933,Chicago Cardinals,1,9,No
-1932,Chicago Cardinals,2,6,No
-1931,Chicago Cardinals,5,4,No
-1930,Chicago Cardinals,5,6,No
-1929,Chicago Cardinals,6,6,No
-1928,Chicago Cardinals,1,5,No
-1927,Chicago Cardinals,3,7,No
-1926,Chicago Cardinals,5,6,No
-1925,Chicago Cardinals,11,2,W
-1924,Chicago Cardinals,5,4,No
-1923,Chicago Cardinals,8,4,No
-1922,Chicago Cardinals,8,3,No
-1921,Chicago Cardinals,3,3,No
-1920,Chicago Cardinals,6,2,No
-""
-Year
-2023,Atlanta Falcons,3,2,No
-2022,Atlanta Falcons,7,10,No
-2021,Atlanta Falcons,7,10,No
-2020,Atlanta Falcons,4,12,No
-2019,Atlanta Falcons,7,9,No
-2018,Atlanta Falcons,7,9,No
-2017,Atlanta Falcons*,10,6,L
-2016,Atlanta Falcons*,11,5,L
-2015,Atlanta Falcons,8,8,No
-2014,Atlanta Falcons,6,10,No
-2013,Atlanta Falcons,4,12,No
-2012,Atlanta Falcons*,13,3,L
-2011,Atlanta Falcons*,10,6,L
-2010,Atlanta Falcons*,13,3,L
-2009,Atlanta Falcons,9,7,No
-2008,Atlanta Falcons*,11,5,L
-2007,Atlanta Falcons,4,12,No
-2006,Atlanta Falcons,7,9,No
-2005,Atlanta Falcons,8,8,No
-2004,Atlanta Falcons*,11,5,L
-2003,Atlanta Falcons,5,11,No
-2002,Atlanta Falcons*,9,6,L
-2001,Atlanta Falcons,7,9,No
-2000,Atlanta Falcons,4,12,No
-1999,Atlanta Falcons,5,11,No
-1998,Atlanta Falcons*,14,2,L
-1997,Atlanta Falcons,7,9,No
-1996,Atlanta Falcons,3,13,No
-1995,Atlanta Falcons*,9,7,L
-1994,Atlanta Falcons,7,9,No
-""
-Year
-1993,Atlanta Falcons,6,10,No
-1992,Atlanta Falcons,6,10,No
-1991,Atlanta Falcons*,10,6,L
-1990,Atlanta Falcons,5,11,No
-1989,Atlanta Falcons,3,13,No
-1988,Atlanta Falcons,5,11,No
-1987,Atlanta Falcons,3,12,No
-1986,Atlanta Falcons,7,8,No
-1985,Atlanta Falcons,4,12,No
-1984,Atlanta Falcons,4,12,No
-1983,Atlanta Falcons,7,9,No
-1982,Atlanta Falcons*,5,4,L
-1981,Atlanta Falcons,7,9,No
-1980,Atlanta Falcons*,12,4,L
-1979,Atlanta Falcons,6,10,No
-1978,Atlanta Falcons*,9,7,L
-1977,Atlanta Falcons,7,7,No
-1976,Atlanta Falcons,4,10,No
-1975,Atlanta Falcons,4,10,No
-1974,Atlanta Falcons,3,11,No
-1973,Atlanta Falcons,9,5,No
-1972,Atlanta Falcons,7,7,No
-1971,Atlanta Falcons,7,6,No
-1970,Atlanta Falcons,4,8,No
-1969,Atlanta Falcons,6,8,No
-1968,Atlanta Falcons,2,12,No
-1967,Atlanta Falcons,1,12,No
-1966,Atlanta Falcons,3,11,No
-""
-Year
-2023,Baltimore Ravens,3,2,No
-2022,Baltimore Ravens*,10,7,L
-2021,Baltimore Ravens,8,9,No
-2020,Baltimore Ravens*,11,5,L
-2019,Baltimore Ravens*,14,2,L
-2018,Baltimore Ravens*,10,6,L
-2017,Baltimore Ravens,9,7,No
-2016,Baltimore Ravens,8,8,No
-2015,Baltimore Ravens,5,11,No
-2014,Baltimore Ravens*,10,6,L
-2013,Baltimore Ravens,8,8,No
-2012,Baltimore Ravens*,10,6,W
-2011,Baltimore Ravens*,12,4,L
-2010,Baltimore Ravens*,12,4,L
-2009,Baltimore Ravens*,9,7,L
-2008,Baltimore Ravens*,11,5,L
-2007,Baltimore Ravens,5,11,No
-2006,Baltimore Ravens*,13,3,L
-2005,Baltimore Ravens,6,10,No
-2004,Baltimore Ravens,9,7,No
-2003,Baltimore Ravens*,10,6,L
-2002,Baltimore Ravens,7,9,No
-2001,Baltimore Ravens*,10,6,L
-2000,Baltimore Ravens*,12,4,W
-1999,Baltimore Ravens,8,8,No
-1998,Baltimore Ravens,6,10,No
-1997,Baltimore Ravens,6,9,No
-1996,Baltimore Ravens,4,12,No
-""
-Year
-2023,Buffalo Bills,3,2,No
-2022,Buffalo Bills*,13,3,L
-2021,Buffalo Bills*,11,6,L
-2020,Buffalo Bills*,13,3,L
-2019,Buffalo Bills*,10,6,L
-2018,Buffalo Bills,6,10,No
-2017,Buffalo Bills*,9,7,L
-2016,Buffalo Bills,7,9,No
-2015,Buffalo Bills,8,8,No
-2014,Buffalo Bills,9,7,No
-2013,Buffalo Bills,6,10,No
-2012,Buffalo Bills,6,10,No
-2011,Buffalo Bills,6,10,No
-2010,Buffalo Bills,4,12,No
-2009,Buffalo Bills,6,10,No
-2008,Buffalo Bills,7,9,No
-2007,Buffalo Bills,7,9,No
-2006,Buffalo Bills,7,9,No
-2005,Buffalo Bills,5,11,No
-2004,Buffalo Bills,9,7,No
-2003,Buffalo Bills,6,10,No
-2002,Buffalo Bills,8,8,No
-2001,Buffalo Bills,3,13,No
-2000,Buffalo Bills,8,8,No
-1999,Buffalo Bills*,11,5,L
-1998,Buffalo Bills*,10,6,L
-1997,Buffalo Bills,6,10,No
-1996,Buffalo Bills*,10,6,L
-1995,Buffalo Bills*,10,6,L
-1994,Buffalo Bills,7,9,No
-""
-Year
-1993,Buffalo Bills*,12,4,L
-1992,Buffalo Bills*,11,5,L
-1991,Buffalo Bills*,13,3,L
-1990,Buffalo Bills*,13,3,L
-1989,Buffalo Bills*,9,7,L
-1988,Buffalo Bills*,12,4,L
-1987,Buffalo Bills,7,8,No
-1986,Buffalo Bills,4,12,No
-1985,Buffalo Bills,2,14,No
-1984,Buffalo Bills,2,14,No
-1983,Buffalo Bills,8,8,No
-1982,Buffalo Bills,4,5,No
-1981,Buffalo Bills*,10,6,L
-1980,Buffalo Bills*,11,5,L
-1979,Buffalo Bills,7,9,No
-1978,Buffalo Bills,5,11,No
-1977,Buffalo Bills,3,11,No
-1976,Buffalo Bills,2,12,No
-1975,Buffalo Bills,8,6,No
-1974,Buffalo Bills*,9,5,L
-1973,Buffalo Bills,9,5,No
-1972,Buffalo Bills,4,9,No
-1971,Buffalo Bills,1,13,No
-1970,Buffalo Bills,3,10,No
-1969,Buffalo Bills,4,10,No
-1968,Buffalo Bills,1,12,No
-1967,Buffalo Bills,4,10,No
-1966,Buffalo Bills*,9,4,L
-1965,Buffalo Bills*,10,3,W
-1964,Buffalo Bills*,12,2,W
-""
-Year
-1963,Buffalo Bills*,7,6,L
-1962,Buffalo Bills,7,6,No
-1961,Buffalo Bills,6,8,No
-1960,Buffalo Bills,5,8,No
-""
-Year
-2023,Carolina Panthers,0,5,No
-2022,Carolina Panthers,7,10,No
-2021,Carolina Panthers,5,12,No
-2020,Carolina Panthers,5,11,No
-2019,Carolina Panthers,5,11,No
-2018,Carolina Panthers,7,9,No
-2017,Carolina Panthers*,11,5,L
-2016,Carolina Panthers,6,10,No
-2015,Carolina Panthers*,15,1,L
-2014,Carolina Panthers*,7,8,L
-2013,Carolina Panthers*,12,4,L
-2012,Carolina Panthers,7,9,No
-2011,Carolina Panthers,6,10,No
-2010,Carolina Panthers,2,14,No
-2009,Carolina Panthers,8,8,No
-2008,Carolina Panthers*,12,4,L
-2007,Carolina Panthers,7,9,No
-2006,Carolina Panthers,8,8,No
-2005,Carolina Panthers*,11,5,L
-2004,Carolina Panthers,7,9,No
-2003,Carolina Panthers*,11,5,L
-2002,Carolina Panthers,7,9,No
-2001,Carolina Panthers,1,15,No
-2000,Carolina Panthers,7,9,No
-1999,Carolina Panthers,8,8,No
-1998,Carolina Panthers,4,12,No
-1997,Carolina Panthers,7,9,No
-1996,Carolina Panthers*,12,4,L
-1995,Carolina Panthers,7,9,No
-""
-Year
-2023,Chicago Bears,1,4,No
-2022,Chicago Bears,3,14,No
-2021,Chicago Bears,6,11,No
-2020,Chicago Bears*,8,8,L
-2019,Chicago Bears,8,8,No
-2018,Chicago Bears*,12,4,L
-2017,Chicago Bears,5,11,No
-2016,Chicago Bears,3,13,No
-2015,Chicago Bears,6,10,No
-2014,Chicago Bears,5,11,No
-2013,Chicago Bears,8,8,No
-2012,Chicago Bears,10,6,No
-2011,Chicago Bears,8,8,No
-2010,Chicago Bears*,11,5,L
-2009,Chicago Bears,7,9,No
-2008,Chicago Bears,9,7,No
-2007,Chicago Bears,7,9,No
-2006,Chicago Bears*,13,3,L
-2005,Chicago Bears*,11,5,L
-2004,Chicago Bears,5,11,No
-2003,Chicago Bears,7,9,No
-2002,Chicago Bears,4,12,No
-2001,Chicago Bears*,13,3,L
-2000,Chicago Bears,5,11,No
-1999,Chicago Bears,6,10,No
-1998,Chicago Bears,4,12,No
-1997,Chicago Bears,4,12,No
-1996,Chicago Bears,7,9,No
-1995,Chicago Bears,9,7,No
-1994,Chicago Bears*,9,7,L
-""
-Year
-1993,Chicago Bears,7,9,No
-1992,Chicago Bears,5,11,No
-1991,Chicago Bears*,11,5,L
-1990,Chicago Bears*,11,5,L
-1989,Chicago Bears,6,10,No
-1988,Chicago Bears*,12,4,L
-1987,Chicago Bears*,11,4,L
-1986,Chicago Bears*,14,2,L
-1985,Chicago Bears*,15,1,W
-1984,Chicago Bears*,10,6,L
-1983,Chicago Bears,8,8,No
-1982,Chicago Bears,3,6,No
-1981,Chicago Bears,6,10,No
-1980,Chicago Bears,7,9,No
-1979,Chicago Bears*,10,6,L
-1978,Chicago Bears,7,9,No
-1977,Chicago Bears*,9,5,L
-1976,Chicago Bears,7,7,No
-1975,Chicago Bears,4,10,No
-1974,Chicago Bears,4,10,No
-1973,Chicago Bears,3,11,No
-1972,Chicago Bears,4,9,No
-1971,Chicago Bears,6,8,No
-1970,Chicago Bears,6,8,No
-1969,Chicago Bears,1,13,No
-1968,Chicago Bears,7,7,No
-1967,Chicago Bears,7,6,No
-1966,Chicago Bears,5,7,No
-1965,Chicago Bears,9,5,No
-1964,Chicago Bears,5,9,No
-""
-Year
-1963,Chicago Bears*,11,1,W
-1962,Chicago Bears,9,5,No
-1961,Chicago Bears,8,6,No
-1960,Chicago Bears,5,6,No
-1959,Chicago Bears,8,4,No
-1958,Chicago Bears,8,4,No
-1957,Chicago Bears,5,7,No
-1956,Chicago Bears*,9,2,L
-1955,Chicago Bears,8,4,No
-1954,Chicago Bears,8,4,No
-1953,Chicago Bears,3,8,No
-1952,Chicago Bears,5,7,No
-1951,Chicago Bears,7,5,No
-1950,Chicago Bears*,9,3,L
-1949,Chicago Bears,9,3,No
-1948,Chicago Bears,10,2,No
-1947,Chicago Bears,8,4,No
-1946,Chicago Bears*,8,2,W
-1945,Chicago Bears,3,7,No
-1944,Chicago Bears,6,3,No
-1943,Chicago Bears*,8,1,W
-1942,Chicago Bears*,11,0,L
-1941,Chicago Bears*,10,1,W
-1940,Chicago Bears*,8,3,W
-1939,Chicago Bears,8,3,No
-1938,Chicago Bears,6,5,No
-1937,Chicago Bears*,9,1,L
-1936,Chicago Bears,9,3,No
-1935,Chicago Bears,6,4,No
-1934,Chicago Bears*,13,0,L
-""
-Year
-1933,Chicago Bears*,10,2,W
-1932,Chicago Bears,7,1,W
-1931,Chicago Bears,8,5,No
-1930,Chicago Bears,9,4,No
-1929,Chicago Bears,4,9,No
-1928,Chicago Bears,7,5,No
-1927,Chicago Bears,9,3,No
-1926,Chicago Bears,12,1,No
-1925,Chicago Bears,9,5,No
-1924,Chicago Bears,6,1,No
-1923,Chicago Bears,9,2,No
-1922,Chicago Bears,9,3,No
-1921,Chicago Staleys,9,1,W
-1920,Decatur Staleys,10,1,No
-""
-Year
-2023,Cincinnati Bengals,2,3,No
-2022,Cincinnati Bengals*,12,4,L
-2021,Cincinnati Bengals*,10,7,L
-2020,Cincinnati Bengals,4,11,No
-2019,Cincinnati Bengals,2,14,No
-2018,Cincinnati Bengals,6,10,No
-2017,Cincinnati Bengals,7,9,No
-2016,Cincinnati Bengals,6,9,No
-2015,Cincinnati Bengals*,12,4,L
-2014,Cincinnati Bengals*,10,5,L
-2013,Cincinnati Bengals*,11,5,L
-2012,Cincinnati Bengals*,10,6,L
-2011,Cincinnati Bengals*,9,7,L
-2010,Cincinnati Bengals,4,12,No
-2009,Cincinnati Bengals*,10,6,L
-2008,Cincinnati Bengals,4,11,No
-2007,Cincinnati Bengals,7,9,No
-2006,Cincinnati Bengals,8,8,No
-2005,Cincinnati Bengals*,11,5,L
-2004,Cincinnati Bengals,8,8,No
-2003,Cincinnati Bengals,8,8,No
-2002,Cincinnati Bengals,2,14,No
-2001,Cincinnati Bengals,6,10,No
-2000,Cincinnati Bengals,4,12,No
-1999,Cincinnati Bengals,4,12,No
-1998,Cincinnati Bengals,3,13,No
-1997,Cincinnati Bengals,7,9,No
-1996,Cincinnati Bengals,8,8,No
-1995,Cincinnati Bengals,7,9,No
-1994,Cincinnati Bengals,3,13,No
-""
-Year
-1993,Cincinnati Bengals,3,13,No
-1992,Cincinnati Bengals,5,11,No
-1991,Cincinnati Bengals,3,13,No
-1990,Cincinnati Bengals*,9,7,L
-1989,Cincinnati Bengals,8,8,No
-1988,Cincinnati Bengals*,12,4,L
-1987,Cincinnati Bengals,4,11,No
-1986,Cincinnati Bengals,10,6,No
-1985,Cincinnati Bengals,7,9,No
-1984,Cincinnati Bengals,8,8,No
-1983,Cincinnati Bengals,7,9,No
-1982,Cincinnati Bengals*,7,2,L
-1981,Cincinnati Bengals*,12,4,L
-1980,Cincinnati Bengals,6,10,No
-1979,Cincinnati Bengals,4,12,No
-1978,Cincinnati Bengals,4,12,No
-1977,Cincinnati Bengals,8,6,No
-1976,Cincinnati Bengals,10,4,No
-1975,Cincinnati Bengals*,11,3,L
-1974,Cincinnati Bengals,7,7,No
-1973,Cincinnati Bengals*,10,4,L
-1972,Cincinnati Bengals,8,6,No
-1971,Cincinnati Bengals,4,10,No
-1970,Cincinnati Bengals*,8,6,L
-1969,Cincinnati Bengals,4,9,No
-1968,Cincinnati Bengals,3,11,No
-""
-Year
-2023,Cleveland Browns,2,2,No
-2022,Cleveland Browns,7,10,No
-2021,Cleveland Browns,8,9,No
-2020,Cleveland Browns*,11,5,L
-2019,Cleveland Browns,6,10,No
-2018,Cleveland Browns,7,8,No
-2017,Cleveland Browns,0,16,No
-2016,Cleveland Browns,1,15,No
-2015,Cleveland Browns,3,13,No
-2014,Cleveland Browns,7,9,No
-2013,Cleveland Browns,4,12,No
-2012,Cleveland Browns,5,11,No
-2011,Cleveland Browns,4,12,No
-2010,Cleveland Browns,5,11,No
-2009,Cleveland Browns,5,11,No
-2008,Cleveland Browns,4,12,No
-2007,Cleveland Browns,10,6,No
-2006,Cleveland Browns,4,12,No
-2005,Cleveland Browns,6,10,No
-2004,Cleveland Browns,4,12,No
-2003,Cleveland Browns,5,11,No
-2002,Cleveland Browns*,9,7,L
-2001,Cleveland Browns,7,9,No
-2000,Cleveland Browns,3,13,No
-1999,Cleveland Browns,2,14,No
-1995,Cleveland Browns,5,11,No
-1994,Cleveland Browns*,11,5,L
-1993,Cleveland Browns,7,9,No
-1992,Cleveland Browns,7,9,No
-1991,Cleveland Browns,6,10,No
-""
-Year
-1990,Cleveland Browns,3,13,No
-1989,Cleveland Browns*,9,6,L
-1988,Cleveland Browns*,10,6,L
-1987,Cleveland Browns*,10,5,L
-1986,Cleveland Browns*,12,4,L
-1985,Cleveland Browns*,8,8,L
-1984,Cleveland Browns,5,11,No
-1983,Cleveland Browns,9,7,No
-1982,Cleveland Browns*,4,5,L
-1981,Cleveland Browns,5,11,No
-1980,Cleveland Browns*,11,5,L
-1979,Cleveland Browns,9,7,No
-1978,Cleveland Browns,8,8,No
-1977,Cleveland Browns,6,8,No
-1976,Cleveland Browns,9,5,No
-1975,Cleveland Browns,3,11,No
-1974,Cleveland Browns,4,10,No
-1973,Cleveland Browns,7,5,No
-1972,Cleveland Browns*,10,4,L
-1971,Cleveland Browns*,9,5,L
-1970,Cleveland Browns,7,7,No
-1969,Cleveland Browns*,10,3,L
-1968,Cleveland Browns*,10,4,L
-1967,Cleveland Browns*,9,5,L
-1966,Cleveland Browns,9,5,No
-1965,Cleveland Browns*,11,3,L
-1964,Cleveland Browns*,10,3,W
-1963,Cleveland Browns,10,4,No
-1962,Cleveland Browns,7,6,No
-1961,Cleveland Browns,8,5,No
-""
-Year
-1960,Cleveland Browns,8,3,No
-1959,Cleveland Browns,7,5,No
-1958,Cleveland Browns*,9,3,L
-1957,Cleveland Browns*,9,2,L
-1956,Cleveland Browns,5,7,No
-1955,Cleveland Browns*,9,2,W
-1954,Cleveland Browns*,9,3,W
-1953,Cleveland Browns*,11,1,L
-1952,Cleveland Browns*,8,4,L
-1951,Cleveland Browns*,11,1,L
-1950,Cleveland Browns*,10,2,W
-1949,Cleveland Browns*,9,1,W
-1948,Cleveland Browns*,14,0,W
-1947,Cleveland Browns*,12,1,W
-1946,Cleveland Browns*,12,2,W
-""
-Year
-2023,Dallas Cowboys,3,2,No
-2022,Dallas Cowboys*,12,5,L
-2021,Dallas Cowboys*,12,5,L
-2020,Dallas Cowboys,6,10,No
-2019,Dallas Cowboys,8,8,No
-2018,Dallas Cowboys*,10,6,L
-2017,Dallas Cowboys,9,7,No
-2016,Dallas Cowboys*,13,3,L
-2015,Dallas Cowboys,4,12,No
-2014,Dallas Cowboys*,12,4,L
-2013,Dallas Cowboys,8,8,No
-2012,Dallas Cowboys,8,8,No
-2011,Dallas Cowboys,8,8,No
-2010,Dallas Cowboys,6,10,No
-2009,Dallas Cowboys*,11,5,L
-2008,Dallas Cowboys,9,7,No
-2007,Dallas Cowboys*,13,3,L
-2006,Dallas Cowboys*,9,7,L
-2005,Dallas Cowboys,9,7,No
-2004,Dallas Cowboys,6,10,No
-2003,Dallas Cowboys*,10,6,L
-2002,Dallas Cowboys,5,11,No
-2001,Dallas Cowboys,5,11,No
-2000,Dallas Cowboys,5,11,No
-1999,Dallas Cowboys*,8,8,L
-1998,Dallas Cowboys*,10,6,L
-1997,Dallas Cowboys,6,10,No
-1996,Dallas Cowboys*,10,6,L
-1995,Dallas Cowboys*,12,4,W
-1994,Dallas Cowboys*,12,4,L
-""
-Year
-1993,Dallas Cowboys*,12,4,W
-1992,Dallas Cowboys*,13,3,W
-1991,Dallas Cowboys*,11,5,L
-1990,Dallas Cowboys,7,9,No
-1989,Dallas Cowboys,1,15,No
-1988,Dallas Cowboys,3,13,No
-1987,Dallas Cowboys,7,8,No
-1986,Dallas Cowboys,7,9,No
-1985,Dallas Cowboys*,10,6,L
-1984,Dallas Cowboys,9,7,No
-1983,Dallas Cowboys*,12,4,L
-1982,Dallas Cowboys*,6,3,L
-1981,Dallas Cowboys*,12,4,L
-1980,Dallas Cowboys*,12,4,L
-1979,Dallas Cowboys*,11,5,L
-1978,Dallas Cowboys*,12,4,L
-1977,Dallas Cowboys*,12,2,W
-1976,Dallas Cowboys*,11,3,L
-1975,Dallas Cowboys*,10,4,L
-1974,Dallas Cowboys,8,6,No
-1973,Dallas Cowboys*,10,4,L
-1972,Dallas Cowboys*,10,4,L
-1971,Dallas Cowboys*,11,3,W
-1970,Dallas Cowboys*,10,4,L
-1969,Dallas Cowboys*,11,2,L
-1968,Dallas Cowboys*,12,2,L
-1967,Dallas Cowboys*,9,5,L
-1966,Dallas Cowboys*,10,3,L
-1965,Dallas Cowboys,7,7,No
-1964,Dallas Cowboys,5,8,No
-""
-Year
-1963,Dallas Cowboys,4,10,No
-1962,Dallas Cowboys,5,8,No
-1961,Dallas Cowboys,4,9,No
-1960,Dallas Cowboys,0,11,No
-""
-Year
-2023,Denver Broncos,1,4,No
-2022,Denver Broncos,5,12,No
-2021,Denver Broncos,7,10,No
-2020,Denver Broncos,5,11,No
-2019,Denver Broncos,7,9,No
-2018,Denver Broncos,6,10,No
-2017,Denver Broncos,5,11,No
-2016,Denver Broncos,9,7,No
-2015,Denver Broncos*,12,4,W
-2014,Denver Broncos*,12,4,L
-2013,Denver Broncos*,13,3,L
-2012,Denver Broncos*,13,3,L
-2011,Denver Broncos*,8,8,L
-2010,Denver Broncos,4,12,No
-2009,Denver Broncos,8,8,No
-2008,Denver Broncos,8,8,No
-2007,Denver Broncos,7,9,No
-2006,Denver Broncos,9,7,No
-2005,Denver Broncos*,13,3,L
-2004,Denver Broncos*,10,6,L
-2003,Denver Broncos*,10,6,L
-2002,Denver Broncos,9,7,No
-2001,Denver Broncos,8,8,No
-2000,Denver Broncos*,11,5,L
-1999,Denver Broncos,6,10,No
-1998,Denver Broncos*,14,2,W
-1997,Denver Broncos*,12,4,W
-1996,Denver Broncos*,13,3,L
-1995,Denver Broncos,8,8,No
-1994,Denver Broncos,7,9,No
-""
-Year
-1993,Denver Broncos*,9,7,L
-1992,Denver Broncos,8,8,No
-1991,Denver Broncos*,12,4,L
-1990,Denver Broncos,5,11,No
-1989,Denver Broncos*,11,5,L
-1988,Denver Broncos,8,8,No
-1987,Denver Broncos*,10,4,L
-1986,Denver Broncos*,11,5,L
-1985,Denver Broncos,11,5,No
-1984,Denver Broncos*,13,3,L
-1983,Denver Broncos*,9,7,L
-1982,Denver Broncos,2,7,No
-1981,Denver Broncos,10,6,No
-1980,Denver Broncos,8,8,No
-1979,Denver Broncos*,10,6,L
-1978,Denver Broncos*,10,6,L
-1977,Denver Broncos*,12,2,L
-1976,Denver Broncos,9,5,No
-1975,Denver Broncos,6,8,No
-1974,Denver Broncos,7,6,No
-1973,Denver Broncos,7,5,No
-1972,Denver Broncos,5,9,No
-1971,Denver Broncos,4,9,No
-1970,Denver Broncos,5,8,No
-1969,Denver Broncos,5,8,No
-1968,Denver Broncos,5,9,No
-1967,Denver Broncos,3,11,No
-1966,Denver Broncos,4,10,No
-1965,Denver Broncos,4,10,No
-1964,Denver Broncos,2,11,No
-""
-Year
-1963,Denver Broncos,2,11,No
-1962,Denver Broncos,7,7,No
-1961,Denver Broncos,3,11,No
-1960,Denver Broncos,4,9,No
-""
-Year
-2023,Detroit Lions,4,1,No
-2022,Detroit Lions,9,8,No
-2021,Detroit Lions,3,13,No
-2020,Detroit Lions,5,11,No
-2019,Detroit Lions,3,12,No
-2018,Detroit Lions,6,10,No
-2017,Detroit Lions,9,7,No
-2016,Detroit Lions*,9,7,L
-2015,Detroit Lions,7,9,No
-2014,Detroit Lions*,11,5,L
-2013,Detroit Lions,7,9,No
-2012,Detroit Lions,4,12,No
-2011,Detroit Lions*,10,6,L
-2010,Detroit Lions,6,10,No
-2009,Detroit Lions,2,14,No
-2008,Detroit Lions,0,16,No
-2007,Detroit Lions,7,9,No
-2006,Detroit Lions,3,13,No
-2005,Detroit Lions,5,11,No
-2004,Detroit Lions,6,10,No
-2003,Detroit Lions,5,11,No
-2002,Detroit Lions,3,13,No
-2001,Detroit Lions,2,14,No
-2000,Detroit Lions,9,7,No
-1999,Detroit Lions*,8,8,L
-1998,Detroit Lions,5,11,No
-1997,Detroit Lions*,9,7,L
-1996,Detroit Lions,5,11,No
-1995,Detroit Lions*,10,6,L
-1994,Detroit Lions*,9,7,L
-""
-Year
-1993,Detroit Lions*,10,6,L
-1992,Detroit Lions,5,11,No
-1991,Detroit Lions*,12,4,L
-1990,Detroit Lions,6,10,No
-1989,Detroit Lions,7,9,No
-1988,Detroit Lions,4,12,No
-1987,Detroit Lions,4,11,No
-1986,Detroit Lions,5,11,No
-1985,Detroit Lions,7,9,No
-1984,Detroit Lions,4,11,No
-1983,Detroit Lions*,9,7,L
-1982,Detroit Lions*,4,5,L
-1981,Detroit Lions,8,8,No
-1980,Detroit Lions,9,7,No
-1979,Detroit Lions,2,14,No
-1978,Detroit Lions,7,9,No
-1977,Detroit Lions,6,8,No
-1976,Detroit Lions,6,8,No
-1975,Detroit Lions,7,7,No
-1974,Detroit Lions,7,7,No
-1973,Detroit Lions,6,7,No
-1972,Detroit Lions,8,5,No
-1971,Detroit Lions,7,6,No
-1970,Detroit Lions*,10,4,L
-1969,Detroit Lions,9,4,No
-1968,Detroit Lions,4,8,No
-1967,Detroit Lions,5,7,No
-1966,Detroit Lions,4,9,No
-1965,Detroit Lions,6,7,No
-1964,Detroit Lions,7,5,No
-""
-Year
-1963,Detroit Lions,5,8,No
-1962,Detroit Lions,11,3,No
-1961,Detroit Lions,8,5,No
-1960,Detroit Lions,7,5,No
-1959,Detroit Lions,3,8,No
-1958,Detroit Lions,4,7,No
-1957,Detroit Lions*,8,4,W
-1956,Detroit Lions,9,3,No
-1955,Detroit Lions,3,9,No
-1954,Detroit Lions*,9,2,L
-1953,Detroit Lions*,10,2,W
-1952,Detroit Lions*,9,3,W
-1951,Detroit Lions,7,4,No
-1950,Detroit Lions,6,6,No
-1949,Detroit Lions,4,8,No
-1948,Detroit Lions,2,10,No
-1947,Detroit Lions,3,9,No
-1946,Detroit Lions,1,10,No
-1945,Detroit Lions,7,3,No
-1944,Detroit Lions,6,3,No
-1943,Detroit Lions,3,6,No
-1942,Detroit Lions,0,11,No
-1941,Detroit Lions,4,6,No
-1940,Detroit Lions,5,5,No
-1939,Detroit Lions,6,5,No
-1938,Detroit Lions,7,4,No
-1937,Detroit Lions,7,4,No
-1936,Detroit Lions,8,4,No
-1935,Detroit Lions*,7,3,W
-1934,Detroit Lions,10,3,No
-""
-Year
-1933,Portsmouth Spartans,6,5,No
-1932,Portsmouth Spartans,6,2,No
-1931,Portsmouth Spartans,11,3,No
-1930,Portsmouth Spartans,5,6,No
-""
-Year
-2023,Green Bay Packers,2,3,No
-2022,Green Bay Packers,8,9,No
-2021,Green Bay Packers*,13,4,L
-2020,Green Bay Packers*,13,3,L
-2019,Green Bay Packers*,13,3,L
-2018,Green Bay Packers,6,9,No
-2017,Green Bay Packers,7,9,No
-2016,Green Bay Packers*,10,6,L
-2015,Green Bay Packers*,10,6,L
-2014,Green Bay Packers*,12,4,L
-2013,Green Bay Packers*,8,7,L
-2012,Green Bay Packers*,11,5,L
-2011,Green Bay Packers*,15,1,L
-2010,Green Bay Packers*,10,6,W
-2009,Green Bay Packers*,11,5,L
-2008,Green Bay Packers,6,10,No
-2007,Green Bay Packers*,13,3,L
-2006,Green Bay Packers,8,8,No
-2005,Green Bay Packers,4,12,No
-2004,Green Bay Packers*,10,6,L
-2003,Green Bay Packers*,10,6,L
-2002,Green Bay Packers*,12,4,L
-2001,Green Bay Packers*,12,4,L
-2000,Green Bay Packers,9,7,No
-1999,Green Bay Packers,8,8,No
-1998,Green Bay Packers*,11,5,L
-1997,Green Bay Packers*,13,3,L
-1996,Green Bay Packers*,13,3,W
-1995,Green Bay Packers*,11,5,L
-1994,Green Bay Packers*,9,7,L
-""
-Year
-1993,Green Bay Packers*,9,7,L
-1992,Green Bay Packers,9,7,No
-1991,Green Bay Packers,4,12,No
-1990,Green Bay Packers,6,10,No
-1989,Green Bay Packers,10,6,No
-1988,Green Bay Packers,4,12,No
-1987,Green Bay Packers,5,9,No
-1986,Green Bay Packers,4,12,No
-1985,Green Bay Packers,8,8,No
-1984,Green Bay Packers,8,8,No
-1983,Green Bay Packers,8,8,No
-1982,Green Bay Packers*,5,3,L
-1981,Green Bay Packers,8,8,No
-1980,Green Bay Packers,5,10,No
-1979,Green Bay Packers,5,11,No
-1978,Green Bay Packers,8,7,No
-1977,Green Bay Packers,4,10,No
-1976,Green Bay Packers,5,9,No
-1975,Green Bay Packers,4,10,No
-1974,Green Bay Packers,6,8,No
-1973,Green Bay Packers,5,7,No
-1972,Green Bay Packers*,10,4,L
-1971,Green Bay Packers,4,8,No
-1970,Green Bay Packers,6,8,No
-1969,Green Bay Packers,8,6,No
-1968,Green Bay Packers,6,7,No
-1967,Green Bay Packers*,9,4,W
-1966,Green Bay Packers*,12,2,W
-1965,Green Bay Packers*,10,3,W
-1964,Green Bay Packers,8,5,No
-""
-Year
-1963,Green Bay Packers,11,2,No
-1962,Green Bay Packers*,13,1,W
-1961,Green Bay Packers*,11,3,W
-1960,Green Bay Packers*,8,4,L
-1959,Green Bay Packers,7,5,No
-1958,Green Bay Packers,1,10,No
-1957,Green Bay Packers,3,9,No
-1956,Green Bay Packers,4,8,No
-1955,Green Bay Packers,6,6,No
-1954,Green Bay Packers,4,8,No
-1953,Green Bay Packers,2,9,No
-1952,Green Bay Packers,6,6,No
-1951,Green Bay Packers,3,9,No
-1950,Green Bay Packers,3,9,No
-1949,Green Bay Packers,2,10,No
-1948,Green Bay Packers,3,9,No
-1947,Green Bay Packers,6,5,No
-1946,Green Bay Packers,6,5,No
-1945,Green Bay Packers,6,4,No
-1944,Green Bay Packers*,8,2,W
-1943,Green Bay Packers,7,2,No
-1942,Green Bay Packers,8,2,No
-1941,Green Bay Packers*,10,1,L
-1940,Green Bay Packers,6,4,No
-1939,Green Bay Packers*,9,2,W
-1938,Green Bay Packers*,8,3,L
-1937,Green Bay Packers,7,4,No
-1936,Green Bay Packers*,10,1,W
-1935,Green Bay Packers,8,4,No
-1934,Green Bay Packers,7,6,No
-""
-Year
-1933,Green Bay Packers,5,7,No
-1932,Green Bay Packers,10,3,No
-1931,Green Bay Packers,12,2,W
-1930,Green Bay Packers,10,3,W
-1929,Green Bay Packers,12,0,W
-1928,Green Bay Packers,6,4,No
-1927,Green Bay Packers,7,2,No
-1926,Green Bay Packers,7,3,No
-1925,Green Bay Packers,8,5,No
-1924,Green Bay Packers,7,4,No
-1923,Green Bay Packers,7,2,No
-1922,Green Bay Packers,4,3,No
-1921,Green Bay Packers,3,2,No
-""
-Year
-2023,Houston Texans,2,3,No
-2022,Houston Texans,3,13,No
-2021,Houston Texans,4,13,No
-2020,Houston Texans,4,12,No
-2019,Houston Texans*,10,6,L
-2018,Houston Texans*,11,5,L
-2017,Houston Texans,4,12,No
-2016,Houston Texans*,9,7,L
-2015,Houston Texans*,9,7,L
-2014,Houston Texans,9,7,No
-2013,Houston Texans,2,14,No
-2012,Houston Texans*,12,4,L
-2011,Houston Texans*,10,6,L
-2010,Houston Texans,6,10,No
-2009,Houston Texans,9,7,No
-2008,Houston Texans,8,8,No
-2007,Houston Texans,8,8,No
-2006,Houston Texans,6,10,No
-2005,Houston Texans,2,14,No
-2004,Houston Texans,7,9,No
-2003,Houston Texans,5,11,No
-2002,Houston Texans,4,12,No
-""
-Year
-2023,Indianapolis Colts,3,2,No
-2022,Indianapolis Colts,4,12,No
-2021,Indianapolis Colts,9,8,No
-2020,Indianapolis Colts*,11,5,L
-2019,Indianapolis Colts,7,9,No
-2018,Indianapolis Colts*,10,6,L
-2017,Indianapolis Colts,4,12,No
-2016,Indianapolis Colts,8,8,No
-2015,Indianapolis Colts,8,8,No
-2014,Indianapolis Colts*,11,5,L
-2013,Indianapolis Colts*,11,5,L
-2012,Indianapolis Colts*,11,5,L
-2011,Indianapolis Colts,2,14,No
-2010,Indianapolis Colts*,10,6,L
-2009,Indianapolis Colts*,14,2,L
-2008,Indianapolis Colts*,12,4,L
-2007,Indianapolis Colts*,13,3,L
-2006,Indianapolis Colts*,12,4,W
-2005,Indianapolis Colts*,14,2,L
-2004,Indianapolis Colts*,12,4,L
-2003,Indianapolis Colts*,12,4,L
-2002,Indianapolis Colts*,10,6,L
-2001,Indianapolis Colts,6,10,No
-2000,Indianapolis Colts*,10,6,L
-1999,Indianapolis Colts*,13,3,L
-1998,Indianapolis Colts,3,13,No
-1997,Indianapolis Colts,3,13,No
-1996,Indianapolis Colts*,9,7,L
-1995,Indianapolis Colts*,9,7,L
-1994,Indianapolis Colts,8,8,No
-""
-Year
-1993,Indianapolis Colts,4,12,No
-1992,Indianapolis Colts,9,7,No
-1991,Indianapolis Colts,1,15,No
-1990,Indianapolis Colts,7,9,No
-1989,Indianapolis Colts,8,8,No
-1988,Indianapolis Colts,9,7,No
-1987,Indianapolis Colts*,9,6,L
-1986,Indianapolis Colts,3,13,No
-1985,Indianapolis Colts,5,11,No
-1984,Indianapolis Colts,4,12,No
-1983,Baltimore Colts,7,9,No
-1982,Baltimore Colts,0,8,No
-1981,Baltimore Colts,2,14,No
-1980,Baltimore Colts,7,9,No
-1979,Baltimore Colts,5,11,No
-1978,Baltimore Colts,5,11,No
-1977,Baltimore Colts*,10,4,L
-1976,Baltimore Colts*,11,3,L
-1975,Baltimore Colts*,10,4,L
-1974,Baltimore Colts,2,12,No
-1973,Baltimore Colts,4,10,No
-1972,Baltimore Colts,5,9,No
-1971,Baltimore Colts*,10,4,L
-1970,Baltimore Colts*,11,2,W
-1969,Baltimore Colts,8,5,No
-1968,Baltimore Colts*,13,1,L
-1967,Baltimore Colts,11,1,No
-1966,Baltimore Colts,9,5,No
-1965,Baltimore Colts*,10,3,L
-1964,Baltimore Colts*,12,2,L
-""
-Year
-1963,Baltimore Colts,8,6,No
-1962,Baltimore Colts,7,7,No
-1961,Baltimore Colts,8,6,No
-1960,Baltimore Colts,6,6,No
-1959,Baltimore Colts*,9,3,W
-1958,Baltimore Colts*,9,3,W
-1957,Baltimore Colts,7,5,No
-1956,Baltimore Colts,5,7,No
-1955,Baltimore Colts,5,6,No
-1954,Baltimore Colts,3,9,No
-1953,Baltimore Colts,3,9,No
-""
-Year
-2023,Jacksonville Jaguars,3,2,No
-2022,Jacksonville Jaguars*,9,8,L
-2021,Jacksonville Jaguars,3,14,No
-2020,Jacksonville Jaguars,1,15,No
-2019,Jacksonville Jaguars,6,10,No
-2018,Jacksonville Jaguars,5,11,No
-2017,Jacksonville Jaguars*,10,6,L
-2016,Jacksonville Jaguars,3,13,No
-2015,Jacksonville Jaguars,5,11,No
-2014,Jacksonville Jaguars,3,13,No
-2013,Jacksonville Jaguars,4,12,No
-2012,Jacksonville Jaguars,2,14,No
-2011,Jacksonville Jaguars,5,11,No
-2010,Jacksonville Jaguars,8,8,No
-2009,Jacksonville Jaguars,7,9,No
-2008,Jacksonville Jaguars,5,11,No
-2007,Jacksonville Jaguars*,11,5,L
-2006,Jacksonville Jaguars,8,8,No
-2005,Jacksonville Jaguars*,12,4,L
-2004,Jacksonville Jaguars,9,7,No
-2003,Jacksonville Jaguars,5,11,No
-2002,Jacksonville Jaguars,6,10,No
-2001,Jacksonville Jaguars,6,10,No
-2000,Jacksonville Jaguars,7,9,No
-1999,Jacksonville Jaguars*,14,2,L
-1998,Jacksonville Jaguars*,11,5,L
-1997,Jacksonville Jaguars*,11,5,L
-1996,Jacksonville Jaguars*,9,7,L
-1995,Jacksonville Jaguars,4,12,No
-""
-Year
-2023,Kansas City Chiefs,4,1,No
-2022,Kansas City Chiefs*,14,3,W
-2021,Kansas City Chiefs*,12,5,L
-2020,Kansas City Chiefs*,14,2,L
-2019,Kansas City Chiefs*,12,4,W
-2018,Kansas City Chiefs*,12,4,L
-2017,Kansas City Chiefs*,10,6,L
-2016,Kansas City Chiefs*,12,4,L
-2015,Kansas City Chiefs*,11,5,L
-2014,Kansas City Chiefs,9,7,No
-2013,Kansas City Chiefs*,11,5,L
-2012,Kansas City Chiefs,2,14,No
-2011,Kansas City Chiefs,7,9,No
-2010,Kansas City Chiefs*,10,6,L
-2009,Kansas City Chiefs,4,12,No
-2008,Kansas City Chiefs,2,14,No
-2007,Kansas City Chiefs,4,12,No
-2006,Kansas City Chiefs*,9,7,L
-2005,Kansas City Chiefs,10,6,No
-2004,Kansas City Chiefs,7,9,No
-2003,Kansas City Chiefs*,13,3,L
-2002,Kansas City Chiefs,8,8,No
-2001,Kansas City Chiefs,6,10,No
-2000,Kansas City Chiefs,7,9,No
-1999,Kansas City Chiefs,9,7,No
-1998,Kansas City Chiefs,7,9,No
-1997,Kansas City Chiefs*,13,3,L
-1996,Kansas City Chiefs,9,7,No
-1995,Kansas City Chiefs*,13,3,L
-1994,Kansas City Chiefs*,9,7,L
-""
-Year
-1993,Kansas City Chiefs*,11,5,L
-1992,Kansas City Chiefs*,10,6,L
-1991,Kansas City Chiefs*,10,6,L
-1990,Kansas City Chiefs*,11,5,L
-1989,Kansas City Chiefs,8,7,No
-1988,Kansas City Chiefs,4,11,No
-1987,Kansas City Chiefs,4,11,No
-1986,Kansas City Chiefs*,10,6,L
-1985,Kansas City Chiefs,6,10,No
-1984,Kansas City Chiefs,8,8,No
-1983,Kansas City Chiefs,6,10,No
-1982,Kansas City Chiefs,3,6,No
-1981,Kansas City Chiefs,9,7,No
-1980,Kansas City Chiefs,8,8,No
-1979,Kansas City Chiefs,7,9,No
-1978,Kansas City Chiefs,4,12,No
-1977,Kansas City Chiefs,2,12,No
-1976,Kansas City Chiefs,5,9,No
-1975,Kansas City Chiefs,5,9,No
-1974,Kansas City Chiefs,5,9,No
-1973,Kansas City Chiefs,7,5,No
-1972,Kansas City Chiefs,8,6,No
-1971,Kansas City Chiefs*,10,3,L
-1970,Kansas City Chiefs,7,5,No
-1969,Kansas City Chiefs*,11,3,W
-1968,Kansas City Chiefs*,12,2,L
-1967,Kansas City Chiefs,9,5,No
-1966,Kansas City Chiefs*,11,2,L
-1965,Kansas City Chiefs,7,5,No
-1964,Kansas City Chiefs,7,7,No
-""
-Year
-1963,Kansas City Chiefs,5,7,No
-1962,Dallas Texans*,11,3,W
-1961,Dallas Texans,6,8,No
-1960,Dallas Texans,8,6,No
-""
-Year
-2023,Los Angeles Chargers,2,2,No
-2022,Los Angeles Chargers*,10,7,L
-2021,Los Angeles Chargers,9,8,No
-2020,Los Angeles Chargers,7,9,No
-2019,Los Angeles Chargers,5,11,No
-2018,Los Angeles Chargers*,12,4,L
-2017,Los Angeles Chargers,9,7,No
-2016,San Diego Chargers,5,11,No
-2015,San Diego Chargers,4,12,No
-2014,San Diego Chargers,9,7,No
-2013,San Diego Chargers*,9,7,L
-2012,San Diego Chargers,7,9,No
-2011,San Diego Chargers,8,8,No
-2010,San Diego Chargers,9,7,No
-2009,San Diego Chargers*,13,3,L
-2008,San Diego Chargers*,8,8,L
-2007,San Diego Chargers*,11,5,L
-2006,San Diego Chargers*,14,2,L
-2005,San Diego Chargers,9,7,No
-2004,San Diego Chargers*,12,4,L
-2003,San Diego Chargers,4,12,No
-2002,San Diego Chargers,8,8,No
-2001,San Diego Chargers,5,11,No
-2000,San Diego Chargers,1,15,No
-1999,San Diego Chargers,8,8,No
-1998,San Diego Chargers,5,11,No
-1997,San Diego Chargers,4,12,No
-1996,San Diego Chargers,8,8,No
-1995,San Diego Chargers*,9,7,L
-1994,San Diego Chargers*,11,5,L
-""
-Year
-1993,San Diego Chargers,8,8,No
-1992,San Diego Chargers*,11,5,L
-1991,San Diego Chargers,4,12,No
-1990,San Diego Chargers,6,10,No
-1989,San Diego Chargers,6,10,No
-1988,San Diego Chargers,6,10,No
-1987,San Diego Chargers,8,7,No
-1986,San Diego Chargers,4,12,No
-1985,San Diego Chargers,8,8,No
-1984,San Diego Chargers,7,9,No
-1983,San Diego Chargers,6,10,No
-1982,San Diego Chargers*,6,3,L
-1981,San Diego Chargers*,10,6,L
-1980,San Diego Chargers*,11,5,L
-1979,San Diego Chargers*,12,4,L
-1978,San Diego Chargers,9,7,No
-1977,San Diego Chargers,7,7,No
-1976,San Diego Chargers,6,8,No
-1975,San Diego Chargers,2,12,No
-1974,San Diego Chargers,5,9,No
-1973,San Diego Chargers,2,11,No
-1972,San Diego Chargers,4,9,No
-1971,San Diego Chargers,6,8,No
-1970,San Diego Chargers,5,6,No
-1969,San Diego Chargers,8,6,No
-1968,San Diego Chargers,9,5,No
-1967,San Diego Chargers,8,5,No
-1966,San Diego Chargers,7,6,No
-1965,San Diego Chargers*,9,2,L
-1964,San Diego Chargers*,8,5,L
-""
-Year
-1963,San Diego Chargers*,11,3,W
-1962,San Diego Chargers,4,10,No
-1961,San Diego Chargers*,12,2,L
-1960,Los Angeles Chargers*,10,4,L
-""
-Year
-2023,Los Angeles Rams,2,3,No
-2022,Los Angeles Rams,5,12,No
-2021,Los Angeles Rams*,12,5,W
-2020,Los Angeles Rams*,10,6,L
-2019,Los Angeles Rams,9,7,No
-2018,Los Angeles Rams*,13,3,L
-2017,Los Angeles Rams*,11,5,L
-2016,Los Angeles Rams,4,12,No
-2015,St. Louis Rams,7,9,No
-2014,St. Louis Rams,6,10,No
-2013,St. Louis Rams,7,9,No
-2012,St. Louis Rams,7,8,No
-2011,St. Louis Rams,2,14,No
-2010,St. Louis Rams,7,9,No
-2009,St. Louis Rams,1,15,No
-2008,St. Louis Rams,2,14,No
-2007,St. Louis Rams,3,13,No
-2006,St. Louis Rams,8,8,No
-2005,St. Louis Rams,6,10,No
-2004,St. Louis Rams*,8,8,L
-2003,St. Louis Rams*,12,4,L
-2002,St. Louis Rams,7,9,No
-2001,St. Louis Rams*,14,2,L
-2000,St. Louis Rams*,10,6,L
-1999,St. Louis Rams*,13,3,W
-1998,St. Louis Rams,4,12,No
-1997,St. Louis Rams,5,11,No
-1996,St. Louis Rams,6,10,No
-1995,St. Louis Rams,7,9,No
-1994,Los Angeles Rams,4,12,No
-""
-Year
-1993,Los Angeles Rams,5,11,No
-1992,Los Angeles Rams,6,10,No
-1991,Los Angeles Rams,3,13,No
-1990,Los Angeles Rams,5,11,No
-1989,Los Angeles Rams*,11,5,L
-1988,Los Angeles Rams*,10,6,L
-1987,Los Angeles Rams,6,9,No
-1986,Los Angeles Rams*,10,6,L
-1985,Los Angeles Rams*,11,5,L
-1984,Los Angeles Rams*,10,6,L
-1983,Los Angeles Rams*,9,7,L
-1982,Los Angeles Rams,2,7,No
-1981,Los Angeles Rams,6,10,No
-1980,Los Angeles Rams*,11,5,L
-1979,Los Angeles Rams*,9,7,L
-1978,Los Angeles Rams*,12,4,L
-1977,Los Angeles Rams*,10,4,L
-1976,Los Angeles Rams*,10,3,L
-1975,Los Angeles Rams*,12,2,L
-1974,Los Angeles Rams*,10,4,L
-1973,Los Angeles Rams*,12,2,L
-1972,Los Angeles Rams,6,7,No
-1971,Los Angeles Rams,8,5,No
-1970,Los Angeles Rams,9,4,No
-1969,Los Angeles Rams*,11,3,L
-1968,Los Angeles Rams,10,3,No
-1967,Los Angeles Rams*,11,1,L
-1966,Los Angeles Rams,8,6,No
-1965,Los Angeles Rams,4,10,No
-1964,Los Angeles Rams,5,7,No
-""
-Year
-1963,Los Angeles Rams,5,9,No
-1962,Los Angeles Rams,1,12,No
-1961,Los Angeles Rams,4,10,No
-1960,Los Angeles Rams,4,7,No
-1959,Los Angeles Rams,2,10,No
-1958,Los Angeles Rams,8,4,No
-1957,Los Angeles Rams,6,6,No
-1956,Los Angeles Rams,4,8,No
-1955,Los Angeles Rams*,8,3,L
-1954,Los Angeles Rams,6,5,No
-1953,Los Angeles Rams,8,3,No
-1952,Los Angeles Rams*,9,3,L
-1951,Los Angeles Rams*,8,4,W
-1950,Los Angeles Rams*,9,3,L
-1949,Los Angeles Rams*,8,2,L
-1948,Los Angeles Rams,6,5,No
-1947,Los Angeles Rams,6,6,No
-1946,Los Angeles Rams,6,4,No
-1945,Cleveland Rams*,9,1,W
-1944,Cleveland Rams,4,6,No
-1942,Cleveland Rams,5,6,No
-1941,Cleveland Rams,2,9,No
-1940,Cleveland Rams,4,6,No
-1939,Cleveland Rams,5,5,No
-1938,Cleveland Rams,4,7,No
-1937,Cleveland Rams,1,10,No
-""
-Year
-2023,Las Vegas Raiders,2,3,No
-2022,Las Vegas Raiders,6,11,No
-2021,Las Vegas Raiders*,10,7,L
-2020,Las Vegas Raiders,8,8,No
-2019,Oakland Raiders,7,9,No
-2018,Oakland Raiders,4,12,No
-2017,Oakland Raiders,6,10,No
-2016,Oakland Raiders*,12,4,L
-2015,Oakland Raiders,7,9,No
-2014,Oakland Raiders,3,13,No
-2013,Oakland Raiders,4,12,No
-2012,Oakland Raiders,4,12,No
-2011,Oakland Raiders,8,8,No
-2010,Oakland Raiders,8,8,No
-2009,Oakland Raiders,5,11,No
-2008,Oakland Raiders,5,11,No
-2007,Oakland Raiders,4,12,No
-2006,Oakland Raiders,2,14,No
-2005,Oakland Raiders,4,12,No
-2004,Oakland Raiders,5,11,No
-2003,Oakland Raiders,4,12,No
-2002,Oakland Raiders*,11,5,L
-2001,Oakland Raiders*,10,6,L
-2000,Oakland Raiders*,12,4,L
-1999,Oakland Raiders,8,8,No
-1998,Oakland Raiders,8,8,No
-1997,Oakland Raiders,4,12,No
-1996,Oakland Raiders,7,9,No
-1995,Oakland Raiders,8,8,No
-1994,Los Angeles Raiders,9,7,No
-""
-Year
-1993,Los Angeles Raiders*,10,6,L
-1992,Los Angeles Raiders,7,9,No
-1991,Los Angeles Raiders*,9,7,L
-1990,Los Angeles Raiders*,12,4,L
-1989,Los Angeles Raiders,8,8,No
-1988,Los Angeles Raiders,7,9,No
-1987,Los Angeles Raiders,5,10,No
-1986,Los Angeles Raiders,8,8,No
-1985,Los Angeles Raiders*,12,4,L
-1984,Los Angeles Raiders*,11,5,L
-1983,Los Angeles Raiders*,12,4,W
-1982,Los Angeles Raiders*,8,1,L
-1981,Oakland Raiders,7,9,No
-1980,Oakland Raiders*,11,5,W
-1979,Oakland Raiders,9,7,No
-1978,Oakland Raiders,9,7,No
-1977,Oakland Raiders*,11,3,L
-1976,Oakland Raiders*,13,1,W
-1975,Oakland Raiders*,11,3,L
-1974,Oakland Raiders*,12,2,L
-1973,Oakland Raiders*,9,4,L
-1972,Oakland Raiders*,10,3,L
-1971,Oakland Raiders,8,4,No
-1970,Oakland Raiders*,8,4,L
-1969,Oakland Raiders*,12,1,L
-1968,Oakland Raiders*,12,2,L
-1967,Oakland Raiders*,13,1,L
-1966,Oakland Raiders,8,5,No
-1965,Oakland Raiders,8,5,No
-1964,Oakland Raiders,5,7,No
-""
-Year
-1963,Oakland Raiders,10,4,No
-1962,Oakland Raiders,1,13,No
-1961,Oakland Raiders,2,12,No
-1960,Oakland Raiders,6,8,No
-""
-Year
-2023,Miami Dolphins,4,1,No
-2022,Miami Dolphins*,9,8,L
-2021,Miami Dolphins,9,8,No
-2020,Miami Dolphins,10,6,No
-2019,Miami Dolphins,5,11,No
-2018,Miami Dolphins,7,9,No
-2017,Miami Dolphins,6,10,No
-2016,Miami Dolphins*,10,6,L
-2015,Miami Dolphins,6,10,No
-2014,Miami Dolphins,8,8,No
-2013,Miami Dolphins,8,8,No
-2012,Miami Dolphins,7,9,No
-2011,Miami Dolphins,6,10,No
-2010,Miami Dolphins,7,9,No
-2009,Miami Dolphins,7,9,No
-2008,Miami Dolphins*,11,5,L
-2007,Miami Dolphins,1,15,No
-2006,Miami Dolphins,6,10,No
-2005,Miami Dolphins,9,7,No
-2004,Miami Dolphins,4,12,No
-2003,Miami Dolphins,10,6,No
-2002,Miami Dolphins,9,7,No
-2001,Miami Dolphins*,11,5,L
-2000,Miami Dolphins*,11,5,L
-1999,Miami Dolphins*,9,7,L
-1998,Miami Dolphins*,10,6,L
-1997,Miami Dolphins*,9,7,L
-1996,Miami Dolphins,8,8,No
-1995,Miami Dolphins*,9,7,L
-1994,Miami Dolphins*,10,6,L
-""
-Year
-1993,Miami Dolphins,9,7,No
-1992,Miami Dolphins*,11,5,L
-1991,Miami Dolphins,8,8,No
-1990,Miami Dolphins*,12,4,L
-1989,Miami Dolphins,8,8,No
-1988,Miami Dolphins,6,10,No
-1987,Miami Dolphins,8,7,No
-1986,Miami Dolphins,8,8,No
-1985,Miami Dolphins*,12,4,L
-1984,Miami Dolphins*,14,2,L
-1983,Miami Dolphins*,12,4,L
-1982,Miami Dolphins*,7,2,L
-1981,Miami Dolphins*,11,4,L
-1980,Miami Dolphins,8,8,No
-1979,Miami Dolphins*,10,6,L
-1978,Miami Dolphins*,11,5,L
-1977,Miami Dolphins,10,4,No
-1976,Miami Dolphins,6,8,No
-1975,Miami Dolphins,10,4,No
-1974,Miami Dolphins*,11,3,L
-1973,Miami Dolphins*,12,2,W
-1972,Miami Dolphins*,14,0,W
-1971,Miami Dolphins*,10,3,L
-1970,Miami Dolphins*,10,4,L
-1969,Miami Dolphins,3,10,No
-1968,Miami Dolphins,5,8,No
-1967,Miami Dolphins,4,10,No
-1966,Miami Dolphins,3,11,No
-""
-Year
-2023,Minnesota Vikings,1,4,No
-2022,Minnesota Vikings*,13,4,L
-2021,Minnesota Vikings,8,9,No
-2020,Minnesota Vikings,7,9,No
-2019,Minnesota Vikings*,10,6,L
-2018,Minnesota Vikings,8,7,No
-2017,Minnesota Vikings*,13,3,L
-2016,Minnesota Vikings,8,8,No
-2015,Minnesota Vikings*,11,5,L
-2014,Minnesota Vikings,7,9,No
-2013,Minnesota Vikings,5,10,No
-2012,Minnesota Vikings*,10,6,L
-2011,Minnesota Vikings,3,13,No
-2010,Minnesota Vikings,6,10,No
-2009,Minnesota Vikings*,12,4,L
-2008,Minnesota Vikings*,10,6,L
-2007,Minnesota Vikings,8,8,No
-2006,Minnesota Vikings,6,10,No
-2005,Minnesota Vikings,9,7,No
-2004,Minnesota Vikings*,8,8,L
-2003,Minnesota Vikings,9,7,No
-2002,Minnesota Vikings,6,10,No
-2001,Minnesota Vikings,5,11,No
-2000,Minnesota Vikings*,11,5,L
-1999,Minnesota Vikings*,10,6,L
-1998,Minnesota Vikings*,15,1,L
-1997,Minnesota Vikings*,9,7,L
-1996,Minnesota Vikings*,9,7,L
-1995,Minnesota Vikings,8,8,No
-1994,Minnesota Vikings*,10,6,L
-""
-Year
-1993,Minnesota Vikings*,9,7,L
-1992,Minnesota Vikings*,11,5,L
-1991,Minnesota Vikings,8,8,No
-1990,Minnesota Vikings,6,10,No
-1989,Minnesota Vikings*,10,6,L
-1988,Minnesota Vikings*,11,5,L
-1987,Minnesota Vikings*,8,7,L
-1986,Minnesota Vikings,9,7,No
-1985,Minnesota Vikings,7,9,No
-1984,Minnesota Vikings,3,13,No
-1983,Minnesota Vikings,8,8,No
-1982,Minnesota Vikings*,5,4,L
-1981,Minnesota Vikings,7,9,No
-1980,Minnesota Vikings*,9,7,L
-1979,Minnesota Vikings,7,9,No
-1978,Minnesota Vikings*,8,7,L
-1977,Minnesota Vikings*,9,5,L
-1976,Minnesota Vikings*,11,2,L
-1975,Minnesota Vikings*,12,2,L
-1974,Minnesota Vikings*,10,4,L
-1973,Minnesota Vikings*,12,2,L
-1972,Minnesota Vikings,7,7,No
-1971,Minnesota Vikings*,11,3,L
-1970,Minnesota Vikings*,12,2,L
-1969,Minnesota Vikings*,12,2,L
-1968,Minnesota Vikings*,8,6,L
-1967,Minnesota Vikings,3,8,No
-1966,Minnesota Vikings,4,9,No
-1965,Minnesota Vikings,7,7,No
-1964,Minnesota Vikings,8,5,No
-""
-Year
-1963,Minnesota Vikings,5,8,No
-1962,Minnesota Vikings,2,11,No
-1961,Minnesota Vikings,3,11,No
-""
-Year
-2023,New England Patriots,1,4,No
-2022,New England Patriots,8,9,No
-2021,New England Patriots*,10,7,L
-2020,New England Patriots,7,9,No
-2019,New England Patriots*,12,4,L
-2018,New England Patriots*,11,5,W
-2017,New England Patriots*,13,3,L
-2016,New England Patriots*,14,2,W
-2015,New England Patriots*,12,4,L
-2014,New England Patriots*,12,4,W
-2013,New England Patriots*,12,4,L
-2012,New England Patriots*,12,4,L
-2011,New England Patriots*,13,3,L
-2010,New England Patriots*,14,2,L
-2009,New England Patriots*,10,6,L
-2008,New England Patriots,11,5,No
-2007,New England Patriots*,16,0,L
-2006,New England Patriots*,12,4,L
-2005,New England Patriots*,10,6,L
-2004,New England Patriots*,14,2,W
-2003,New England Patriots*,14,2,W
-2002,New England Patriots,9,7,No
-2001,New England Patriots*,11,5,W
-2000,New England Patriots,5,11,No
-1999,New England Patriots,8,8,No
-1998,New England Patriots*,9,7,L
-1997,New England Patriots*,10,6,L
-1996,New England Patriots*,11,5,L
-1995,New England Patriots,6,10,No
-1994,New England Patriots*,10,6,L
-""
-Year
-1993,New England Patriots,5,11,No
-1992,New England Patriots,2,14,No
-1991,New England Patriots,6,10,No
-1990,New England Patriots,1,15,No
-1989,New England Patriots,5,11,No
-1988,New England Patriots,9,7,No
-1987,New England Patriots,8,7,No
-1986,New England Patriots*,11,5,L
-1985,New England Patriots*,11,5,L
-1984,New England Patriots,9,7,No
-1983,New England Patriots,8,8,No
-1982,New England Patriots*,5,4,L
-1981,New England Patriots,2,14,No
-1980,New England Patriots,10,6,No
-1979,New England Patriots,9,7,No
-1978,New England Patriots*,11,5,L
-1977,New England Patriots,9,5,No
-1976,New England Patriots*,11,3,L
-1975,New England Patriots,3,11,No
-1974,New England Patriots,7,7,No
-1973,New England Patriots,5,9,No
-1972,New England Patriots,3,11,No
-1971,New England Patriots,6,8,No
-1970,Boston Patriots,2,12,No
-1969,Boston Patriots,4,10,No
-1968,Boston Patriots,4,10,No
-1967,Boston Patriots,3,10,No
-1966,Boston Patriots,8,4,No
-1965,Boston Patriots,4,8,No
-1964,Boston Patriots,10,3,No
-""
-Year
-1963,Boston Patriots*,7,6,L
-1962,Boston Patriots,9,4,No
-1961,Boston Patriots,9,4,No
-1960,Boston Patriots,5,9,No
-""
-Year
-2023,New Orleans Saints,3,2,No
-2022,New Orleans Saints,7,10,No
-2021,New Orleans Saints,9,8,No
-2020,New Orleans Saints*,12,4,L
-2019,New Orleans Saints*,13,3,L
-2018,New Orleans Saints*,13,3,L
-2017,New Orleans Saints*,11,5,L
-2016,New Orleans Saints,7,9,No
-2015,New Orleans Saints,7,9,No
-2014,New Orleans Saints,7,9,No
-2013,New Orleans Saints*,11,5,L
-2012,New Orleans Saints,7,9,No
-2011,New Orleans Saints*,13,3,L
-2010,New Orleans Saints*,11,5,L
-2009,New Orleans Saints*,13,3,W
-2008,New Orleans Saints,8,8,No
-2007,New Orleans Saints,7,9,No
-2006,New Orleans Saints*,10,6,L
-2005,New Orleans Saints,3,13,No
-2004,New Orleans Saints,8,8,No
-2003,New Orleans Saints,8,8,No
-2002,New Orleans Saints,9,7,No
-2001,New Orleans Saints,7,9,No
-2000,New Orleans Saints*,10,6,L
-1999,New Orleans Saints,3,13,No
-1998,New Orleans Saints,6,10,No
-1997,New Orleans Saints,6,10,No
-1996,New Orleans Saints,3,13,No
-1995,New Orleans Saints,7,9,No
-1994,New Orleans Saints,7,9,No
-""
-Year
-1993,New Orleans Saints,8,8,No
-1992,New Orleans Saints*,12,4,L
-1991,New Orleans Saints*,11,5,L
-1990,New Orleans Saints*,8,8,L
-1989,New Orleans Saints,9,7,No
-1988,New Orleans Saints,10,6,No
-1987,New Orleans Saints*,12,3,L
-1986,New Orleans Saints,7,9,No
-1985,New Orleans Saints,5,11,No
-1984,New Orleans Saints,7,9,No
-1983,New Orleans Saints,8,8,No
-1982,New Orleans Saints,4,5,No
-1981,New Orleans Saints,4,12,No
-1980,New Orleans Saints,1,15,No
-1979,New Orleans Saints,8,8,No
-1978,New Orleans Saints,7,9,No
-1977,New Orleans Saints,3,11,No
-1976,New Orleans Saints,4,10,No
-1975,New Orleans Saints,2,12,No
-1974,New Orleans Saints,5,9,No
-1973,New Orleans Saints,5,9,No
-1972,New Orleans Saints,2,11,No
-1971,New Orleans Saints,4,8,No
-1970,New Orleans Saints,2,11,No
-1969,New Orleans Saints,5,9,No
-1968,New Orleans Saints,4,9,No
-1967,New Orleans Saints,3,11,No
-""
-Year
-2023,New York Giants,1,4,No
-2022,New York Giants*,9,7,L
-2021,New York Giants,4,13,No
-2020,New York Giants,6,10,No
-2019,New York Giants,4,12,No
-2018,New York Giants,5,11,No
-2017,New York Giants,3,13,No
-2016,New York Giants*,11,5,L
-2015,New York Giants,6,10,No
-2014,New York Giants,6,10,No
-2013,New York Giants,7,9,No
-2012,New York Giants,9,7,No
-2011,New York Giants*,9,7,W
-2010,New York Giants,10,6,No
-2009,New York Giants,8,8,No
-2008,New York Giants*,12,4,L
-2007,New York Giants*,10,6,W
-2006,New York Giants*,8,8,L
-2005,New York Giants*,11,5,L
-2004,New York Giants,6,10,No
-2003,New York Giants,4,12,No
-2002,New York Giants*,10,6,L
-2001,New York Giants,7,9,No
-2000,New York Giants*,12,4,L
-1999,New York Giants,7,9,No
-1998,New York Giants,8,8,No
-1997,New York Giants*,10,5,L
-1996,New York Giants,6,10,No
-1995,New York Giants,5,11,No
-1994,New York Giants,9,7,No
-""
-Year
-1993,New York Giants*,11,5,L
-1992,New York Giants,6,10,No
-1991,New York Giants,8,8,No
-1990,New York Giants*,13,3,W
-1989,New York Giants*,12,4,L
-1988,New York Giants,10,6,No
-1987,New York Giants,6,9,No
-1986,New York Giants*,14,2,W
-1985,New York Giants*,10,6,L
-1984,New York Giants*,9,7,L
-1983,New York Giants,3,12,No
-1982,New York Giants,4,5,No
-1981,New York Giants*,9,7,L
-1980,New York Giants,4,12,No
-1979,New York Giants,6,10,No
-1978,New York Giants,6,10,No
-1977,New York Giants,5,9,No
-1976,New York Giants,3,11,No
-1975,New York Giants,5,9,No
-1974,New York Giants,2,12,No
-1973,New York Giants,2,11,No
-1972,New York Giants,8,6,No
-1971,New York Giants,4,10,No
-1970,New York Giants,9,5,No
-1969,New York Giants,6,8,No
-1968,New York Giants,7,7,No
-1967,New York Giants,7,7,No
-1966,New York Giants,1,12,No
-1965,New York Giants,7,7,No
-1964,New York Giants,2,10,No
-""
-Year
-1963,New York Giants*,11,3,L
-1962,New York Giants*,12,2,L
-1961,New York Giants*,10,3,L
-1960,New York Giants,6,4,No
-1959,New York Giants*,10,2,L
-1958,New York Giants*,9,3,L
-1957,New York Giants,7,5,No
-1956,New York Giants*,8,3,W
-1955,New York Giants,6,5,No
-1954,New York Giants,7,5,No
-1953,New York Giants,3,9,No
-1952,New York Giants,7,5,No
-1951,New York Giants,9,2,No
-1950,New York Giants*,10,2,L
-1949,New York Giants,6,6,No
-1948,New York Giants,4,8,No
-1947,New York Giants,2,8,No
-1946,New York Giants*,7,3,L
-1945,New York Giants,3,6,No
-1944,New York Giants*,8,1,L
-1943,New York Giants*,6,3,L
-1942,New York Giants,5,5,No
-1941,New York Giants*,8,3,L
-1940,New York Giants,6,4,No
-1939,New York Giants*,9,1,L
-1938,New York Giants*,8,2,W
-1937,New York Giants,6,3,No
-1936,New York Giants,5,6,No
-1935,New York Giants*,9,3,L
-1934,New York Giants*,8,5,W
-""
-Year
-1933,New York Giants*,11,3,L
-1932,New York Giants,4,6,No
-1931,New York Giants,7,6,No
-1930,New York Giants,13,4,No
-1929,New York Giants,13,1,No
-1928,New York Giants,4,7,No
-1927,New York Giants,11,1,W
-1926,New York Giants,8,4,No
-1925,New York Giants,8,4,No
-""
-Year
-2023,New York Jets,2,3,No
-2022,New York Jets,7,10,No
-2021,New York Jets,4,13,No
-2020,New York Jets,2,14,No
-2019,New York Jets,7,9,No
-2018,New York Jets,4,12,No
-2017,New York Jets,5,11,No
-2016,New York Jets,5,11,No
-2015,New York Jets,10,6,No
-2014,New York Jets,4,12,No
-2013,New York Jets,8,8,No
-2012,New York Jets,6,10,No
-2011,New York Jets,8,8,No
-2010,New York Jets*,11,5,L
-2009,New York Jets*,9,7,L
-2008,New York Jets,9,7,No
-2007,New York Jets,4,12,No
-2006,New York Jets*,10,6,L
-2005,New York Jets,4,12,No
-2004,New York Jets*,10,6,L
-2003,New York Jets,6,10,No
-2002,New York Jets*,9,7,L
-2001,New York Jets*,10,6,L
-2000,New York Jets,9,7,No
-1999,New York Jets,8,8,No
-1998,New York Jets*,12,4,L
-1997,New York Jets,9,7,No
-1996,New York Jets,1,15,No
-1995,New York Jets,3,13,No
-1994,New York Jets,6,10,No
-""
-Year
-1993,New York Jets,8,8,No
-1992,New York Jets,4,12,No
-1991,New York Jets*,8,8,L
-1990,New York Jets,6,10,No
-1989,New York Jets,4,12,No
-1988,New York Jets,8,7,No
-1987,New York Jets,6,9,No
-1986,New York Jets*,10,6,L
-1985,New York Jets*,11,5,L
-1984,New York Jets,7,9,No
-1983,New York Jets,7,9,No
-1982,New York Jets*,6,3,L
-1981,New York Jets*,10,5,L
-1980,New York Jets,4,12,No
-1979,New York Jets,8,8,No
-1978,New York Jets,8,8,No
-1977,New York Jets,3,11,No
-1976,New York Jets,3,11,No
-1975,New York Jets,3,11,No
-1974,New York Jets,7,7,No
-1973,New York Jets,4,10,No
-1972,New York Jets,7,7,No
-1971,New York Jets,6,8,No
-1970,New York Jets,4,10,No
-1969,New York Jets*,10,4,L
-1968,New York Jets*,11,3,W
-1967,New York Jets,8,5,No
-1966,New York Jets,6,6,No
-1965,New York Jets,5,8,No
-1964,New York Jets,5,8,No
-""
-Year
-1963,New York Jets,5,8,No
-1962,New York Titans,5,9,No
-1961,New York Titans,7,7,No
-1960,New York Titans,7,7,No
-""
-Year
-2023,Philadelphia Eagles,5,0,No
-2022,Philadelphia Eagles*,14,3,L
-2021,Philadelphia Eagles*,9,8,L
-2020,Philadelphia Eagles,4,11,No
-2019,Philadelphia Eagles*,9,7,L
-2018,Philadelphia Eagles*,9,7,L
-2017,Philadelphia Eagles*,13,3,W
-2016,Philadelphia Eagles,7,9,No
-2015,Philadelphia Eagles,7,9,No
-2014,Philadelphia Eagles,10,6,No
-2013,Philadelphia Eagles*,10,6,L
-2012,Philadelphia Eagles,4,12,No
-2011,Philadelphia Eagles,8,8,No
-2010,Philadelphia Eagles*,10,6,L
-2009,Philadelphia Eagles*,11,5,L
-2008,Philadelphia Eagles*,9,6,L
-2007,Philadelphia Eagles,8,8,No
-2006,Philadelphia Eagles*,10,6,L
-2005,Philadelphia Eagles,6,10,No
-2004,Philadelphia Eagles*,13,3,L
-2003,Philadelphia Eagles*,12,4,L
-2002,Philadelphia Eagles*,12,4,L
-2001,Philadelphia Eagles*,11,5,L
-2000,Philadelphia Eagles*,11,5,L
-1999,Philadelphia Eagles,5,11,No
-1998,Philadelphia Eagles,3,13,No
-1997,Philadelphia Eagles,6,9,No
-1996,Philadelphia Eagles*,10,6,L
-1995,Philadelphia Eagles*,10,6,L
-1994,Philadelphia Eagles,7,9,No
-""
-Year
-1993,Philadelphia Eagles,8,8,No
-1992,Philadelphia Eagles*,11,5,L
-1991,Philadelphia Eagles,10,6,No
-1990,Philadelphia Eagles*,10,6,L
-1989,Philadelphia Eagles*,11,5,L
-1988,Philadelphia Eagles*,10,6,L
-1987,Philadelphia Eagles,7,8,No
-1986,Philadelphia Eagles,5,10,No
-1985,Philadelphia Eagles,7,9,No
-1984,Philadelphia Eagles,6,9,No
-1983,Philadelphia Eagles,5,11,No
-1982,Philadelphia Eagles,3,6,No
-1981,Philadelphia Eagles*,10,6,L
-1980,Philadelphia Eagles*,12,4,L
-1979,Philadelphia Eagles*,11,5,L
-1978,Philadelphia Eagles*,9,7,L
-1977,Philadelphia Eagles,5,9,No
-1976,Philadelphia Eagles,4,10,No
-1975,Philadelphia Eagles,4,10,No
-1974,Philadelphia Eagles,7,7,No
-1973,Philadelphia Eagles,5,8,No
-1972,Philadelphia Eagles,2,11,No
-1971,Philadelphia Eagles,6,7,No
-1970,Philadelphia Eagles,3,10,No
-1969,Philadelphia Eagles,4,9,No
-1968,Philadelphia Eagles,2,12,No
-1967,Philadelphia Eagles,6,7,No
-1966,Philadelphia Eagles,9,5,No
-1965,Philadelphia Eagles,5,9,No
-1964,Philadelphia Eagles,6,8,No
-""
-Year
-1963,Philadelphia Eagles,2,10,No
-1962,Philadelphia Eagles,3,10,No
-1961,Philadelphia Eagles,10,4,No
-1960,Philadelphia Eagles*,10,2,W
-1959,Philadelphia Eagles,7,5,No
-1958,Philadelphia Eagles,2,9,No
-1957,Philadelphia Eagles,4,8,No
-1956,Philadelphia Eagles,3,8,No
-1955,Philadelphia Eagles,4,7,No
-1954,Philadelphia Eagles,7,4,No
-1953,Philadelphia Eagles,7,4,No
-1952,Philadelphia Eagles,7,5,No
-1951,Philadelphia Eagles,4,8,No
-1950,Philadelphia Eagles,6,6,No
-1949,Philadelphia Eagles*,11,1,W
-1948,Philadelphia Eagles*,9,2,W
-1947,Philadelphia Eagles*,8,4,L
-1946,Philadelphia Eagles,6,5,No
-1945,Philadelphia Eagles,7,3,No
-1944,Philadelphia Eagles,7,1,No
-1943,Phi/Pit Eagles/Steelers,5,4,No
-1942,Philadelphia Eagles,2,9,No
-1941,Philadelphia Eagles,2,8,No
-1940,Philadelphia Eagles,1,10,No
-1939,Philadelphia Eagles,1,9,No
-1938,Philadelphia Eagles,5,6,No
-1937,Philadelphia Eagles,2,8,No
-1936,Philadelphia Eagles,1,11,No
-1935,Philadelphia Eagles,2,9,No
-1934,Philadelphia Eagles,4,7,No
-""
-Year
-1933,Philadelphia Eagles,3,5,No
-""
-Year
-2023,Pittsburgh Steelers,3,2,No
-2022,Pittsburgh Steelers,9,8,No
-2021,Pittsburgh Steelers*,9,7,L
-2020,Pittsburgh Steelers*,12,4,L
-2019,Pittsburgh Steelers,8,8,No
-2018,Pittsburgh Steelers,9,6,No
-2017,Pittsburgh Steelers*,13,3,L
-2016,Pittsburgh Steelers*,11,5,L
-2015,Pittsburgh Steelers*,10,6,L
-2014,Pittsburgh Steelers*,11,5,L
-2013,Pittsburgh Steelers,8,8,No
-2012,Pittsburgh Steelers,8,8,No
-2011,Pittsburgh Steelers*,12,4,L
-2010,Pittsburgh Steelers*,12,4,L
-2009,Pittsburgh Steelers,9,7,No
-2008,Pittsburgh Steelers*,12,4,W
-2007,Pittsburgh Steelers*,10,6,L
-2006,Pittsburgh Steelers,8,8,No
-2005,Pittsburgh Steelers*,11,5,W
-2004,Pittsburgh Steelers*,15,1,L
-2003,Pittsburgh Steelers,6,10,No
-2002,Pittsburgh Steelers*,10,5,L
-2001,Pittsburgh Steelers*,13,3,L
-2000,Pittsburgh Steelers,9,7,No
-1999,Pittsburgh Steelers,6,10,No
-1998,Pittsburgh Steelers,7,9,No
-1997,Pittsburgh Steelers*,11,5,L
-1996,Pittsburgh Steelers*,10,6,L
-1995,Pittsburgh Steelers*,11,5,L
-1994,Pittsburgh Steelers*,12,4,L
-""
-Year
-1993,Pittsburgh Steelers*,9,7,L
-1992,Pittsburgh Steelers*,11,5,L
-1991,Pittsburgh Steelers,7,9,No
-1990,Pittsburgh Steelers,9,7,No
-1989,Pittsburgh Steelers*,9,7,L
-1988,Pittsburgh Steelers,5,11,No
-1987,Pittsburgh Steelers,8,7,No
-1986,Pittsburgh Steelers,6,10,No
-1985,Pittsburgh Steelers,7,9,No
-1984,Pittsburgh Steelers*,9,7,L
-1983,Pittsburgh Steelers*,10,6,L
-1982,Pittsburgh Steelers*,6,3,L
-1981,Pittsburgh Steelers,8,8,No
-1980,Pittsburgh Steelers,9,7,No
-1979,Pittsburgh Steelers*,12,4,W
-1978,Pittsburgh Steelers*,14,2,W
-1977,Pittsburgh Steelers*,9,5,L
-1976,Pittsburgh Steelers*,10,4,L
-1975,Pittsburgh Steelers*,12,2,W
-1974,Pittsburgh Steelers*,10,3,W
-1973,Pittsburgh Steelers*,10,4,L
-1972,Pittsburgh Steelers*,11,3,L
-1971,Pittsburgh Steelers,6,8,No
-1970,Pittsburgh Steelers,5,9,No
-1969,Pittsburgh Steelers,1,13,No
-1968,Pittsburgh Steelers,2,11,No
-1967,Pittsburgh Steelers,4,9,No
-1966,Pittsburgh Steelers,5,8,No
-1965,Pittsburgh Steelers,2,12,No
-1964,Pittsburgh Steelers,5,9,No
-""
-Year
-1963,Pittsburgh Steelers,7,4,No
-1962,Pittsburgh Steelers,9,5,No
-1961,Pittsburgh Steelers,6,8,No
-1960,Pittsburgh Steelers,5,6,No
-1959,Pittsburgh Steelers,6,5,No
-1958,Pittsburgh Steelers,7,4,No
-1957,Pittsburgh Steelers,6,6,No
-1956,Pittsburgh Steelers,5,7,No
-1955,Pittsburgh Steelers,4,8,No
-1954,Pittsburgh Steelers,5,7,No
-1953,Pittsburgh Steelers,6,6,No
-1952,Pittsburgh Steelers,5,7,No
-1951,Pittsburgh Steelers,4,7,No
-1950,Pittsburgh Steelers,6,6,No
-1949,Pittsburgh Steelers,6,5,No
-1948,Pittsburgh Steelers,4,8,No
-1947,Pittsburgh Steelers*,8,4,L
-1946,Pittsburgh Steelers,5,5,No
-1945,Pittsburgh Steelers,2,8,No
-1942,Pittsburgh Steelers,7,4,No
-1941,Pittsburgh Steelers,1,9,No
-1940,Pittsburgh Steelers,2,7,No
-1939,Pittsburgh Pirates,1,9,No
-1938,Pittsburgh Pirates,2,9,No
-1937,Pittsburgh Pirates,4,7,No
-1936,Pittsburgh Pirates,6,6,No
-1935,Pittsburgh Pirates,4,8,No
-1934,Pittsburgh Pirates,2,10,No
-1933,Pittsburgh Pirates,3,6,No
-""
-Year
-2023,San Francisco 49ers,5,0,No
-2022,San Francisco 49ers*,13,4,L
-2021,San Francisco 49ers*,10,7,L
-2020,San Francisco 49ers,6,10,No
-2019,San Francisco 49ers*,13,3,L
-2018,San Francisco 49ers,4,12,No
-2017,San Francisco 49ers,6,10,No
-2016,San Francisco 49ers,2,14,No
-2015,San Francisco 49ers,5,11,No
-2014,San Francisco 49ers,8,8,No
-2013,San Francisco 49ers*,12,4,L
-2012,San Francisco 49ers*,11,4,L
-2011,San Francisco 49ers*,13,3,L
-2010,San Francisco 49ers,6,10,No
-2009,San Francisco 49ers,8,8,No
-2008,San Francisco 49ers,7,9,No
-2007,San Francisco 49ers,5,11,No
-2006,San Francisco 49ers,7,9,No
-2005,San Francisco 49ers,4,12,No
-2004,San Francisco 49ers,2,14,No
-2003,San Francisco 49ers,7,9,No
-2002,San Francisco 49ers*,10,6,L
-2001,San Francisco 49ers*,12,4,L
-2000,San Francisco 49ers,6,10,No
-1999,San Francisco 49ers,4,12,No
-1998,San Francisco 49ers*,12,4,L
-1997,San Francisco 49ers*,13,3,L
-1996,San Francisco 49ers*,12,4,L
-1995,San Francisco 49ers*,11,5,L
-1994,San Francisco 49ers*,13,3,W
-""
-Year
-1993,San Francisco 49ers*,10,6,L
-1992,San Francisco 49ers*,14,2,L
-1991,San Francisco 49ers,10,6,No
-1990,San Francisco 49ers*,14,2,L
-1989,San Francisco 49ers*,14,2,W
-1988,San Francisco 49ers*,10,6,W
-1987,San Francisco 49ers*,13,2,L
-1986,San Francisco 49ers*,10,5,L
-1985,San Francisco 49ers*,10,6,L
-1984,San Francisco 49ers*,15,1,W
-1983,San Francisco 49ers*,10,6,L
-1982,San Francisco 49ers,3,6,No
-1981,San Francisco 49ers*,13,3,W
-1980,San Francisco 49ers,6,10,No
-1979,San Francisco 49ers,2,14,No
-1978,San Francisco 49ers,2,14,No
-1977,San Francisco 49ers,5,9,No
-1976,San Francisco 49ers,8,6,No
-1975,San Francisco 49ers,5,9,No
-1974,San Francisco 49ers,6,8,No
-1973,San Francisco 49ers,5,9,No
-1972,San Francisco 49ers*,8,5,L
-1971,San Francisco 49ers*,9,5,L
-1970,San Francisco 49ers*,10,3,L
-1969,San Francisco 49ers,4,8,No
-1968,San Francisco 49ers,7,6,No
-1967,San Francisco 49ers,7,7,No
-1966,San Francisco 49ers,6,6,No
-1965,San Francisco 49ers,7,6,No
-1964,San Francisco 49ers,4,10,No
-""
-Year
-1963,San Francisco 49ers,2,12,No
-1962,San Francisco 49ers,6,8,No
-1961,San Francisco 49ers,7,6,No
-1960,San Francisco 49ers,7,5,No
-1959,San Francisco 49ers,7,5,No
-1958,San Francisco 49ers,6,6,No
-1957,San Francisco 49ers*,8,4,L
-1956,San Francisco 49ers,5,6,No
-1955,San Francisco 49ers,4,8,No
-1954,San Francisco 49ers,7,4,No
-1953,San Francisco 49ers,9,3,No
-1952,San Francisco 49ers,7,5,No
-1951,San Francisco 49ers,7,4,No
-1950,San Francisco 49ers,3,9,No
-1949,San Francisco 49ers*,9,3,L
-1948,San Francisco 49ers,12,2,No
-1947,San Francisco 49ers,8,4,No
-1946,San Francisco 49ers,9,5,No
-""
-Year
-2023,Seattle Seahawks,3,1,No
-2022,Seattle Seahawks*,9,8,L
-2021,Seattle Seahawks,7,10,No
-2020,Seattle Seahawks*,12,4,L
-2019,Seattle Seahawks*,11,5,L
-2018,Seattle Seahawks*,10,6,L
-2017,Seattle Seahawks,9,7,No
-2016,Seattle Seahawks*,10,5,L
-2015,Seattle Seahawks*,10,6,L
-2014,Seattle Seahawks*,12,4,L
-2013,Seattle Seahawks*,13,3,W
-2012,Seattle Seahawks*,11,5,L
-2011,Seattle Seahawks,7,9,No
-2010,Seattle Seahawks*,7,9,L
-2009,Seattle Seahawks,5,11,No
-2008,Seattle Seahawks,4,12,No
-2007,Seattle Seahawks*,10,6,L
-2006,Seattle Seahawks*,9,7,L
-2005,Seattle Seahawks*,13,3,L
-2004,Seattle Seahawks*,9,7,L
-2003,Seattle Seahawks*,10,6,L
-2002,Seattle Seahawks,7,9,No
-2001,Seattle Seahawks,9,7,No
-2000,Seattle Seahawks,6,10,No
-1999,Seattle Seahawks*,9,7,L
-1998,Seattle Seahawks,8,8,No
-1997,Seattle Seahawks,8,8,No
-1996,Seattle Seahawks,7,9,No
-1995,Seattle Seahawks,8,8,No
-1994,Seattle Seahawks,6,10,No
-""
-Year
-1993,Seattle Seahawks,6,10,No
-1992,Seattle Seahawks,2,14,No
-1991,Seattle Seahawks,7,9,No
-1990,Seattle Seahawks,9,7,No
-1989,Seattle Seahawks,7,9,No
-1988,Seattle Seahawks*,9,7,L
-1987,Seattle Seahawks*,9,6,L
-1986,Seattle Seahawks,10,6,No
-1985,Seattle Seahawks,8,8,No
-1984,Seattle Seahawks*,12,4,L
-1983,Seattle Seahawks*,9,7,L
-1982,Seattle Seahawks,4,5,No
-1981,Seattle Seahawks,6,10,No
-1980,Seattle Seahawks,4,12,No
-1979,Seattle Seahawks,9,7,No
-1978,Seattle Seahawks,9,7,No
-1977,Seattle Seahawks,5,9,No
-1976,Seattle Seahawks,2,12,No
-""
-Year
-2023,Tampa Bay Buccaneers,3,1,No
-2022,Tampa Bay Buccaneers*,8,9,L
-2021,Tampa Bay Buccaneers*,13,4,L
-2020,Tampa Bay Buccaneers*,11,5,W
-2019,Tampa Bay Buccaneers,7,9,No
-2018,Tampa Bay Buccaneers,5,11,No
-2017,Tampa Bay Buccaneers,5,11,No
-2016,Tampa Bay Buccaneers,9,7,No
-2015,Tampa Bay Buccaneers,6,10,No
-2014,Tampa Bay Buccaneers,2,14,No
-2013,Tampa Bay Buccaneers,4,12,No
-2012,Tampa Bay Buccaneers,7,9,No
-2011,Tampa Bay Buccaneers,4,12,No
-2010,Tampa Bay Buccaneers,10,6,No
-2009,Tampa Bay Buccaneers,3,13,No
-2008,Tampa Bay Buccaneers,9,7,No
-2007,Tampa Bay Buccaneers*,9,7,L
-2006,Tampa Bay Buccaneers,4,12,No
-2005,Tampa Bay Buccaneers*,11,5,L
-2004,Tampa Bay Buccaneers,5,11,No
-2003,Tampa Bay Buccaneers,7,9,No
-2002,Tampa Bay Buccaneers*,12,4,W
-2001,Tampa Bay Buccaneers*,9,7,L
-2000,Tampa Bay Buccaneers*,10,6,L
-1999,Tampa Bay Buccaneers*,11,5,L
-1998,Tampa Bay Buccaneers,8,8,No
-1997,Tampa Bay Buccaneers*,10,6,L
-1996,Tampa Bay Buccaneers,6,10,No
-1995,Tampa Bay Buccaneers,7,9,No
-1994,Tampa Bay Buccaneers,6,10,No
-""
-Year
-1993,Tampa Bay Buccaneers,5,11,No
-1992,Tampa Bay Buccaneers,5,11,No
-1991,Tampa Bay Buccaneers,3,13,No
-1990,Tampa Bay Buccaneers,6,10,No
-1989,Tampa Bay Buccaneers,5,11,No
-1988,Tampa Bay Buccaneers,5,11,No
-1987,Tampa Bay Buccaneers,4,11,No
-1986,Tampa Bay Buccaneers,2,14,No
-1985,Tampa Bay Buccaneers,2,14,No
-1984,Tampa Bay Buccaneers,6,10,No
-1983,Tampa Bay Buccaneers,2,14,No
-1982,Tampa Bay Buccaneers*,5,4,L
-1981,Tampa Bay Buccaneers*,9,7,L
-1980,Tampa Bay Buccaneers,5,10,No
-1979,Tampa Bay Buccaneers*,10,6,L
-1978,Tampa Bay Buccaneers,5,11,No
-1977,Tampa Bay Buccaneers,2,12,No
-1976,Tampa Bay Buccaneers,0,14,No
-""
-Year
-2023,Tennessee Titans,2,3,No
-2022,Tennessee Titans,7,10,No
-2021,Tennessee Titans*,12,5,L
-2020,Tennessee Titans*,11,5,L
-2019,Tennessee Titans*,9,7,L
-2018,Tennessee Titans,9,7,No
-2017,Tennessee Titans*,9,7,L
-2016,Tennessee Titans,9,7,No
-2015,Tennessee Titans,3,13,No
-2014,Tennessee Titans,2,14,No
-2013,Tennessee Titans,7,9,No
-2012,Tennessee Titans,6,10,No
-2011,Tennessee Titans,9,7,No
-2010,Tennessee Titans,6,10,No
-2009,Tennessee Titans,8,8,No
-2008,Tennessee Titans*,13,3,L
-2007,Tennessee Titans*,10,6,L
-2006,Tennessee Titans,8,8,No
-2005,Tennessee Titans,4,12,No
-2004,Tennessee Titans,5,11,No
-2003,Tennessee Titans*,12,4,L
-2002,Tennessee Titans*,11,5,L
-2001,Tennessee Titans,7,9,No
-2000,Tennessee Titans*,13,3,L
-1999,Tennessee Titans*,13,3,L
-1998,Tennessee Oilers,8,8,No
-1997,Tennessee Oilers,8,8,No
-1996,Houston Oilers,8,8,No
-1995,Houston Oilers,7,9,No
-1994,Houston Oilers,2,14,No
-""
-Year
-1993,Houston Oilers*,12,4,L
-1992,Houston Oilers*,10,6,L
-1991,Houston Oilers*,11,5,L
-1990,Houston Oilers*,9,7,L
-1989,Houston Oilers*,9,7,L
-1988,Houston Oilers*,10,6,L
-1987,Houston Oilers*,9,6,L
-1986,Houston Oilers,5,11,No
-1985,Houston Oilers,5,11,No
-1984,Houston Oilers,3,13,No
-1983,Houston Oilers,2,14,No
-1982,Houston Oilers,1,8,No
-1981,Houston Oilers,7,9,No
-1980,Houston Oilers*,11,5,L
-1979,Houston Oilers*,11,5,L
-1978,Houston Oilers*,10,6,L
-1977,Houston Oilers,8,6,No
-1976,Houston Oilers,5,9,No
-1975,Houston Oilers,10,4,No
-1974,Houston Oilers,7,7,No
-1973,Houston Oilers,1,13,No
-1972,Houston Oilers,1,13,No
-1971,Houston Oilers,4,9,No
-1970,Houston Oilers,3,10,No
-1969,Houston Oilers*,6,6,L
-1968,Houston Oilers,7,7,No
-1967,Houston Oilers*,9,4,L
-1966,Houston Oilers,3,11,No
-1965,Houston Oilers,4,10,No
-1964,Houston Oilers,4,10,No
-""
-Year
-1963,Houston Oilers,6,8,No
-1962,Houston Oilers*,11,3,L
-1961,Houston Oilers*,10,3,W
-1960,Houston Oilers*,10,4,W
-""
-Year
-2023,Washington Commanders,2,3,No
-2022,Washington Commanders,8,8,No
-2021,Washington Football Team,7,10,No
-2020,Washington Football Team*,7,9,L
-2019,Washington Redskins,3,13,No
-2018,Washington Redskins,7,9,No
-2017,Washington Redskins,7,9,No
-2016,Washington Redskins,8,7,No
-2015,Washington Redskins*,9,7,L
-2014,Washington Redskins,4,12,No
-2013,Washington Redskins,3,13,No
-2012,Washington Redskins*,10,6,L
-2011,Washington Redskins,5,11,No
-2010,Washington Redskins,6,10,No
-2009,Washington Redskins,4,12,No
-2008,Washington Redskins,8,8,No
-2007,Washington Redskins*,9,7,L
-2006,Washington Redskins,5,11,No
-2005,Washington Redskins*,10,6,L
-2004,Washington Redskins,6,10,No
-2003,Washington Redskins,5,11,No
-2002,Washington Redskins,7,9,No
-2001,Washington Redskins,8,8,No
-2000,Washington Redskins,8,8,No
-1999,Washington Redskins*,10,6,L
-1998,Washington Redskins,6,10,No
-1997,Washington Redskins,8,7,No
-1996,Washington Redskins,9,7,No
-1995,Washington Redskins,6,10,No
-1994,Washington Redskins,3,13,No
-""
-Year
-1993,Washington Redskins,4,12,No
-1992,Washington Redskins*,9,7,L
-1991,Washington Redskins*,14,2,W
-1990,Washington Redskins*,10,6,L
-1989,Washington Redskins,10,6,No
-1988,Washington Redskins,7,9,No
-1987,Washington Redskins*,11,4,W
-1986,Washington Redskins*,12,4,L
-1985,Washington Redskins,10,6,No
-1984,Washington Redskins*,11,5,L
-1983,Washington Redskins*,14,2,L
-1982,Washington Redskins*,8,1,W
-1981,Washington Redskins,8,8,No
-1980,Washington Redskins,6,10,No
-1979,Washington Redskins,10,6,No
-1978,Washington Redskins,8,8,No
-1977,Washington Redskins,9,5,No
-1976,Washington Redskins*,10,4,L
-1975,Washington Redskins,8,6,No
-1974,Washington Redskins*,10,4,L
-1973,Washington Redskins*,10,4,L
-1972,Washington Redskins*,11,3,L
-1971,Washington Redskins*,9,4,L
-1970,Washington Redskins,6,8,No
-1969,Washington Redskins,7,5,No
-1968,Washington Redskins,5,9,No
-1967,Washington Redskins,5,6,No
-1966,Washington Redskins,7,7,No
-1965,Washington Redskins,6,8,No
-1964,Washington Redskins,6,8,No
-""
-Year
-1963,Washington Redskins,3,11,No
-1962,Washington Redskins,5,7,No
-1961,Washington Redskins,1,12,No
-1960,Washington Redskins,1,9,No
-1959,Washington Redskins,3,9,No
-1958,Washington Redskins,4,7,No
-1957,Washington Redskins,5,6,No
-1956,Washington Redskins,6,6,No
-1955,Washington Redskins,8,4,No
-1954,Washington Redskins,3,9,No
-1953,Washington Redskins,6,5,No
-1952,Washington Redskins,4,8,No
-1951,Washington Redskins,5,7,No
-1950,Washington Redskins,3,9,No
-1949,Washington Redskins,4,7,No
-1948,Washington Redskins,7,5,No
-1947,Washington Redskins,4,8,No
-1946,Washington Redskins,5,5,No
-1945,Washington Redskins*,8,2,L
-1944,Washington Redskins,6,3,No
-1943,Washington Redskins*,6,3,L
-1942,Washington Redskins*,10,1,W
-1941,Washington Redskins,6,5,No
-1940,Washington Redskins*,9,2,L
-1939,Washington Redskins,8,2,No
-1938,Washington Redskins,6,3,No
-1937,Washington Redskins*,8,3,W
-1936,Boston Redskins*,7,5,L
-1935,Boston Redskins,2,8,No
-1934,Boston Redskins,6,6,No
-""
-Year
-1933,Boston Redskins,5,5,No
-1932,Boston Braves,4,4,No
+2023,CRD,1,4,No
+2022,CRD,4,13,No
+2021,CRD,11,6,L
+2020,CRD,8,8,No
+2019,CRD,5,10,No
+2018,CRD,3,13,No
+2017,CRD,8,8,No
+2016,CRD,7,8,No
+2015,CRD,13,3,L
+2014,CRD,11,5,L
+2013,CRD,10,6,No
+2012,CRD,5,11,No
+2011,CRD,8,8,No
+2010,CRD,5,11,No
+2009,CRD,10,6,L
+2008,CRD,9,7,L
+2007,CRD,8,8,No
+2006,CRD,5,11,No
+2005,CRD,5,11,No
+2004,CRD,6,10,No
+2003,CRD,4,12,No
+2002,CRD,5,11,No
+2001,CRD,7,9,No
+2000,CRD,3,13,No
+1999,CRD,6,10,No
+1998,CRD,9,7,L
+1997,CRD,4,12,No
+1996,CRD,7,9,No
+1995,CRD,4,12,No
+1994,CRD,8,8,No
+""
+Year
+1993,CRD,7,9,No
+1992,CRD,4,12,No
+1991,CRD,4,12,No
+1990,CRD,5,11,No
+1989,CRD,5,11,No
+1988,CRD,7,9,No
+1987,CRD,7,8,No
+1986,CRD,4,11,No
+1985,CRD,5,11,No
+1984,CRD,9,7,No
+1983,CRD,8,7,No
+1982,CRD,5,4,L
+1981,CRD,7,9,No
+1980,CRD,5,11,No
+1979,CRD,5,11,No
+1978,CRD,6,10,No
+1977,CRD,7,7,No
+1976,CRD,10,4,No
+1975,CRD,11,3,L
+1974,CRD,10,4,L
+1973,CRD,4,9,No
+1972,CRD,4,9,No
+1971,CRD,4,9,No
+1970,CRD,8,5,No
+1969,CRD,4,9,No
+1968,CRD,9,4,No
+1967,CRD,6,7,No
+1966,CRD,8,5,No
+1965,CRD,5,9,No
+1964,CRD,9,3,No
+""
+Year
+1963,CRD,9,5,No
+1962,CRD,4,9,No
+1961,CRD,7,7,No
+1960,CRD,6,5,No
+1959,CRD,2,10,No
+1958,CRD,2,9,No
+1957,CRD,3,9,No
+1956,CRD,7,5,No
+1955,CRD,4,7,No
+1954,CRD,2,10,No
+1953,CRD,1,10,No
+1952,CRD,4,8,No
+1951,CRD,3,9,No
+1950,CRD,5,7,No
+1949,CRD,6,5,No
+1948,CRD,11,1,L
+1947,CRD,9,3,W
+1946,CRD,6,5,No
+1945,CRD,1,9,No
+1944,CRD,0,10,No
+1943,CRD,0,10,No
+1942,CRD,3,8,No
+1941,CRD,3,7,No
+1940,CRD,2,7,No
+1939,CRD,1,10,No
+1938,CRD,2,9,No
+1937,CRD,5,5,No
+1936,CRD,3,8,No
+1935,CRD,6,4,No
+1934,CRD,5,6,No
+""
+Year
+1933,CRD,1,9,No
+1932,CRD,2,6,No
+1931,CRD,5,4,No
+1930,CRD,5,6,No
+1929,CRD,6,6,No
+1928,CRD,1,5,No
+1927,CRD,3,7,No
+1926,CRD,5,6,No
+1925,CRD,11,2,W
+1924,CRD,5,4,No
+1923,CRD,8,4,No
+1922,CRD,8,3,No
+1921,CRD,3,3,No
+1920,CRD,6,2,No
+""
+Year
+2023,ATL,3,2,No
+2022,ATL,7,10,No
+2021,ATL,7,10,No
+2020,ATL,4,12,No
+2019,ATL,7,9,No
+2018,ATL,7,9,No
+2017,ATL,10,6,L
+2016,ATL,11,5,L
+2015,ATL,8,8,No
+2014,ATL,6,10,No
+2013,ATL,4,12,No
+2012,ATL,13,3,L
+2011,ATL,10,6,L
+2010,ATL,13,3,L
+2009,ATL,9,7,No
+2008,ATL,11,5,L
+2007,ATL,4,12,No
+2006,ATL,7,9,No
+2005,ATL,8,8,No
+2004,ATL,11,5,L
+2003,ATL,5,11,No
+2002,ATL,9,6,L
+2001,ATL,7,9,No
+2000,ATL,4,12,No
+1999,ATL,5,11,No
+1998,ATL,14,2,L
+1997,ATL,7,9,No
+1996,ATL,3,13,No
+1995,ATL,9,7,L
+1994,ATL,7,9,No
+""
+Year
+1993,ATL,6,10,No
+1992,ATL,6,10,No
+1991,ATL,10,6,L
+1990,ATL,5,11,No
+1989,ATL,3,13,No
+1988,ATL,5,11,No
+1987,ATL,3,12,No
+1986,ATL,7,8,No
+1985,ATL,4,12,No
+1984,ATL,4,12,No
+1983,ATL,7,9,No
+1982,ATL,5,4,L
+1981,ATL,7,9,No
+1980,ATL,12,4,L
+1979,ATL,6,10,No
+1978,ATL,9,7,L
+1977,ATL,7,7,No
+1976,ATL,4,10,No
+1975,ATL,4,10,No
+1974,ATL,3,11,No
+1973,ATL,9,5,No
+1972,ATL,7,7,No
+1971,ATL,7,6,No
+1970,ATL,4,8,No
+1969,ATL,6,8,No
+1968,ATL,2,12,No
+1967,ATL,1,12,No
+1966,ATL,3,11,No
+""
+Year
+2023,RAV,3,2,No
+2022,RAV,10,7,L
+2021,RAV,8,9,No
+2020,RAV,11,5,L
+2019,RAV,14,2,L
+2018,RAV,10,6,L
+2017,RAV,9,7,No
+2016,RAV,8,8,No
+2015,RAV,5,11,No
+2014,RAV,10,6,L
+2013,RAV,8,8,No
+2012,RAV,10,6,W
+2011,RAV,12,4,L
+2010,RAV,12,4,L
+2009,RAV,9,7,L
+2008,RAV,11,5,L
+2007,RAV,5,11,No
+2006,RAV,13,3,L
+2005,RAV,6,10,No
+2004,RAV,9,7,No
+2003,RAV,10,6,L
+2002,RAV,7,9,No
+2001,RAV,10,6,L
+2000,RAV,12,4,W
+1999,RAV,8,8,No
+1998,RAV,6,10,No
+1997,RAV,6,9,No
+1996,RAV,4,12,No
+""
+Year
+2023,BUF,3,2,No
+2022,BUF,13,3,L
+2021,BUF,11,6,L
+2020,BUF,13,3,L
+2019,BUF,10,6,L
+2018,BUF,6,10,No
+2017,BUF,9,7,L
+2016,BUF,7,9,No
+2015,BUF,8,8,No
+2014,BUF,9,7,No
+2013,BUF,6,10,No
+2012,BUF,6,10,No
+2011,BUF,6,10,No
+2010,BUF,4,12,No
+2009,BUF,6,10,No
+2008,BUF,7,9,No
+2007,BUF,7,9,No
+2006,BUF,7,9,No
+2005,BUF,5,11,No
+2004,BUF,9,7,No
+2003,BUF,6,10,No
+2002,BUF,8,8,No
+2001,BUF,3,13,No
+2000,BUF,8,8,No
+1999,BUF,11,5,L
+1998,BUF,10,6,L
+1997,BUF,6,10,No
+1996,BUF,10,6,L
+1995,BUF,10,6,L
+1994,BUF,7,9,No
+""
+Year
+1993,BUF,12,4,L
+1992,BUF,11,5,L
+1991,BUF,13,3,L
+1990,BUF,13,3,L
+1989,BUF,9,7,L
+1988,BUF,12,4,L
+1987,BUF,7,8,No
+1986,BUF,4,12,No
+1985,BUF,2,14,No
+1984,BUF,2,14,No
+1983,BUF,8,8,No
+1982,BUF,4,5,No
+1981,BUF,10,6,L
+1980,BUF,11,5,L
+1979,BUF,7,9,No
+1978,BUF,5,11,No
+1977,BUF,3,11,No
+1976,BUF,2,12,No
+1975,BUF,8,6,No
+1974,BUF,9,5,L
+1973,BUF,9,5,No
+1972,BUF,4,9,No
+1971,BUF,1,13,No
+1970,BUF,3,10,No
+1969,BUF,4,10,No
+1968,BUF,1,12,No
+1967,BUF,4,10,No
+1966,BUF,9,4,L
+1965,BUF,10,3,W
+1964,BUF,12,2,W
+""
+Year
+1963,BUF,7,6,L
+1962,BUF,7,6,No
+1961,BUF,6,8,No
+1960,BUF,5,8,No
+""
+Year
+2023,CAR,0,5,No
+2022,CAR,7,10,No
+2021,CAR,5,12,No
+2020,CAR,5,11,No
+2019,CAR,5,11,No
+2018,CAR,7,9,No
+2017,CAR,11,5,L
+2016,CAR,6,10,No
+2015,CAR,15,1,L
+2014,CAR,7,8,L
+2013,CAR,12,4,L
+2012,CAR,7,9,No
+2011,CAR,6,10,No
+2010,CAR,2,14,No
+2009,CAR,8,8,No
+2008,CAR,12,4,L
+2007,CAR,7,9,No
+2006,CAR,8,8,No
+2005,CAR,11,5,L
+2004,CAR,7,9,No
+2003,CAR,11,5,L
+2002,CAR,7,9,No
+2001,CAR,1,15,No
+2000,CAR,7,9,No
+1999,CAR,8,8,No
+1998,CAR,4,12,No
+1997,CAR,7,9,No
+1996,CAR,12,4,L
+1995,CAR,7,9,No
+""
+Year
+2023,CHI,1,4,No
+2022,CHI,3,14,No
+2021,CHI,6,11,No
+2020,CHI,8,8,L
+2019,CHI,8,8,No
+2018,CHI,12,4,L
+2017,CHI,5,11,No
+2016,CHI,3,13,No
+2015,CHI,6,10,No
+2014,CHI,5,11,No
+2013,CHI,8,8,No
+2012,CHI,10,6,No
+2011,CHI,8,8,No
+2010,CHI,11,5,L
+2009,CHI,7,9,No
+2008,CHI,9,7,No
+2007,CHI,7,9,No
+2006,CHI,13,3,L
+2005,CHI,11,5,L
+2004,CHI,5,11,No
+2003,CHI,7,9,No
+2002,CHI,4,12,No
+2001,CHI,13,3,L
+2000,CHI,5,11,No
+1999,CHI,6,10,No
+1998,CHI,4,12,No
+1997,CHI,4,12,No
+1996,CHI,7,9,No
+1995,CHI,9,7,No
+1994,CHI,9,7,L
+""
+Year
+1993,CHI,7,9,No
+1992,CHI,5,11,No
+1991,CHI,11,5,L
+1990,CHI,11,5,L
+1989,CHI,6,10,No
+1988,CHI,12,4,L
+1987,CHI,11,4,L
+1986,CHI,14,2,L
+1985,CHI,15,1,W
+1984,CHI,10,6,L
+1983,CHI,8,8,No
+1982,CHI,3,6,No
+1981,CHI,6,10,No
+1980,CHI,7,9,No
+1979,CHI,10,6,L
+1978,CHI,7,9,No
+1977,CHI,9,5,L
+1976,CHI,7,7,No
+1975,CHI,4,10,No
+1974,CHI,4,10,No
+1973,CHI,3,11,No
+1972,CHI,4,9,No
+1971,CHI,6,8,No
+1970,CHI,6,8,No
+1969,CHI,1,13,No
+1968,CHI,7,7,No
+1967,CHI,7,6,No
+1966,CHI,5,7,No
+1965,CHI,9,5,No
+1964,CHI,5,9,No
+""
+Year
+1963,CHI,11,1,W
+1962,CHI,9,5,No
+1961,CHI,8,6,No
+1960,CHI,5,6,No
+1959,CHI,8,4,No
+1958,CHI,8,4,No
+1957,CHI,5,7,No
+1956,CHI,9,2,L
+1955,CHI,8,4,No
+1954,CHI,8,4,No
+1953,CHI,3,8,No
+1952,CHI,5,7,No
+1951,CHI,7,5,No
+1950,CHI,9,3,L
+1949,CHI,9,3,No
+1948,CHI,10,2,No
+1947,CHI,8,4,No
+1946,CHI,8,2,W
+1945,CHI,3,7,No
+1944,CHI,6,3,No
+1943,CHI,8,1,W
+1942,CHI,11,0,L
+1941,CHI,10,1,W
+1940,CHI,8,3,W
+1939,CHI,8,3,No
+1938,CHI,6,5,No
+1937,CHI,9,1,L
+1936,CHI,9,3,No
+1935,CHI,6,4,No
+1934,CHI,13,0,L
+""
+Year
+1933,CHI,10,2,W
+1932,CHI,7,1,W
+1931,CHI,8,5,No
+1930,CHI,9,4,No
+1929,CHI,4,9,No
+1928,CHI,7,5,No
+1927,CHI,9,3,No
+1926,CHI,12,1,No
+1925,CHI,9,5,No
+1924,CHI,6,1,No
+1923,CHI,9,2,No
+1922,CHI,9,3,No
+1921,CHI,9,1,W
+1920,CHI,10,1,No
+""
+Year
+2023,CIN,2,3,No
+2022,CIN,12,4,L
+2021,CIN,10,7,L
+2020,CIN,4,11,No
+2019,CIN,2,14,No
+2018,CIN,6,10,No
+2017,CIN,7,9,No
+2016,CIN,6,9,No
+2015,CIN,12,4,L
+2014,CIN,10,5,L
+2013,CIN,11,5,L
+2012,CIN,10,6,L
+2011,CIN,9,7,L
+2010,CIN,4,12,No
+2009,CIN,10,6,L
+2008,CIN,4,11,No
+2007,CIN,7,9,No
+2006,CIN,8,8,No
+2005,CIN,11,5,L
+2004,CIN,8,8,No
+2003,CIN,8,8,No
+2002,CIN,2,14,No
+2001,CIN,6,10,No
+2000,CIN,4,12,No
+1999,CIN,4,12,No
+1998,CIN,3,13,No
+1997,CIN,7,9,No
+1996,CIN,8,8,No
+1995,CIN,7,9,No
+1994,CIN,3,13,No
+""
+Year
+1993,CIN,3,13,No
+1992,CIN,5,11,No
+1991,CIN,3,13,No
+1990,CIN,9,7,L
+1989,CIN,8,8,No
+1988,CIN,12,4,L
+1987,CIN,4,11,No
+1986,CIN,10,6,No
+1985,CIN,7,9,No
+1984,CIN,8,8,No
+1983,CIN,7,9,No
+1982,CIN,7,2,L
+1981,CIN,12,4,L
+1980,CIN,6,10,No
+1979,CIN,4,12,No
+1978,CIN,4,12,No
+1977,CIN,8,6,No
+1976,CIN,10,4,No
+1975,CIN,11,3,L
+1974,CIN,7,7,No
+1973,CIN,10,4,L
+1972,CIN,8,6,No
+1971,CIN,4,10,No
+1970,CIN,8,6,L
+1969,CIN,4,9,No
+1968,CIN,3,11,No
+""
+Year
+2023,CLE,2,2,No
+2022,CLE,7,10,No
+2021,CLE,8,9,No
+2020,CLE,11,5,L
+2019,CLE,6,10,No
+2018,CLE,7,8,No
+2017,CLE,0,16,No
+2016,CLE,1,15,No
+2015,CLE,3,13,No
+2014,CLE,7,9,No
+2013,CLE,4,12,No
+2012,CLE,5,11,No
+2011,CLE,4,12,No
+2010,CLE,5,11,No
+2009,CLE,5,11,No
+2008,CLE,4,12,No
+2007,CLE,10,6,No
+2006,CLE,4,12,No
+2005,CLE,6,10,No
+2004,CLE,4,12,No
+2003,CLE,5,11,No
+2002,CLE,9,7,L
+2001,CLE,7,9,No
+2000,CLE,3,13,No
+1999,CLE,2,14,No
+1995,CLE,5,11,No
+1994,CLE,11,5,L
+1993,CLE,7,9,No
+1992,CLE,7,9,No
+1991,CLE,6,10,No
+""
+Year
+1990,CLE,3,13,No
+1989,CLE,9,6,L
+1988,CLE,10,6,L
+1987,CLE,10,5,L
+1986,CLE,12,4,L
+1985,CLE,8,8,L
+1984,CLE,5,11,No
+1983,CLE,9,7,No
+1982,CLE,4,5,L
+1981,CLE,5,11,No
+1980,CLE,11,5,L
+1979,CLE,9,7,No
+1978,CLE,8,8,No
+1977,CLE,6,8,No
+1976,CLE,9,5,No
+1975,CLE,3,11,No
+1974,CLE,4,10,No
+1973,CLE,7,5,No
+1972,CLE,10,4,L
+1971,CLE,9,5,L
+1970,CLE,7,7,No
+1969,CLE,10,3,L
+1968,CLE,10,4,L
+1967,CLE,9,5,L
+1966,CLE,9,5,No
+1965,CLE,11,3,L
+1964,CLE,10,3,W
+1963,CLE,10,4,No
+1962,CLE,7,6,No
+1961,CLE,8,5,No
+""
+Year
+1960,CLE,8,3,No
+1959,CLE,7,5,No
+1958,CLE,9,3,L
+1957,CLE,9,2,L
+1956,CLE,5,7,No
+1955,CLE,9,2,W
+1954,CLE,9,3,W
+1953,CLE,11,1,L
+1952,CLE,8,4,L
+1951,CLE,11,1,L
+1950,CLE,10,2,W
+1949,CLE,9,1,W
+1948,CLE,14,0,W
+1947,CLE,12,1,W
+1946,CLE,12,2,W
+""
+Year
+2023,DAL,3,2,No
+2022,DAL,12,5,L
+2021,DAL,12,5,L
+2020,DAL,6,10,No
+2019,DAL,8,8,No
+2018,DAL,10,6,L
+2017,DAL,9,7,No
+2016,DAL,13,3,L
+2015,DAL,4,12,No
+2014,DAL,12,4,L
+2013,DAL,8,8,No
+2012,DAL,8,8,No
+2011,DAL,8,8,No
+2010,DAL,6,10,No
+2009,DAL,11,5,L
+2008,DAL,9,7,No
+2007,DAL,13,3,L
+2006,DAL,9,7,L
+2005,DAL,9,7,No
+2004,DAL,6,10,No
+2003,DAL,10,6,L
+2002,DAL,5,11,No
+2001,DAL,5,11,No
+2000,DAL,5,11,No
+1999,DAL,8,8,L
+1998,DAL,10,6,L
+1997,DAL,6,10,No
+1996,DAL,10,6,L
+1995,DAL,12,4,W
+1994,DAL,12,4,L
+""
+Year
+1993,DAL,12,4,W
+1992,DAL,13,3,W
+1991,DAL,11,5,L
+1990,DAL,7,9,No
+1989,DAL,1,15,No
+1988,DAL,3,13,No
+1987,DAL,7,8,No
+1986,DAL,7,9,No
+1985,DAL,10,6,L
+1984,DAL,9,7,No
+1983,DAL,12,4,L
+1982,DAL,6,3,L
+1981,DAL,12,4,L
+1980,DAL,12,4,L
+1979,DAL,11,5,L
+1978,DAL,12,4,L
+1977,DAL,12,2,W
+1976,DAL,11,3,L
+1975,DAL,10,4,L
+1974,DAL,8,6,No
+1973,DAL,10,4,L
+1972,DAL,10,4,L
+1971,DAL,11,3,W
+1970,DAL,10,4,L
+1969,DAL,11,2,L
+1968,DAL,12,2,L
+1967,DAL,9,5,L
+1966,DAL,10,3,L
+1965,DAL,7,7,No
+1964,DAL,5,8,No
+""
+Year
+1963,DAL,4,10,No
+1962,DAL,5,8,No
+1961,DAL,4,9,No
+1960,DAL,0,11,No
+""
+Year
+2023,DEN,1,4,No
+2022,DEN,5,12,No
+2021,DEN,7,10,No
+2020,DEN,5,11,No
+2019,DEN,7,9,No
+2018,DEN,6,10,No
+2017,DEN,5,11,No
+2016,DEN,9,7,No
+2015,DEN,12,4,W
+2014,DEN,12,4,L
+2013,DEN,13,3,L
+2012,DEN,13,3,L
+2011,DEN,8,8,L
+2010,DEN,4,12,No
+2009,DEN,8,8,No
+2008,DEN,8,8,No
+2007,DEN,7,9,No
+2006,DEN,9,7,No
+2005,DEN,13,3,L
+2004,DEN,10,6,L
+2003,DEN,10,6,L
+2002,DEN,9,7,No
+2001,DEN,8,8,No
+2000,DEN,11,5,L
+1999,DEN,6,10,No
+1998,DEN,14,2,W
+1997,DEN,12,4,W
+1996,DEN,13,3,L
+1995,DEN,8,8,No
+1994,DEN,7,9,No
+""
+Year
+1993,DEN,9,7,L
+1992,DEN,8,8,No
+1991,DEN,12,4,L
+1990,DEN,5,11,No
+1989,DEN,11,5,L
+1988,DEN,8,8,No
+1987,DEN,10,4,L
+1986,DEN,11,5,L
+1985,DEN,11,5,No
+1984,DEN,13,3,L
+1983,DEN,9,7,L
+1982,DEN,2,7,No
+1981,DEN,10,6,No
+1980,DEN,8,8,No
+1979,DEN,10,6,L
+1978,DEN,10,6,L
+1977,DEN,12,2,L
+1976,DEN,9,5,No
+1975,DEN,6,8,No
+1974,DEN,7,6,No
+1973,DEN,7,5,No
+1972,DEN,5,9,No
+1971,DEN,4,9,No
+1970,DEN,5,8,No
+1969,DEN,5,8,No
+1968,DEN,5,9,No
+1967,DEN,3,11,No
+1966,DEN,4,10,No
+1965,DEN,4,10,No
+1964,DEN,2,11,No
+""
+Year
+1963,DEN,2,11,No
+1962,DEN,7,7,No
+1961,DEN,3,11,No
+1960,DEN,4,9,No
+""
+Year
+2023,DET,4,1,No
+2022,DET,9,8,No
+2021,DET,3,13,No
+2020,DET,5,11,No
+2019,DET,3,12,No
+2018,DET,6,10,No
+2017,DET,9,7,No
+2016,DET,9,7,L
+2015,DET,7,9,No
+2014,DET,11,5,L
+2013,DET,7,9,No
+2012,DET,4,12,No
+2011,DET,10,6,L
+2010,DET,6,10,No
+2009,DET,2,14,No
+2008,DET,0,16,No
+2007,DET,7,9,No
+2006,DET,3,13,No
+2005,DET,5,11,No
+2004,DET,6,10,No
+2003,DET,5,11,No
+2002,DET,3,13,No
+2001,DET,2,14,No
+2000,DET,9,7,No
+1999,DET,8,8,L
+1998,DET,5,11,No
+1997,DET,9,7,L
+1996,DET,5,11,No
+1995,DET,10,6,L
+1994,DET,9,7,L
+""
+Year
+1993,DET,10,6,L
+1992,DET,5,11,No
+1991,DET,12,4,L
+1990,DET,6,10,No
+1989,DET,7,9,No
+1988,DET,4,12,No
+1987,DET,4,11,No
+1986,DET,5,11,No
+1985,DET,7,9,No
+1984,DET,4,11,No
+1983,DET,9,7,L
+1982,DET,4,5,L
+1981,DET,8,8,No
+1980,DET,9,7,No
+1979,DET,2,14,No
+1978,DET,7,9,No
+1977,DET,6,8,No
+1976,DET,6,8,No
+1975,DET,7,7,No
+1974,DET,7,7,No
+1973,DET,6,7,No
+1972,DET,8,5,No
+1971,DET,7,6,No
+1970,DET,10,4,L
+1969,DET,9,4,No
+1968,DET,4,8,No
+1967,DET,5,7,No
+1966,DET,4,9,No
+1965,DET,6,7,No
+1964,DET,7,5,No
+""
+Year
+1963,DET,5,8,No
+1962,DET,11,3,No
+1961,DET,8,5,No
+1960,DET,7,5,No
+1959,DET,3,8,No
+1958,DET,4,7,No
+1957,DET,8,4,W
+1956,DET,9,3,No
+1955,DET,3,9,No
+1954,DET,9,2,L
+1953,DET,10,2,W
+1952,DET,9,3,W
+1951,DET,7,4,No
+1950,DET,6,6,No
+1949,DET,4,8,No
+1948,DET,2,10,No
+1947,DET,3,9,No
+1946,DET,1,10,No
+1945,DET,7,3,No
+1944,DET,6,3,No
+1943,DET,3,6,No
+1942,DET,0,11,No
+1941,DET,4,6,No
+1940,DET,5,5,No
+1939,DET,6,5,No
+1938,DET,7,4,No
+1937,DET,7,4,No
+1936,DET,8,4,No
+1935,DET,7,3,W
+1934,DET,10,3,No
+""
+Year
+1933,DET,6,5,No
+1932,DET,6,2,No
+1931,DET,11,3,No
+1930,DET,5,6,No
+""
+Year
+2023,GNB,2,3,No
+2022,GNB,8,9,No
+2021,GNB,13,4,L
+2020,GNB,13,3,L
+2019,GNB,13,3,L
+2018,GNB,6,9,No
+2017,GNB,7,9,No
+2016,GNB,10,6,L
+2015,GNB,10,6,L
+2014,GNB,12,4,L
+2013,GNB,8,7,L
+2012,GNB,11,5,L
+2011,GNB,15,1,L
+2010,GNB,10,6,W
+2009,GNB,11,5,L
+2008,GNB,6,10,No
+2007,GNB,13,3,L
+2006,GNB,8,8,No
+2005,GNB,4,12,No
+2004,GNB,10,6,L
+2003,GNB,10,6,L
+2002,GNB,12,4,L
+2001,GNB,12,4,L
+2000,GNB,9,7,No
+1999,GNB,8,8,No
+1998,GNB,11,5,L
+1997,GNB,13,3,L
+1996,GNB,13,3,W
+1995,GNB,11,5,L
+1994,GNB,9,7,L
+""
+Year
+1993,GNB,9,7,L
+1992,GNB,9,7,No
+1991,GNB,4,12,No
+1990,GNB,6,10,No
+1989,GNB,10,6,No
+1988,GNB,4,12,No
+1987,GNB,5,9,No
+1986,GNB,4,12,No
+1985,GNB,8,8,No
+1984,GNB,8,8,No
+1983,GNB,8,8,No
+1982,GNB,5,3,L
+1981,GNB,8,8,No
+1980,GNB,5,10,No
+1979,GNB,5,11,No
+1978,GNB,8,7,No
+1977,GNB,4,10,No
+1976,GNB,5,9,No
+1975,GNB,4,10,No
+1974,GNB,6,8,No
+1973,GNB,5,7,No
+1972,GNB,10,4,L
+1971,GNB,4,8,No
+1970,GNB,6,8,No
+1969,GNB,8,6,No
+1968,GNB,6,7,No
+1967,GNB,9,4,W
+1966,GNB,12,2,W
+1965,GNB,10,3,W
+1964,GNB,8,5,No
+""
+Year
+1963,GNB,11,2,No
+1962,GNB,13,1,W
+1961,GNB,11,3,W
+1960,GNB,8,4,L
+1959,GNB,7,5,No
+1958,GNB,1,10,No
+1957,GNB,3,9,No
+1956,GNB,4,8,No
+1955,GNB,6,6,No
+1954,GNB,4,8,No
+1953,GNB,2,9,No
+1952,GNB,6,6,No
+1951,GNB,3,9,No
+1950,GNB,3,9,No
+1949,GNB,2,10,No
+1948,GNB,3,9,No
+1947,GNB,6,5,No
+1946,GNB,6,5,No
+1945,GNB,6,4,No
+1944,GNB,8,2,W
+1943,GNB,7,2,No
+1942,GNB,8,2,No
+1941,GNB,10,1,L
+1940,GNB,6,4,No
+1939,GNB,9,2,W
+1938,GNB,8,3,L
+1937,GNB,7,4,No
+1936,GNB,10,1,W
+1935,GNB,8,4,No
+1934,GNB,7,6,No
+""
+Year
+1933,GNB,5,7,No
+1932,GNB,10,3,No
+1931,GNB,12,2,W
+1930,GNB,10,3,W
+1929,GNB,12,0,W
+1928,GNB,6,4,No
+1927,GNB,7,2,No
+1926,GNB,7,3,No
+1925,GNB,8,5,No
+1924,GNB,7,4,No
+1923,GNB,7,2,No
+1922,GNB,4,3,No
+1921,GNB,3,2,No
+""
+Year
+2023,HTX,2,3,No
+2022,HTX,3,13,No
+2021,HTX,4,13,No
+2020,HTX,4,12,No
+2019,HTX,10,6,L
+2018,HTX,11,5,L
+2017,HTX,4,12,No
+2016,HTX,9,7,L
+2015,HTX,9,7,L
+2014,HTX,9,7,No
+2013,HTX,2,14,No
+2012,HTX,12,4,L
+2011,HTX,10,6,L
+2010,HTX,6,10,No
+2009,HTX,9,7,No
+2008,HTX,8,8,No
+2007,HTX,8,8,No
+2006,HTX,6,10,No
+2005,HTX,2,14,No
+2004,HTX,7,9,No
+2003,HTX,5,11,No
+2002,HTX,4,12,No
+""
+Year
+2023,CLT,3,2,No
+2022,CLT,4,12,No
+2021,CLT,9,8,No
+2020,CLT,11,5,L
+2019,CLT,7,9,No
+2018,CLT,10,6,L
+2017,CLT,4,12,No
+2016,CLT,8,8,No
+2015,CLT,8,8,No
+2014,CLT,11,5,L
+2013,CLT,11,5,L
+2012,CLT,11,5,L
+2011,CLT,2,14,No
+2010,CLT,10,6,L
+2009,CLT,14,2,L
+2008,CLT,12,4,L
+2007,CLT,13,3,L
+2006,CLT,12,4,W
+2005,CLT,14,2,L
+2004,CLT,12,4,L
+2003,CLT,12,4,L
+2002,CLT,10,6,L
+2001,CLT,6,10,No
+2000,CLT,10,6,L
+1999,CLT,13,3,L
+1998,CLT,3,13,No
+1997,CLT,3,13,No
+1996,CLT,9,7,L
+1995,CLT,9,7,L
+1994,CLT,8,8,No
+""
+Year
+1993,CLT,4,12,No
+1992,CLT,9,7,No
+1991,CLT,1,15,No
+1990,CLT,7,9,No
+1989,CLT,8,8,No
+1988,CLT,9,7,No
+1987,CLT,9,6,L
+1986,CLT,3,13,No
+1985,CLT,5,11,No
+1984,CLT,4,12,No
+1983,CLT,7,9,No
+1982,CLT,0,8,No
+1981,CLT,2,14,No
+1980,CLT,7,9,No
+1979,CLT,5,11,No
+1978,CLT,5,11,No
+1977,CLT,10,4,L
+1976,CLT,11,3,L
+1975,CLT,10,4,L
+1974,CLT,2,12,No
+1973,CLT,4,10,No
+1972,CLT,5,9,No
+1971,CLT,10,4,L
+1970,CLT,11,2,W
+1969,CLT,8,5,No
+1968,CLT,13,1,L
+1967,CLT,11,1,No
+1966,CLT,9,5,No
+1965,CLT,10,3,L
+1964,CLT,12,2,L
+""
+Year
+1963,CLT,8,6,No
+1962,CLT,7,7,No
+1961,CLT,8,6,No
+1960,CLT,6,6,No
+1959,CLT,9,3,W
+1958,CLT,9,3,W
+1957,CLT,7,5,No
+1956,CLT,5,7,No
+1955,CLT,5,6,No
+1954,CLT,3,9,No
+1953,CLT,3,9,No
+""
+Year
+2023,JAX,3,2,No
+2022,JAX,9,8,L
+2021,JAX,3,14,No
+2020,JAX,1,15,No
+2019,JAX,6,10,No
+2018,JAX,5,11,No
+2017,JAX,10,6,L
+2016,JAX,3,13,No
+2015,JAX,5,11,No
+2014,JAX,3,13,No
+2013,JAX,4,12,No
+2012,JAX,2,14,No
+2011,JAX,5,11,No
+2010,JAX,8,8,No
+2009,JAX,7,9,No
+2008,JAX,5,11,No
+2007,JAX,11,5,L
+2006,JAX,8,8,No
+2005,JAX,12,4,L
+2004,JAX,9,7,No
+2003,JAX,5,11,No
+2002,JAX,6,10,No
+2001,JAX,6,10,No
+2000,JAX,7,9,No
+1999,JAX,14,2,L
+1998,JAX,11,5,L
+1997,JAX,11,5,L
+1996,JAX,9,7,L
+1995,JAX,4,12,No
+""
+Year
+2023,KAN,4,1,No
+2022,KAN,14,3,W
+2021,KAN,12,5,L
+2020,KAN,14,2,L
+2019,KAN,12,4,W
+2018,KAN,12,4,L
+2017,KAN,10,6,L
+2016,KAN,12,4,L
+2015,KAN,11,5,L
+2014,KAN,9,7,No
+2013,KAN,11,5,L
+2012,KAN,2,14,No
+2011,KAN,7,9,No
+2010,KAN,10,6,L
+2009,KAN,4,12,No
+2008,KAN,2,14,No
+2007,KAN,4,12,No
+2006,KAN,9,7,L
+2005,KAN,10,6,No
+2004,KAN,7,9,No
+2003,KAN,13,3,L
+2002,KAN,8,8,No
+2001,KAN,6,10,No
+2000,KAN,7,9,No
+1999,KAN,9,7,No
+1998,KAN,7,9,No
+1997,KAN,13,3,L
+1996,KAN,9,7,No
+1995,KAN,13,3,L
+1994,KAN,9,7,L
+""
+Year
+1993,KAN,11,5,L
+1992,KAN,10,6,L
+1991,KAN,10,6,L
+1990,KAN,11,5,L
+1989,KAN,8,7,No
+1988,KAN,4,11,No
+1987,KAN,4,11,No
+1986,KAN,10,6,L
+1985,KAN,6,10,No
+1984,KAN,8,8,No
+1983,KAN,6,10,No
+1982,KAN,3,6,No
+1981,KAN,9,7,No
+1980,KAN,8,8,No
+1979,KAN,7,9,No
+1978,KAN,4,12,No
+1977,KAN,2,12,No
+1976,KAN,5,9,No
+1975,KAN,5,9,No
+1974,KAN,5,9,No
+1973,KAN,7,5,No
+1972,KAN,8,6,No
+1971,KAN,10,3,L
+1970,KAN,7,5,No
+1969,KAN,11,3,W
+1968,KAN,12,2,L
+1967,KAN,9,5,No
+1966,KAN,11,2,L
+1965,KAN,7,5,No
+1964,KAN,7,7,No
+""
+Year
+1963,KAN,5,7,No
+1962,KAN,11,3,W
+1961,KAN,6,8,No
+1960,KAN,8,6,No
+""
+Year
+2023,SDG,2,2,No
+2022,SDG,10,7,L
+2021,SDG,9,8,No
+2020,SDG,7,9,No
+2019,SDG,5,11,No
+2018,SDG,12,4,L
+2017,SDG,9,7,No
+2016,SDG,5,11,No
+2015,SDG,4,12,No
+2014,SDG,9,7,No
+2013,SDG,9,7,L
+2012,SDG,7,9,No
+2011,SDG,8,8,No
+2010,SDG,9,7,No
+2009,SDG,13,3,L
+2008,SDG,8,8,L
+2007,SDG,11,5,L
+2006,SDG,14,2,L
+2005,SDG,9,7,No
+2004,SDG,12,4,L
+2003,SDG,4,12,No
+2002,SDG,8,8,No
+2001,SDG,5,11,No
+2000,SDG,1,15,No
+1999,SDG,8,8,No
+1998,SDG,5,11,No
+1997,SDG,4,12,No
+1996,SDG,8,8,No
+1995,SDG,9,7,L
+1994,SDG,11,5,L
+""
+Year
+1993,SDG,8,8,No
+1992,SDG,11,5,L
+1991,SDG,4,12,No
+1990,SDG,6,10,No
+1989,SDG,6,10,No
+1988,SDG,6,10,No
+1987,SDG,8,7,No
+1986,SDG,4,12,No
+1985,SDG,8,8,No
+1984,SDG,7,9,No
+1983,SDG,6,10,No
+1982,SDG,6,3,L
+1981,SDG,10,6,L
+1980,SDG,11,5,L
+1979,SDG,12,4,L
+1978,SDG,9,7,No
+1977,SDG,7,7,No
+1976,SDG,6,8,No
+1975,SDG,2,12,No
+1974,SDG,5,9,No
+1973,SDG,2,11,No
+1972,SDG,4,9,No
+1971,SDG,6,8,No
+1970,SDG,5,6,No
+1969,SDG,8,6,No
+1968,SDG,9,5,No
+1967,SDG,8,5,No
+1966,SDG,7,6,No
+1965,SDG,9,2,L
+1964,SDG,8,5,L
+""
+Year
+1963,SDG,11,3,W
+1962,SDG,4,10,No
+1961,SDG,12,2,L
+1960,SDG,10,4,L
+""
+Year
+2023,RAM,2,3,No
+2022,RAM,5,12,No
+2021,RAM,12,5,W
+2020,RAM,10,6,L
+2019,RAM,9,7,No
+2018,RAM,13,3,L
+2017,RAM,11,5,L
+2016,RAM,4,12,No
+2015,RAM,7,9,No
+2014,RAM,6,10,No
+2013,RAM,7,9,No
+2012,RAM,7,8,No
+2011,RAM,2,14,No
+2010,RAM,7,9,No
+2009,RAM,1,15,No
+2008,RAM,2,14,No
+2007,RAM,3,13,No
+2006,RAM,8,8,No
+2005,RAM,6,10,No
+2004,RAM,8,8,L
+2003,RAM,12,4,L
+2002,RAM,7,9,No
+2001,RAM,14,2,L
+2000,RAM,10,6,L
+1999,RAM,13,3,W
+1998,RAM,4,12,No
+1997,RAM,5,11,No
+1996,RAM,6,10,No
+1995,RAM,7,9,No
+1994,RAM,4,12,No
+""
+Year
+1993,RAM,5,11,No
+1992,RAM,6,10,No
+1991,RAM,3,13,No
+1990,RAM,5,11,No
+1989,RAM,11,5,L
+1988,RAM,10,6,L
+1987,RAM,6,9,No
+1986,RAM,10,6,L
+1985,RAM,11,5,L
+1984,RAM,10,6,L
+1983,RAM,9,7,L
+1982,RAM,2,7,No
+1981,RAM,6,10,No
+1980,RAM,11,5,L
+1979,RAM,9,7,L
+1978,RAM,12,4,L
+1977,RAM,10,4,L
+1976,RAM,10,3,L
+1975,RAM,12,2,L
+1974,RAM,10,4,L
+1973,RAM,12,2,L
+1972,RAM,6,7,No
+1971,RAM,8,5,No
+1970,RAM,9,4,No
+1969,RAM,11,3,L
+1968,RAM,10,3,No
+1967,RAM,11,1,L
+1966,RAM,8,6,No
+1965,RAM,4,10,No
+1964,RAM,5,7,No
+""
+Year
+1963,RAM,5,9,No
+1962,RAM,1,12,No
+1961,RAM,4,10,No
+1960,RAM,4,7,No
+1959,RAM,2,10,No
+1958,RAM,8,4,No
+1957,RAM,6,6,No
+1956,RAM,4,8,No
+1955,RAM,8,3,L
+1954,RAM,6,5,No
+1953,RAM,8,3,No
+1952,RAM,9,3,L
+1951,RAM,8,4,W
+1950,RAM,9,3,L
+1949,RAM,8,2,L
+1948,RAM,6,5,No
+1947,RAM,6,6,No
+1946,RAM,6,4,No
+1945,RAM,9,1,W
+1944,RAM,4,6,No
+1942,RAM,5,6,No
+1941,RAM,2,9,No
+1940,RAM,4,6,No
+1939,RAM,5,5,No
+1938,RAM,4,7,No
+1937,RAM,1,10,No
+""
+Year
+2023,RAI,2,3,No
+2022,RAI,6,11,No
+2021,RAI,10,7,L
+2020,RAI,8,8,No
+2019,RAI,7,9,No
+2018,RAI,4,12,No
+2017,RAI,6,10,No
+2016,RAI,12,4,L
+2015,RAI,7,9,No
+2014,RAI,3,13,No
+2013,RAI,4,12,No
+2012,RAI,4,12,No
+2011,RAI,8,8,No
+2010,RAI,8,8,No
+2009,RAI,5,11,No
+2008,RAI,5,11,No
+2007,RAI,4,12,No
+2006,RAI,2,14,No
+2005,RAI,4,12,No
+2004,RAI,5,11,No
+2003,RAI,4,12,No
+2002,RAI,11,5,L
+2001,RAI,10,6,L
+2000,RAI,12,4,L
+1999,RAI,8,8,No
+1998,RAI,8,8,No
+1997,RAI,4,12,No
+1996,RAI,7,9,No
+1995,RAI,8,8,No
+1994,RAI,9,7,No
+""
+Year
+1993,RAI,10,6,L
+1992,RAI,7,9,No
+1991,RAI,9,7,L
+1990,RAI,12,4,L
+1989,RAI,8,8,No
+1988,RAI,7,9,No
+1987,RAI,5,10,No
+1986,RAI,8,8,No
+1985,RAI,12,4,L
+1984,RAI,11,5,L
+1983,RAI,12,4,W
+1982,RAI,8,1,L
+1981,RAI,7,9,No
+1980,RAI,11,5,W
+1979,RAI,9,7,No
+1978,RAI,9,7,No
+1977,RAI,11,3,L
+1976,RAI,13,1,W
+1975,RAI,11,3,L
+1974,RAI,12,2,L
+1973,RAI,9,4,L
+1972,RAI,10,3,L
+1971,RAI,8,4,No
+1970,RAI,8,4,L
+1969,RAI,12,1,L
+1968,RAI,12,2,L
+1967,RAI,13,1,L
+1966,RAI,8,5,No
+1965,RAI,8,5,No
+1964,RAI,5,7,No
+""
+Year
+1963,RAI,10,4,No
+1962,RAI,1,13,No
+1961,RAI,2,12,No
+1960,RAI,6,8,No
+""
+Year
+2023,MIA,4,1,No
+2022,MIA,9,8,L
+2021,MIA,9,8,No
+2020,MIA,10,6,No
+2019,MIA,5,11,No
+2018,MIA,7,9,No
+2017,MIA,6,10,No
+2016,MIA,10,6,L
+2015,MIA,6,10,No
+2014,MIA,8,8,No
+2013,MIA,8,8,No
+2012,MIA,7,9,No
+2011,MIA,6,10,No
+2010,MIA,7,9,No
+2009,MIA,7,9,No
+2008,MIA,11,5,L
+2007,MIA,1,15,No
+2006,MIA,6,10,No
+2005,MIA,9,7,No
+2004,MIA,4,12,No
+2003,MIA,10,6,No
+2002,MIA,9,7,No
+2001,MIA,11,5,L
+2000,MIA,11,5,L
+1999,MIA,9,7,L
+1998,MIA,10,6,L
+1997,MIA,9,7,L
+1996,MIA,8,8,No
+1995,MIA,9,7,L
+1994,MIA,10,6,L
+""
+Year
+1993,MIA,9,7,No
+1992,MIA,11,5,L
+1991,MIA,8,8,No
+1990,MIA,12,4,L
+1989,MIA,8,8,No
+1988,MIA,6,10,No
+1987,MIA,8,7,No
+1986,MIA,8,8,No
+1985,MIA,12,4,L
+1984,MIA,14,2,L
+1983,MIA,12,4,L
+1982,MIA,7,2,L
+1981,MIA,11,4,L
+1980,MIA,8,8,No
+1979,MIA,10,6,L
+1978,MIA,11,5,L
+1977,MIA,10,4,No
+1976,MIA,6,8,No
+1975,MIA,10,4,No
+1974,MIA,11,3,L
+1973,MIA,12,2,W
+1972,MIA,14,0,W
+1971,MIA,10,3,L
+1970,MIA,10,4,L
+1969,MIA,3,10,No
+1968,MIA,5,8,No
+1967,MIA,4,10,No
+1966,MIA,3,11,No
+""
+Year
+2023,MIN,1,4,No
+2022,MIN,13,4,L
+2021,MIN,8,9,No
+2020,MIN,7,9,No
+2019,MIN,10,6,L
+2018,MIN,8,7,No
+2017,MIN,13,3,L
+2016,MIN,8,8,No
+2015,MIN,11,5,L
+2014,MIN,7,9,No
+2013,MIN,5,10,No
+2012,MIN,10,6,L
+2011,MIN,3,13,No
+2010,MIN,6,10,No
+2009,MIN,12,4,L
+2008,MIN,10,6,L
+2007,MIN,8,8,No
+2006,MIN,6,10,No
+2005,MIN,9,7,No
+2004,MIN,8,8,L
+2003,MIN,9,7,No
+2002,MIN,6,10,No
+2001,MIN,5,11,No
+2000,MIN,11,5,L
+1999,MIN,10,6,L
+1998,MIN,15,1,L
+1997,MIN,9,7,L
+1996,MIN,9,7,L
+1995,MIN,8,8,No
+1994,MIN,10,6,L
+""
+Year
+1993,MIN,9,7,L
+1992,MIN,11,5,L
+1991,MIN,8,8,No
+1990,MIN,6,10,No
+1989,MIN,10,6,L
+1988,MIN,11,5,L
+1987,MIN,8,7,L
+1986,MIN,9,7,No
+1985,MIN,7,9,No
+1984,MIN,3,13,No
+1983,MIN,8,8,No
+1982,MIN,5,4,L
+1981,MIN,7,9,No
+1980,MIN,9,7,L
+1979,MIN,7,9,No
+1978,MIN,8,7,L
+1977,MIN,9,5,L
+1976,MIN,11,2,L
+1975,MIN,12,2,L
+1974,MIN,10,4,L
+1973,MIN,12,2,L
+1972,MIN,7,7,No
+1971,MIN,11,3,L
+1970,MIN,12,2,L
+1969,MIN,12,2,L
+1968,MIN,8,6,L
+1967,MIN,3,8,No
+1966,MIN,4,9,No
+1965,MIN,7,7,No
+1964,MIN,8,5,No
+""
+Year
+1963,MIN,5,8,No
+1962,MIN,2,11,No
+1961,MIN,3,11,No
+""
+Year
+2023,NWE,1,4,No
+2022,NWE,8,9,No
+2021,NWE,10,7,L
+2020,NWE,7,9,No
+2019,NWE,12,4,L
+2018,NWE,11,5,W
+2017,NWE,13,3,L
+2016,NWE,14,2,W
+2015,NWE,12,4,L
+2014,NWE,12,4,W
+2013,NWE,12,4,L
+2012,NWE,12,4,L
+2011,NWE,13,3,L
+2010,NWE,14,2,L
+2009,NWE,10,6,L
+2008,NWE,11,5,No
+2007,NWE,16,0,L
+2006,NWE,12,4,L
+2005,NWE,10,6,L
+2004,NWE,14,2,W
+2003,NWE,14,2,W
+2002,NWE,9,7,No
+2001,NWE,11,5,W
+2000,NWE,5,11,No
+1999,NWE,8,8,No
+1998,NWE,9,7,L
+1997,NWE,10,6,L
+1996,NWE,11,5,L
+1995,NWE,6,10,No
+1994,NWE,10,6,L
+""
+Year
+1993,NWE,5,11,No
+1992,NWE,2,14,No
+1991,NWE,6,10,No
+1990,NWE,1,15,No
+1989,NWE,5,11,No
+1988,NWE,9,7,No
+1987,NWE,8,7,No
+1986,NWE,11,5,L
+1985,NWE,11,5,L
+1984,NWE,9,7,No
+1983,NWE,8,8,No
+1982,NWE,5,4,L
+1981,NWE,2,14,No
+1980,NWE,10,6,No
+1979,NWE,9,7,No
+1978,NWE,11,5,L
+1977,NWE,9,5,No
+1976,NWE,11,3,L
+1975,NWE,3,11,No
+1974,NWE,7,7,No
+1973,NWE,5,9,No
+1972,NWE,3,11,No
+1971,NWE,6,8,No
+1970,NWE,2,12,No
+1969,NWE,4,10,No
+1968,NWE,4,10,No
+1967,NWE,3,10,No
+1966,NWE,8,4,No
+1965,NWE,4,8,No
+1964,NWE,10,3,No
+""
+Year
+1963,NWE,7,6,L
+1962,NWE,9,4,No
+1961,NWE,9,4,No
+1960,NWE,5,9,No
+""
+Year
+2023,NOR,3,2,No
+2022,NOR,7,10,No
+2021,NOR,9,8,No
+2020,NOR,12,4,L
+2019,NOR,13,3,L
+2018,NOR,13,3,L
+2017,NOR,11,5,L
+2016,NOR,7,9,No
+2015,NOR,7,9,No
+2014,NOR,7,9,No
+2013,NOR,11,5,L
+2012,NOR,7,9,No
+2011,NOR,13,3,L
+2010,NOR,11,5,L
+2009,NOR,13,3,W
+2008,NOR,8,8,No
+2007,NOR,7,9,No
+2006,NOR,10,6,L
+2005,NOR,3,13,No
+2004,NOR,8,8,No
+2003,NOR,8,8,No
+2002,NOR,9,7,No
+2001,NOR,7,9,No
+2000,NOR,10,6,L
+1999,NOR,3,13,No
+1998,NOR,6,10,No
+1997,NOR,6,10,No
+1996,NOR,3,13,No
+1995,NOR,7,9,No
+1994,NOR,7,9,No
+""
+Year
+1993,NOR,8,8,No
+1992,NOR,12,4,L
+1991,NOR,11,5,L
+1990,NOR,8,8,L
+1989,NOR,9,7,No
+1988,NOR,10,6,No
+1987,NOR,12,3,L
+1986,NOR,7,9,No
+1985,NOR,5,11,No
+1984,NOR,7,9,No
+1983,NOR,8,8,No
+1982,NOR,4,5,No
+1981,NOR,4,12,No
+1980,NOR,1,15,No
+1979,NOR,8,8,No
+1978,NOR,7,9,No
+1977,NOR,3,11,No
+1976,NOR,4,10,No
+1975,NOR,2,12,No
+1974,NOR,5,9,No
+1973,NOR,5,9,No
+1972,NOR,2,11,No
+1971,NOR,4,8,No
+1970,NOR,2,11,No
+1969,NOR,5,9,No
+1968,NOR,4,9,No
+1967,NOR,3,11,No
+""
+Year
+2023,NYG,1,4,No
+2022,NYG,9,7,L
+2021,NYG,4,13,No
+2020,NYG,6,10,No
+2019,NYG,4,12,No
+2018,NYG,5,11,No
+2017,NYG,3,13,No
+2016,NYG,11,5,L
+2015,NYG,6,10,No
+2014,NYG,6,10,No
+2013,NYG,7,9,No
+2012,NYG,9,7,No
+2011,NYG,9,7,W
+2010,NYG,10,6,No
+2009,NYG,8,8,No
+2008,NYG,12,4,L
+2007,NYG,10,6,W
+2006,NYG,8,8,L
+2005,NYG,11,5,L
+2004,NYG,6,10,No
+2003,NYG,4,12,No
+2002,NYG,10,6,L
+2001,NYG,7,9,No
+2000,NYG,12,4,L
+1999,NYG,7,9,No
+1998,NYG,8,8,No
+1997,NYG,10,5,L
+1996,NYG,6,10,No
+1995,NYG,5,11,No
+1994,NYG,9,7,No
+""
+Year
+1993,NYG,11,5,L
+1992,NYG,6,10,No
+1991,NYG,8,8,No
+1990,NYG,13,3,W
+1989,NYG,12,4,L
+1988,NYG,10,6,No
+1987,NYG,6,9,No
+1986,NYG,14,2,W
+1985,NYG,10,6,L
+1984,NYG,9,7,L
+1983,NYG,3,12,No
+1982,NYG,4,5,No
+1981,NYG,9,7,L
+1980,NYG,4,12,No
+1979,NYG,6,10,No
+1978,NYG,6,10,No
+1977,NYG,5,9,No
+1976,NYG,3,11,No
+1975,NYG,5,9,No
+1974,NYG,2,12,No
+1973,NYG,2,11,No
+1972,NYG,8,6,No
+1971,NYG,4,10,No
+1970,NYG,9,5,No
+1969,NYG,6,8,No
+1968,NYG,7,7,No
+1967,NYG,7,7,No
+1966,NYG,1,12,No
+1965,NYG,7,7,No
+1964,NYG,2,10,No
+""
+Year
+1963,NYG,11,3,L
+1962,NYG,12,2,L
+1961,NYG,10,3,L
+1960,NYG,6,4,No
+1959,NYG,10,2,L
+1958,NYG,9,3,L
+1957,NYG,7,5,No
+1956,NYG,8,3,W
+1955,NYG,6,5,No
+1954,NYG,7,5,No
+1953,NYG,3,9,No
+1952,NYG,7,5,No
+1951,NYG,9,2,No
+1950,NYG,10,2,L
+1949,NYG,6,6,No
+1948,NYG,4,8,No
+1947,NYG,2,8,No
+1946,NYG,7,3,L
+1945,NYG,3,6,No
+1944,NYG,8,1,L
+1943,NYG,6,3,L
+1942,NYG,5,5,No
+1941,NYG,8,3,L
+1940,NYG,6,4,No
+1939,NYG,9,1,L
+1938,NYG,8,2,W
+1937,NYG,6,3,No
+1936,NYG,5,6,No
+1935,NYG,9,3,L
+1934,NYG,8,5,W
+""
+Year
+1933,NYG,11,3,L
+1932,NYG,4,6,No
+1931,NYG,7,6,No
+1930,NYG,13,4,No
+1929,NYG,13,1,No
+1928,NYG,4,7,No
+1927,NYG,11,1,W
+1926,NYG,8,4,No
+1925,NYG,8,4,No
+""
+Year
+2023,NYJ,2,3,No
+2022,NYJ,7,10,No
+2021,NYJ,4,13,No
+2020,NYJ,2,14,No
+2019,NYJ,7,9,No
+2018,NYJ,4,12,No
+2017,NYJ,5,11,No
+2016,NYJ,5,11,No
+2015,NYJ,10,6,No
+2014,NYJ,4,12,No
+2013,NYJ,8,8,No
+2012,NYJ,6,10,No
+2011,NYJ,8,8,No
+2010,NYJ,11,5,L
+2009,NYJ,9,7,L
+2008,NYJ,9,7,No
+2007,NYJ,4,12,No
+2006,NYJ,10,6,L
+2005,NYJ,4,12,No
+2004,NYJ,10,6,L
+2003,NYJ,6,10,No
+2002,NYJ,9,7,L
+2001,NYJ,10,6,L
+2000,NYJ,9,7,No
+1999,NYJ,8,8,No
+1998,NYJ,12,4,L
+1997,NYJ,9,7,No
+1996,NYJ,1,15,No
+1995,NYJ,3,13,No
+1994,NYJ,6,10,No
+""
+Year
+1993,NYJ,8,8,No
+1992,NYJ,4,12,No
+1991,NYJ,8,8,L
+1990,NYJ,6,10,No
+1989,NYJ,4,12,No
+1988,NYJ,8,7,No
+1987,NYJ,6,9,No
+1986,NYJ,10,6,L
+1985,NYJ,11,5,L
+1984,NYJ,7,9,No
+1983,NYJ,7,9,No
+1982,NYJ,6,3,L
+1981,NYJ,10,5,L
+1980,NYJ,4,12,No
+1979,NYJ,8,8,No
+1978,NYJ,8,8,No
+1977,NYJ,3,11,No
+1976,NYJ,3,11,No
+1975,NYJ,3,11,No
+1974,NYJ,7,7,No
+1973,NYJ,4,10,No
+1972,NYJ,7,7,No
+1971,NYJ,6,8,No
+1970,NYJ,4,10,No
+1969,NYJ,10,4,L
+1968,NYJ,11,3,W
+1967,NYJ,8,5,No
+1966,NYJ,6,6,No
+1965,NYJ,5,8,No
+1964,NYJ,5,8,No
+""
+Year
+1963,NYJ,5,8,No
+1962,NYJ,5,9,No
+1961,NYJ,7,7,No
+1960,NYJ,7,7,No
+""
+Year
+2023,PHI,5,0,No
+2022,PHI,14,3,L
+2021,PHI,9,8,L
+2020,PHI,4,11,No
+2019,PHI,9,7,L
+2018,PHI,9,7,L
+2017,PHI,13,3,W
+2016,PHI,7,9,No
+2015,PHI,7,9,No
+2014,PHI,10,6,No
+2013,PHI,10,6,L
+2012,PHI,4,12,No
+2011,PHI,8,8,No
+2010,PHI,10,6,L
+2009,PHI,11,5,L
+2008,PHI,9,6,L
+2007,PHI,8,8,No
+2006,PHI,10,6,L
+2005,PHI,6,10,No
+2004,PHI,13,3,L
+2003,PHI,12,4,L
+2002,PHI,12,4,L
+2001,PHI,11,5,L
+2000,PHI,11,5,L
+1999,PHI,5,11,No
+1998,PHI,3,13,No
+1997,PHI,6,9,No
+1996,PHI,10,6,L
+1995,PHI,10,6,L
+1994,PHI,7,9,No
+""
+Year
+1993,PHI,8,8,No
+1992,PHI,11,5,L
+1991,PHI,10,6,No
+1990,PHI,10,6,L
+1989,PHI,11,5,L
+1988,PHI,10,6,L
+1987,PHI,7,8,No
+1986,PHI,5,10,No
+1985,PHI,7,9,No
+1984,PHI,6,9,No
+1983,PHI,5,11,No
+1982,PHI,3,6,No
+1981,PHI,10,6,L
+1980,PHI,12,4,L
+1979,PHI,11,5,L
+1978,PHI,9,7,L
+1977,PHI,5,9,No
+1976,PHI,4,10,No
+1975,PHI,4,10,No
+1974,PHI,7,7,No
+1973,PHI,5,8,No
+1972,PHI,2,11,No
+1971,PHI,6,7,No
+1970,PHI,3,10,No
+1969,PHI,4,9,No
+1968,PHI,2,12,No
+1967,PHI,6,7,No
+1966,PHI,9,5,No
+1965,PHI,5,9,No
+1964,PHI,6,8,No
+""
+Year
+1963,PHI,2,10,No
+1962,PHI,3,10,No
+1961,PHI,10,4,No
+1960,PHI,10,2,W
+1959,PHI,7,5,No
+1958,PHI,2,9,No
+1957,PHI,4,8,No
+1956,PHI,3,8,No
+1955,PHI,4,7,No
+1954,PHI,7,4,No
+1953,PHI,7,4,No
+1952,PHI,7,5,No
+1951,PHI,4,8,No
+1950,PHI,6,6,No
+1949,PHI,11,1,W
+1948,PHI,9,2,W
+1947,PHI,8,4,L
+1946,PHI,6,5,No
+1945,PHI,7,3,No
+1944,PHI,7,1,No
+1943,PHI,5,4,No
+1942,PHI,2,9,No
+1941,PHI,2,8,No
+1940,PHI,1,10,No
+1939,PHI,1,9,No
+1938,PHI,5,6,No
+1937,PHI,2,8,No
+1936,PHI,1,11,No
+1935,PHI,2,9,No
+1934,PHI,4,7,No
+""
+Year
+1933,PHI,3,5,No
+""
+Year
+2023,PIT,3,2,No
+2022,PIT,9,8,No
+2021,PIT,9,7,L
+2020,PIT,12,4,L
+2019,PIT,8,8,No
+2018,PIT,9,6,No
+2017,PIT,13,3,L
+2016,PIT,11,5,L
+2015,PIT,10,6,L
+2014,PIT,11,5,L
+2013,PIT,8,8,No
+2012,PIT,8,8,No
+2011,PIT,12,4,L
+2010,PIT,12,4,L
+2009,PIT,9,7,No
+2008,PIT,12,4,W
+2007,PIT,10,6,L
+2006,PIT,8,8,No
+2005,PIT,11,5,W
+2004,PIT,15,1,L
+2003,PIT,6,10,No
+2002,PIT,10,5,L
+2001,PIT,13,3,L
+2000,PIT,9,7,No
+1999,PIT,6,10,No
+1998,PIT,7,9,No
+1997,PIT,11,5,L
+1996,PIT,10,6,L
+1995,PIT,11,5,L
+1994,PIT,12,4,L
+""
+Year
+1993,PIT,9,7,L
+1992,PIT,11,5,L
+1991,PIT,7,9,No
+1990,PIT,9,7,No
+1989,PIT,9,7,L
+1988,PIT,5,11,No
+1987,PIT,8,7,No
+1986,PIT,6,10,No
+1985,PIT,7,9,No
+1984,PIT,9,7,L
+1983,PIT,10,6,L
+1982,PIT,6,3,L
+1981,PIT,8,8,No
+1980,PIT,9,7,No
+1979,PIT,12,4,W
+1978,PIT,14,2,W
+1977,PIT,9,5,L
+1976,PIT,10,4,L
+1975,PIT,12,2,W
+1974,PIT,10,3,W
+1973,PIT,10,4,L
+1972,PIT,11,3,L
+1971,PIT,6,8,No
+1970,PIT,5,9,No
+1969,PIT,1,13,No
+1968,PIT,2,11,No
+1967,PIT,4,9,No
+1966,PIT,5,8,No
+1965,PIT,2,12,No
+1964,PIT,5,9,No
+""
+Year
+1963,PIT,7,4,No
+1962,PIT,9,5,No
+1961,PIT,6,8,No
+1960,PIT,5,6,No
+1959,PIT,6,5,No
+1958,PIT,7,4,No
+1957,PIT,6,6,No
+1956,PIT,5,7,No
+1955,PIT,4,8,No
+1954,PIT,5,7,No
+1953,PIT,6,6,No
+1952,PIT,5,7,No
+1951,PIT,4,7,No
+1950,PIT,6,6,No
+1949,PIT,6,5,No
+1948,PIT,4,8,No
+1947,PIT,8,4,L
+1946,PIT,5,5,No
+1945,PIT,2,8,No
+1942,PIT,7,4,No
+1941,PIT,1,9,No
+1940,PIT,2,7,No
+1939,PIT,1,9,No
+1938,PIT,2,9,No
+1937,PIT,4,7,No
+1936,PIT,6,6,No
+1935,PIT,4,8,No
+1934,PIT,2,10,No
+1933,PIT,3,6,No
+""
+Year
+2023,SFO,5,0,No
+2022,SFO,13,4,L
+2021,SFO,10,7,L
+2020,SFO,6,10,No
+2019,SFO,13,3,L
+2018,SFO,4,12,No
+2017,SFO,6,10,No
+2016,SFO,2,14,No
+2015,SFO,5,11,No
+2014,SFO,8,8,No
+2013,SFO,12,4,L
+2012,SFO,11,4,L
+2011,SFO,13,3,L
+2010,SFO,6,10,No
+2009,SFO,8,8,No
+2008,SFO,7,9,No
+2007,SFO,5,11,No
+2006,SFO,7,9,No
+2005,SFO,4,12,No
+2004,SFO,2,14,No
+2003,SFO,7,9,No
+2002,SFO,10,6,L
+2001,SFO,12,4,L
+2000,SFO,6,10,No
+1999,SFO,4,12,No
+1998,SFO,12,4,L
+1997,SFO,13,3,L
+1996,SFO,12,4,L
+1995,SFO,11,5,L
+1994,SFO,13,3,W
+""
+Year
+1993,SFO,10,6,L
+1992,SFO,14,2,L
+1991,SFO,10,6,No
+1990,SFO,14,2,L
+1989,SFO,14,2,W
+1988,SFO,10,6,W
+1987,SFO,13,2,L
+1986,SFO,10,5,L
+1985,SFO,10,6,L
+1984,SFO,15,1,W
+1983,SFO,10,6,L
+1982,SFO,3,6,No
+1981,SFO,13,3,W
+1980,SFO,6,10,No
+1979,SFO,2,14,No
+1978,SFO,2,14,No
+1977,SFO,5,9,No
+1976,SFO,8,6,No
+1975,SFO,5,9,No
+1974,SFO,6,8,No
+1973,SFO,5,9,No
+1972,SFO,8,5,L
+1971,SFO,9,5,L
+1970,SFO,10,3,L
+1969,SFO,4,8,No
+1968,SFO,7,6,No
+1967,SFO,7,7,No
+1966,SFO,6,6,No
+1965,SFO,7,6,No
+1964,SFO,4,10,No
+""
+Year
+1963,SFO,2,12,No
+1962,SFO,6,8,No
+1961,SFO,7,6,No
+1960,SFO,7,5,No
+1959,SFO,7,5,No
+1958,SFO,6,6,No
+1957,SFO,8,4,L
+1956,SFO,5,6,No
+1955,SFO,4,8,No
+1954,SFO,7,4,No
+1953,SFO,9,3,No
+1952,SFO,7,5,No
+1951,SFO,7,4,No
+1950,SFO,3,9,No
+1949,SFO,9,3,L
+1948,SFO,12,2,No
+1947,SFO,8,4,No
+1946,SFO,9,5,No
+""
+Year
+2023,SEA,3,1,No
+2022,SEA,9,8,L
+2021,SEA,7,10,No
+2020,SEA,12,4,L
+2019,SEA,11,5,L
+2018,SEA,10,6,L
+2017,SEA,9,7,No
+2016,SEA,10,5,L
+2015,SEA,10,6,L
+2014,SEA,12,4,L
+2013,SEA,13,3,W
+2012,SEA,11,5,L
+2011,SEA,7,9,No
+2010,SEA,7,9,L
+2009,SEA,5,11,No
+2008,SEA,4,12,No
+2007,SEA,10,6,L
+2006,SEA,9,7,L
+2005,SEA,13,3,L
+2004,SEA,9,7,L
+2003,SEA,10,6,L
+2002,SEA,7,9,No
+2001,SEA,9,7,No
+2000,SEA,6,10,No
+1999,SEA,9,7,L
+1998,SEA,8,8,No
+1997,SEA,8,8,No
+1996,SEA,7,9,No
+1995,SEA,8,8,No
+1994,SEA,6,10,No
+""
+Year
+1993,SEA,6,10,No
+1992,SEA,2,14,No
+1991,SEA,7,9,No
+1990,SEA,9,7,No
+1989,SEA,7,9,No
+1988,SEA,9,7,L
+1987,SEA,9,6,L
+1986,SEA,10,6,No
+1985,SEA,8,8,No
+1984,SEA,12,4,L
+1983,SEA,9,7,L
+1982,SEA,4,5,No
+1981,SEA,6,10,No
+1980,SEA,4,12,No
+1979,SEA,9,7,No
+1978,SEA,9,7,No
+1977,SEA,5,9,No
+1976,SEA,2,12,No
+""
+Year
+2023,TAM,3,1,No
+2022,TAM,8,9,L
+2021,TAM,13,4,L
+2020,TAM,11,5,W
+2019,TAM,7,9,No
+2018,TAM,5,11,No
+2017,TAM,5,11,No
+2016,TAM,9,7,No
+2015,TAM,6,10,No
+2014,TAM,2,14,No
+2013,TAM,4,12,No
+2012,TAM,7,9,No
+2011,TAM,4,12,No
+2010,TAM,10,6,No
+2009,TAM,3,13,No
+2008,TAM,9,7,No
+2007,TAM,9,7,L
+2006,TAM,4,12,No
+2005,TAM,11,5,L
+2004,TAM,5,11,No
+2003,TAM,7,9,No
+2002,TAM,12,4,W
+2001,TAM,9,7,L
+2000,TAM,10,6,L
+1999,TAM,11,5,L
+1998,TAM,8,8,No
+1997,TAM,10,6,L
+1996,TAM,6,10,No
+1995,TAM,7,9,No
+1994,TAM,6,10,No
+""
+Year
+1993,TAM,5,11,No
+1992,TAM,5,11,No
+1991,TAM,3,13,No
+1990,TAM,6,10,No
+1989,TAM,5,11,No
+1988,TAM,5,11,No
+1987,TAM,4,11,No
+1986,TAM,2,14,No
+1985,TAM,2,14,No
+1984,TAM,6,10,No
+1983,TAM,2,14,No
+1982,TAM,5,4,L
+1981,TAM,9,7,L
+1980,TAM,5,10,No
+1979,TAM,10,6,L
+1978,TAM,5,11,No
+1977,TAM,2,12,No
+1976,TAM,0,14,No
+""
+Year
+2023,OTI,2,3,No
+2022,OTI,7,10,No
+2021,OTI,12,5,L
+2020,OTI,11,5,L
+2019,OTI,9,7,L
+2018,OTI,9,7,No
+2017,OTI,9,7,L
+2016,OTI,9,7,No
+2015,OTI,3,13,No
+2014,OTI,2,14,No
+2013,OTI,7,9,No
+2012,OTI,6,10,No
+2011,OTI,9,7,No
+2010,OTI,6,10,No
+2009,OTI,8,8,No
+2008,OTI,13,3,L
+2007,OTI,10,6,L
+2006,OTI,8,8,No
+2005,OTI,4,12,No
+2004,OTI,5,11,No
+2003,OTI,12,4,L
+2002,OTI,11,5,L
+2001,OTI,7,9,No
+2000,OTI,13,3,L
+1999,OTI,13,3,L
+1998,OTI,8,8,No
+1997,OTI,8,8,No
+1996,OTI,8,8,No
+1995,OTI,7,9,No
+1994,OTI,2,14,No
+""
+Year
+1993,OTI,12,4,L
+1992,OTI,10,6,L
+1991,OTI,11,5,L
+1990,OTI,9,7,L
+1989,OTI,9,7,L
+1988,OTI,10,6,L
+1987,OTI,9,6,L
+1986,OTI,5,11,No
+1985,OTI,5,11,No
+1984,OTI,3,13,No
+1983,OTI,2,14,No
+1982,OTI,1,8,No
+1981,OTI,7,9,No
+1980,OTI,11,5,L
+1979,OTI,11,5,L
+1978,OTI,10,6,L
+1977,OTI,8,6,No
+1976,OTI,5,9,No
+1975,OTI,10,4,No
+1974,OTI,7,7,No
+1973,OTI,1,13,No
+1972,OTI,1,13,No
+1971,OTI,4,9,No
+1970,OTI,3,10,No
+1969,OTI,6,6,L
+1968,OTI,7,7,No
+1967,OTI,9,4,L
+1966,OTI,3,11,No
+1965,OTI,4,10,No
+1964,OTI,4,10,No
+""
+Year
+1963,OTI,6,8,No
+1962,OTI,11,3,L
+1961,OTI,10,3,W
+1960,OTI,10,4,W
+""
+Year
+2023,WAS,2,3,No
+2022,WAS,8,8,No
+2021,WAS,7,10,No
+2020,WAS,7,9,L
+2019,WAS,3,13,No
+2018,WAS,7,9,No
+2017,WAS,7,9,No
+2016,WAS,8,7,No
+2015,WAS,9,7,L
+2014,WAS,4,12,No
+2013,WAS,3,13,No
+2012,WAS,10,6,L
+2011,WAS,5,11,No
+2010,WAS,6,10,No
+2009,WAS,4,12,No
+2008,WAS,8,8,No
+2007,WAS,9,7,L
+2006,WAS,5,11,No
+2005,WAS,10,6,L
+2004,WAS,6,10,No
+2003,WAS,5,11,No
+2002,WAS,7,9,No
+2001,WAS,8,8,No
+2000,WAS,8,8,No
+1999,WAS,10,6,L
+1998,WAS,6,10,No
+1997,WAS,8,7,No
+1996,WAS,9,7,No
+1995,WAS,6,10,No
+1994,WAS,3,13,No
+""
+Year
+1993,WAS,4,12,No
+1992,WAS,9,7,L
+1991,WAS,14,2,W
+1990,WAS,10,6,L
+1989,WAS,10,6,No
+1988,WAS,7,9,No
+1987,WAS,11,4,W
+1986,WAS,12,4,L
+1985,WAS,10,6,No
+1984,WAS,11,5,L
+1983,WAS,14,2,L
+1982,WAS,8,1,W
+1981,WAS,8,8,No
+1980,WAS,6,10,No
+1979,WAS,10,6,No
+1978,WAS,8,8,No
+1977,WAS,9,5,No
+1976,WAS,10,4,L
+1975,WAS,8,6,No
+1974,WAS,10,4,L
+1973,WAS,10,4,L
+1972,WAS,11,3,L
+1971,WAS,9,4,L
+1970,WAS,6,8,No
+1969,WAS,7,5,No
+1968,WAS,5,9,No
+1967,WAS,5,6,No
+1966,WAS,7,7,No
+1965,WAS,6,8,No
+1964,WAS,6,8,No
+""
+Year
+1963,WAS,3,11,No
+1962,WAS,5,7,No
+1961,WAS,1,12,No
+1960,WAS,1,9,No
+1959,WAS,3,9,No
+1958,WAS,4,7,No
+1957,WAS,5,6,No
+1956,WAS,6,6,No
+1955,WAS,8,4,No
+1954,WAS,3,9,No
+1953,WAS,6,5,No
+1952,WAS,4,8,No
+1951,WAS,5,7,No
+1950,WAS,3,9,No
+1949,WAS,4,7,No
+1948,WAS,7,5,No
+1947,WAS,4,8,No
+1946,WAS,5,5,No
+1945,WAS,8,2,L
+1944,WAS,6,3,No
+1943,WAS,6,3,L
+1942,WAS,10,1,W
+1941,WAS,6,5,No
+1940,WAS,9,2,L
+1939,WAS,8,2,No
+1938,WAS,6,3,No
+1937,WAS,8,3,W
+1936,WAS,7,5,L
+1935,WAS,2,8,No
+1934,WAS,6,6,No
+""
+Year
+1933,WAS,5,5,No
+1932,WAS,4,4,No
+

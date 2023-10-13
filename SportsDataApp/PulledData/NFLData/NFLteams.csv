@@ -1,7 +1,7 @@
 NFL
-ARI,Arizona Cardinals
+CRD,Arizona Cardinals
 ATL,Atlanta Falcons
-BAL,Baltimore Ravens
+RAV,Baltimore Ravens
 BUF,Buffalo Bills
 CAR,Carolina Panthers
 CHI,Chicago Bears
@@ -10,24 +10,25 @@ CLE,Cleveland Browns
 DAL,Dallas Cowboys
 DEN,Denver Broncos
 DET,Detroit Lions
-GB,Green Bay Packers
-HOU,Houston Texans
-IND,Indianapolis Colts
+GNB,Green Bay Packers
+HTX,Houston Texans
+CLT,Indianapolis Colts
 JAX,Jacksonville Jaguars
-KC,Kansas City Chiefs
-LV,Las Vegas Raiders
-LAC,Los Angeles Chargers
-LAR,Los Angeles Rams
+KAN,Kansas City Chiefs
+SDG,Los Angeles Chargers
+RAM,Los Angeles Rams
+RAI,Las Vegas Raiders
 MIA,Miami Dolphins
 MIN,Minnesota Vikings
-NE,New England Patriots
-NO,New Orleans Saints
+NWE,New England Patriots
+NOR,New Orleans Saints
 NYG,New York Giants
 NYJ,New York Jets
 PHI,Philadelphia Eagles
 PIT,Pittsburgh Steelers
-SF,San Francisco 49ers
+SFO,San Francisco 49ers
 SEA,Seattle Seahawks
-TB,Tampa Bay Buccaneers
-TEN,Tennessee Titans
+TAM,Tampa Bay Buccaneers
+OTI,Tennessee Titans
 WAS,Washington Football Team
+

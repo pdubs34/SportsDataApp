@@ -6,6 +6,40 @@ from concurrent.futures import ThreadPoolExecutor
 import signal
 import sys
 
+nfl_team_names = {
+    "CRD": "Arizona Cardinals",
+    "ATL": "Atlanta Falcons",
+    "RAV": "Baltimore Ravens",
+    "BUF": "Buffalo Bills",
+    "CAR": "Carolina Panthers",
+    "CHI": "Chicago Bears",
+    "CIN": "Cincinnati Bengals",
+    "CLE": "Cleveland Browns",
+    "DAL": "Dallas Cowboys",
+    "DEN": "Denver Broncos",
+    "DET": "Detroit Lions",
+    "GNB": "Green Bay Packers",
+    "HTX": "Houston Texans",
+    "CLT": "Indianapolis Colts",
+    "JAX": "Jacksonville Jaguars",
+    "KAN": "Kansas City Chiefs",
+    "SDG": "Los Angeles Chargers",
+    "RAM": "Los Angeles Rams",
+    "RAI": "Las Vegas Raiders",
+    "MIA": "Miami Dolphins",
+    "MIN": "Minnesota Vikings",
+    "NWE": "New England Patriots",
+    "NOR": "New Orleans Saints",
+    "NYG": "New York Giants",
+    "NYJ": "New York Jets",
+    "PHI": "Philadelphia Eagles",
+    "PIT": "Pittsburgh Steelers",
+    "SFO": "San Francisco 49ers",
+    "SEA": "Seattle Seahawks",
+    "TAM": "Tampa Bay Buccaneers",
+    "OTI": "Tennessee Titans",
+    "WAS": "Washington Football Team"
+}
 nfl_team_abbreviations = [
     "crd", "atl", "rav", "buf", "car", "chi", "cin", "cle", "dal", "den",
     "det", "gnb", "htx", "clt", "jax", "kan", "sdg", "ram", "rai", "mia",
@@ -30,7 +64,7 @@ for team in nfl_team_abbreviations:
                 td_elements = tr.find_all('td')
                 for td in td_elements:
                     if td["data-stat"] == "team":
-                        list.append(td.text)
+                        list.append(team.upper())
                     if td["data-stat"] == "wins":
                         list.append(td.text)
                     if td["data-stat"] == "losses":
@@ -56,11 +90,11 @@ with open(csv_file_path, mode='w', newline='') as file:
         writer.writerow(line)
     file.close()
 
-# csv_file_path = "NFLteams.csv"
-# with open(csv_file_path, mode='w', newline='') as file:
-#     writer = csv.writer(file)
-#     writer.writerow([str("NFL")])
-#     for team in nfl_team_abbreviations:
-#         list = (abbrev, team)
-#         writer.writerow(list)
-#     file.close()
+csv_file_path = "NFLteams.csv"
+with open(csv_file_path, mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow([str("NFL")])
+    for team in nfl_team_names:
+        list = (team, nfl_team_names[team])
+        writer.writerow(list)
+    file.close()

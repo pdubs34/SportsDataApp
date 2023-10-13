@@ -12,6 +12,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.VisualBasic.FileIO;
 using System.Security.Permissions;
+using CsvHelper;
 
 namespace SportsDataApp.Controllers
 {
@@ -138,6 +139,52 @@ namespace SportsDataApp.Controllers
             // Save changes to the database
             await _context.SaveChangesAsync();
             return RedirectToAction("Index", "Seasons");
+        }
+        public async Task<IActionResult> AddNFLSeasons()
+        {
+            var seasonsToAdd = new List<Season> { };
+            var path = @"./PulledData/NFLData/NFLSeasons.csv";
+            using (TextFieldParser csvParser = new TextFieldParser(path))
+            {
+                csvParser.SetDelimiters(new string[] { "," });
+
+                while (!csvParser.EndOfData)
+                {
+                    string[] fields = csvParser.ReadFields();
+                    if (fields.Length > 1)
+                    {
+                        int year = int.Parse(fields[0]);
+                        string Abbrev = fields[1];
+                        int wins = int.Parse(fields[2]);
+                        int losses = int.Parse(fields[3]);
+                        string outcome = fields[4];
+                        double winPercent = Convert.ToDouble(wins) / Convert.ToDouble(losses + wins);
+                        int? teamId = _context.Team
+                            .Where(team => team.Abbreviation == Abbrev)
+                            .Where(team => team.Sport.Name == "NFL")
+                            .Select(team => team.Id)
+                            .FirstOrDefault();
+                        if (teamId != null)
+                        {
+                            seasonsToAdd.Add(new Season
+                            {
+                                year = year,
+                                TeamId = teamId.Value,
+                                wins = wins,
+                                losses = losses
+                            ,
+                                outcome = outcome,
+                                winPercent = winPercent
+                            });
+                        }
+                    }
+
+                }
+
+                _context.AddRange(seasonsToAdd);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index", "Seasons");
+            }
         }
     }
 }
