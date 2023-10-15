@@ -10,6 +10,12 @@ a.navbar-brand {
 a {
   color: #0077cc;
 }
+h2.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+ }
+
 
 .btn-primary {
   color: #fff;
@@ -45,4 +51,39 @@ button.accept-policy {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.dropbtn {
+    background-color: #fff; /* Background color */
+    color: #333; /* Text color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+    display: none; /* Initially hide the dropdown content */
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Add a shadow */
+    z-index: 1;
+}
+
+    /* Style for the dropdown links */
+    .dropdown-content a {
+        color: #333;
+        padding: 10px 20px;
+        text-decoration: none;
+        display: block;
+    }
+
+        /* Hover effect for dropdown links */
+.dropdown-content a:hover {
+     background-color: #f2f2f2;
+}
+
+/* Show the dropdown content when the button is hovered */
+.dropdown:hover .dropdown-content {
+    display: block;
 }
