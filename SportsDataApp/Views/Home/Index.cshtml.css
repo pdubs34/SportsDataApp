@@ -1,0 +1,15 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.welcome-container{
+    height: 20%;
+    width: 20%;
+    border-radius : 20px;
+    border-color : black;
+    background-color: grey;
+}

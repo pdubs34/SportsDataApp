@@ -3,46 +3,34 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - SportsDataApp</title>
+    <title>@ViewData["Title"] - InvoiceApplication</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/SportsDataApp.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/_Layout.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/InvoiceApplication.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SportsDataApp</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <div class="dropdown">
-                                <a class="nav-link text-dark">Data</a>
-                                <div class="dropdown-content">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Sports" asp-action="Index">Sports</a>
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Teams" asp-action="Index">Teams</a>
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Seasons" asp-action="Index">Seasons</a>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <div class="dropdown">
-                                <a class="nav-link text-dark">Graphing data</a>
-                                <div class="dropdown-content">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="ChampionshipPredict" asp-action="Index">Championship Graphs</a>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="ToDo" asp-action="Index">To-Do</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+        <nav>
+            <ul class="navbar">
+                <li><a asp-area="" asp-action="Index" asp-controller="Home">Home</a></li>
+                <li class="dropdown">
+                    <a class="holder">Data</a>
+                    <div class="dropdown-content">
+                        <a asp-area= "" asp-action= "Index" asp-controller= "Sports">Sports</a>
+                        <a asp-area="" asp-action="Index" asp-controller="Teams">Teams</a>
+                        <a asp-area="" asp-action="Index" asp-controller="Seasons">Seasons</a>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a class= "holder">Graphs</a>
+                    <div class="dropdown-content">
+                        <a asp-area="" asp-action="Index" asp-controller="ChampionshipPredict">MLB Graphs</a>
+                        <a href="#">NFL Graphs</a>
+                        <a href="#">NBA Graphs</a>
+                    </div>
+                </li>
+                <li><a href="#">Contact</a></li>
+            </ul>
         </nav>
     </header>
     <div class="container">
@@ -50,12 +38,6 @@
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - SportsDataApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

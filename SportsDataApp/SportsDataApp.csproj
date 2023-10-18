@@ -23,4 +23,8 @@
     <Folder Include="PulledData\NBAData\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\_Layout.css" />
+  </ItemGroup>
+
 </Project>
