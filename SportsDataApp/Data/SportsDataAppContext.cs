@@ -19,5 +19,7 @@ namespace SportsDataApp.Data
         public DbSet<SportsDataApp.Models.Team>? Team { get; set; }
 
         public DbSet<SportsDataApp.Models.Sport>? Sport { get; set; }
+
+        public DbSet<SportsDataApp.Models.User>? User { get; set; }
     }
 }

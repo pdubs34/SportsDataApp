@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="body-container">
+        <div class="create-user-container">
+            <form asp-action="LoginUser">
+                <ul class="input-fields">
+                    <li>
+                        <div class="form-group">
+                            <input type="text" id="username" class="userInput" placeholder="Enter Username"/>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="form-group">
+                            <input type="password" id="password" class="userInput" placeholder="Enter Password" />
+                        </div>
+                    </li>
+                    <li>
+                        <button class="submit-button"> Submit </button>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,18 +1,60 @@
+/* Your existing CSS */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+.body-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+}
+
+.input-fields {
+    list-style-type: none;
+}
+
+.create-user-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: lightgrey;
+    margin-top: 10%;
+    border-radius: 10px;
+    box-shadow: 5px;
+    width: 50%;
+}
+
+.userInput {
+    margin-top: 10px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    padding: 5px;
+}
+
+.submit-button{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.submit-button:hover{
+    color: lightgrey;
 }
