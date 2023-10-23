@@ -53,6 +53,11 @@ namespace SportsDataApp.Controllers
         {
             return View();
         }
+
+        public IActionResult CreateUser()
+        {
+            return View();
+        }
         private bool UserExists(int id)
         {
             return (_context.User?.Any(e => e.Id == id)).GetValueOrDefault();
