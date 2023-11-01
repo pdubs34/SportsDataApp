@@ -13,65 +13,55 @@ html, body {
     }
 }
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+.login-container{
+    display: flex;
+    background-color: lightgrey;
+    height: 91vh;
+    justify-content: center;
+    align-items: center;
 }
-
-.body-container {
+.inner-box {
+    width: 40%;
+    height: 50%;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+    box-shadow: 10px;
+}
+.login-side-containers {
+    background-color: white;
+    width:50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    border-color: black;
+    border-width: 10px;
+    overflow: hidden;
 }
-
-.login-create-container {
+.create-side-containers {
+    background-color: lightgreen;
+    width: 50%;
     display: flex;
-    width: 600px;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
-
-.login-container {
-    padding: 20px;
-    text-align: center;
+.input-form{
+    margin-bottom: 10px;
 }
-
-.create-container {
-    padding: 20px;
-    background-color: #f4f4f4;
-    text-align: center;
+.user-input {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-color: black;
 }
-
-.form-group {
-    margin-bottom: 20px;
-}
-.userInput {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+.user-input:focus {
     outline: none;
-    padding-left: 10px;
+    border-bottom-color: #5232D6;
 }
-
-.submit-button {
-    background-color: #007BFF;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.nav-create-user {
-    background-color: #28A745;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+.submit-button{
+    margin-top: 10px;
 }

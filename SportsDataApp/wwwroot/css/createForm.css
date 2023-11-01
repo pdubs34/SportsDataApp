@@ -1,0 +1,23 @@
+﻿.content-container {
+    display: flex;
+    height: 91vh;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+}
+.create-user-form{
+    display: flex;
+    width: 60%;
+    height: 70%;
+    background-color: lightgrey;
+    flex-direction: column;
+    align-items: center;
+}
+.username-input {
+    align-self: flex-start;
+    margin-left: 5%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-color: black;
+}
