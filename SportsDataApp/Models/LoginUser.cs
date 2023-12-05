@@ -2,7 +2,7 @@
 
 namespace SportsDataApp.Models
 {
-    public class User
+    public class LoginUser
     {
         public int Id { get; set; }
 
@@ -21,7 +21,7 @@ namespace SportsDataApp.Models
         public string PhoneNumber { get; set; }
         public string EmailVerificationToken { get; set; }
         public string PasswordResetToken { get; set; }
-        public User() { 
+        public LoginUser() { 
             Name = string.Empty;
             Email = string.Empty;
             Password = string.Empty;
@@ -29,5 +29,15 @@ namespace SportsDataApp.Models
             EmailVerificationToken = string.Empty;
             PasswordResetToken = string.Empty;
         }
+        public LoginUser(string username, string password)
+        {
+            Name = username;
+            Email = string.Empty;
+            Password = password;
+            PhoneNumber = string.Empty;
+            EmailVerificationToken = string.Empty;
+            PasswordResetToken = string.Empty;
+        }
+
     }
 }

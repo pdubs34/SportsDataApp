@@ -29,7 +29,7 @@ html, body {
     align-items: stretch;
     justify-content: center;
     overflow: hidden;
-    box-shadow: 10px;
+    box-shadow: 20px blue;
 }
 .login-side-containers {
     background-color: white;
@@ -42,6 +42,7 @@ html, body {
     overflow: hidden;
 }
 .create-side-containers {
+    text-align: center;
     background-color: lightgreen;
     width: 50%;
     display: flex;

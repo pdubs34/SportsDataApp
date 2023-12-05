@@ -7,13 +7,13 @@
     <div class="login-container">
         <div class="inner-box">      
             <div class="login-side-containers">
-                <form asp-action="LoginUser">
+                <form method = "post" asp-action="LoginUser">
                     <h1>Log In</h1>
                     <div class="input-form">
-                        <input type="text" id="username" class="user-input" placeholder="Enter Username" />
+                        <input type="text" id="username" name="username" class="user-input" placeholder="Enter Username" />
                     </div>
                     <div class="input-form">
-                        <input type="password" id="password" class="user-input" placeholder="Enter Password" />
+                        <input type="password" id="password" name="password" class="user-input" placeholder="Enter Password" />
                     </div>
                     <button class="submit-button">Submit</button>
                 </form>
