@@ -1,0 +1,50 @@
+﻿
+.table-container {
+    display: flex;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 5vw;
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+    justify-content: center;
+    padding-top: 2.5vw;
+    margin-top: 4.5vw;
+    border-collapse: collapse;
+}
+
+.data-tables{
+    display: block;
+    height: 700px;
+    overflow:scroll;
+    border-spacing: 0px;
+}
+thead {
+    position: sticky;
+    top: 0;
+}
+th {
+    background-color: #fb8500;
+    color: white;
+    padding: 10px;
+}
+
+
+tr {
+    background-color: white;
+    text-align: center;
+}
+tr:nth-of-type(even) {
+    background-color: #eeeeee;
+}
+
+td {
+    justify-content: center;
+    border-right: 1px solid #000;
+}
+td:first-of-type, tr {
+    border-left: 1px solid #000;
+}
+tr:first-child, tbody {
+    border-top: 1px solid #000; /* Add a top border to the first tbody */
+}

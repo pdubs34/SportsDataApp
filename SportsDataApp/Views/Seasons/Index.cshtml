@@ -4,12 +4,14 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/data.css" asp-append-version="true" />
+</head>
+<body>
+    <div class = "table-container">
+    <table class="data-tables">
     <thead>
         <tr>
             <th>
@@ -34,7 +36,7 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+    @foreach (var item in Model) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.year)
@@ -62,4 +64,6 @@
         </tr>
 }
     </tbody>
-</table>
+    </table>
+    </div>
+</body>
